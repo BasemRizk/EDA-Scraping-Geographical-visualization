@@ -1,0 +1,2528 @@
+Code,Hotel Name,Roomnights,Sale,Cost,Date,Country
+CODE|87851,Best Western Premier Al Ahsa Grand Hotel & Suites,57,1140,1140,"01, 2019",Saudi Arabia
+CODE|87816,Best Western Premier Airporthotel Fontane Berlin,1935,50310,38700,"08, 2019",Germany
+CODE|87781,Best Western Premier Agung Resort Ubud,1897,37940,34146,"01, 2019",Indonesia
+CODE|87746,Best Western Posada Freeman,1294,38820,25880,"06, 2019",Mexico
+CODE|87711,Best Western Pony Soldier Inn & Suites,828,22356,13248,"12, 2019",USA
+CODE|87676,"BEST WESTERN PLUS, Doha",832,21632,14144,"12, 2019",Qatar
+CODE|87641,Best Western Plus Zanzibar,423,8460,8037,"11, 2019",Tanzania
+CODE|87606,Best Western Plus Winslow Inn,987,26649,19740,"02, 2019",USA
+CODE|87571,Best Western Plus Wine Country Inn & Suites,1857,38997,29712,"09, 2019",أمريكا
+CODE|87536,Best Western Plus Windsor Inn,1904,38080,38080,"07, 2019",USA
+CODE|87501,Best Western Plus White Bear Country Inn,1584,39600,23760,"03, 2019",USA
+CODE|87466,Best Western Plus Westlands,773,18552,11595,"07, 2019",Kenya
+CODE|87431,Best Western Plus West Covina Inn,507,11661,10140,"04, 2019",USA
+CODE|87396,Best Western Plus Welcome Hotel Frankfurt,1672,33440,31768,"09, 2019",Germany
+CODE|87361,Best Western Plus Waterloo,1962,58860,33354,"03, 2019",Canada
+CODE|87326,Best Western Plus Walkerton Hotel & Conference Centre,1242,36018,23598,"04, 2019",Not Found
+CODE|87291,Best Western Plus Villa Del Lago Inn,239,6931,3585,"05, 2019",USA
+CODE|87256,Best Western Plus Vauxhall Hotel,60,1680,900,"06, 2019",UK
+CODE|87221,Best Western Plus Urban Larco Hotel,1737,39951,26055,"02, 2019",Peru
+CODE|87186,Best Western Plus Universal Inn,1421,42630,28420,"11, 2019",USA
+CODE|87151,Best Western Plus Tucson Int'L Airport Hotel & Suites,1245,31125,24900,"03, 2019",USA
+CODE|87116,Best Western Plus Travel Hotel Toronto Airport,1140,34200,21660,"05, 2019",Not Found
+CODE|87081,Best Western Plus Toronto North York Hotel & Suites,1854,46350,33372,"09, 2019",Canada
+CODE|87046,Best Western Plus Toronto Airport Hotel,698,16752,13960,"06, 2019",Canada
+CODE|87011,BEST WESTERN PLUS The Tudor-Box Hill,1607,41782,25712,"01, 2019",Australia
+CODE|86976,Best Western Plus The Quays Hotel Sheffield,1028,30840,16448,"04, 2019",UK
+CODE|86941,Best Western Plus The Olive,1471,38246,27949,"06, 2019",Bahrain
+CODE|86906,Best Western Plus The Inn At Sharon/Foxboro,410,11070,6970,"07, 2019",USA
+CODE|86871,Best Western Plus The Inn At King Of Prussia,912,19152,18240,"02, 2019",USA
+CODE|86836,Best Western Plus The Arden Park Hotel,249,7470,3984,"05, 2019",Canada
+CODE|86801,Best Western Plus Technology Park Inn & Suites,629,18870,10064,"11, 2019",USA
+CODE|86766,Best Western Plus Suites Hotel,1302,26040,19530,"09, 2019",USA
+CODE|86766,Best Western Plus Suites Hotel,1302,26040,19530,"09, 2019",USA
+CODE|86766,Best Western Plus Suites Hotel,1302,26040,19530,"09, 2019",USA
+CODE|86766,Best Western Plus Suites Hotel,1302,26040,19530,"09, 2019",USA
+CODE|86731,Best Western Plus Suitcase Paris La Défense,1900,45600,30400,"05, 2019",France
+CODE|86731,Best Western Plus Suitcase Paris La Défense,1900,45600,30400,"05, 2019",France
+CODE|86731,Best Western Plus Suitcase Paris La Défense,1900,45600,30400,"05, 2019",France
+CODE|86731,Best Western Plus Suitcase Paris La Défense,1900,45600,30400,"05, 2019",France
+CODE|86696,Best Western Plus Stovall's Inn,1313,38077,23634,"02, 2019",USA
+CODE|86696,Best Western Plus Stovall's Inn,1313,38077,23634,"02, 2019",USA
+CODE|86696,Best Western Plus Stovall's Inn,1313,38077,23634,"02, 2019",USA
+CODE|86696,Best Western Plus Stovall's Inn,1313,38077,23634,"02, 2019",USA
+CODE|86661,Best Western Plus Stoneridge Inn & Conference Centre,1713,44538,27408,"08, 2019",كندا
+CODE|86626,Best Western Plus Sthlm Bromma,117,3159,2223,"08, 2019",Sweden
+CODE|86591,Best Western Plus St. Rose Pkwy/Las Vegas South Hotel,571,12562,11420,"09, 2019",USA
+CODE|86556,Best Western Plus St. Christopher Hotel,301,6321,5418,"07, 2019",USA
+CODE|86521,Best Western Plus Spirit Mountain Duluth,1319,34294,21104,"01, 2019",USA
+CODE|86486,Best Western Plus Soho Hotel,1549,34078,23235,"07, 2019",USA
+CODE|86451,Best Western Plus Scottsdale Thunderbird Suites,414,8280,7452,"11, 2019",USA
+CODE|86416,Best Western Plus Sands,850,24650,15300,"06, 2019",Canada
+CODE|86381,Best Western Plus San Pedro Hotel & Suites,404,8080,8080,"12, 2019",Not Found
+CODE|86346,BEST WESTERN PLUS Salmiya,1037,31110,18666,"04, 2019",Kuwait
+CODE|86311,Best Western PLUS Roswell/Alpharetta,791,22148,12656,"07, 2019",USA
+CODE|86276,Best Western Plus Rose City Suites,628,18840,10676,"04, 2019",Canada
+CODE|86241,Best Western Plus Rockwall Inn & Suites,87,2436,1479,"06, 2019",USA
+CODE|86206,Best Western Plus Robert Treat Hotel,159,4134,3021,"11, 2019",USA
+CODE|86171,Best Western Plus Raffles Inn & Suites,653,18937,9795,"04, 2019",USA
+CODE|86136,Best Western Plus Puebla,1044,22968,16704,"09, 2019",Mexico
+CODE|86101,Best Western Plus Provo University Inn,893,26790,14288,"03, 2019",USA
+CODE|86066,Best Western Plus Premium Inn,1360,36720,25840,"01, 2019",Bulgaria
+CODE|86031,Best Western Plus Plaza Den Haag City Center,1262,27764,20192,"11, 2019",Netherlands
+CODE|85996,Best Western Plus Placerville Inn,1329,34554,25251,"08, 2019",USA
+CODE|85961,Best Western Plus Peterborough Orton Hall Hotel & Spa,99,2178,1782,"10, 2019",UK
+CODE|85926,Best Western Plus Perth Parkside Inn & Spa,581,17430,11620,"01, 2019",Canada
+CODE|85891,Best Western Plus Pepper Tree Inn,120,3000,1800,"12, 2019",USA
+CODE|85856,Best Western Plus Pearl Creek,1857,48282,35283,"10, 2019",UAE
+CODE|85821,Best Western Plus Pavilions,1964,45172,33388,"07, 2019",USA
+CODE|85786,Best Western Plus Park Place Inn - Mini Suites,133,3325,1995,"08, 2019",USA
+CODE|85751,BEST WESTERN PLUS Park Hotel Brussels,743,20061,14117,"08, 2019",Belgium
+CODE|85716,Best Western Plus Paris Velizy,1003,20060,20060,"11, 2019",France
+CODE|85681,Best Western Plus Paris Saclay,1200,25200,19200,"03, 2019",فرنسا
+CODE|85646,Best Western Plus Paris Roissy,1057,22197,20083,"12, 2019",France
+CODE|85611,BEST WESTERN PLUS Paris Orly Airport,641,16025,12820,"05, 2019",France
+CODE|85576,Best Western Plus Paradise Hotel Dilijan,664,18592,12616,"07, 2019",Armenia
+CODE|85541,"Best Western Plus Panama City Hotel, Panama City",890,18690,14240,"03, 2019",USA
+CODE|85506,Best Western Plus Ottawa Kanata Hotel & Conference Centre,167,4342,3173,"03, 2019",Canada
+CODE|85471,Best Western Plus Ottawa Downtown Suites,1808,48816,28928,"06, 2019",Canada
+CODE|85436,Best Western Plus Ottawa City Centre,859,24052,16321,"07, 2019",Canada
+CODE|85401,Best Western Plus Otonabee Inn,274,6302,5206,"02, 2019",Canada
+CODE|85366,Best Western Plus Otay Valley Hotel,349,8027,5235,"11, 2019",USA
+CODE|85331,Best Western Plus Oslo Airport,872,24416,13952,"03, 2019",Norway
+CODE|85296,Best Western Plus Orangeville Inn & Suites,1951,54628,29265,"04, 2019",Canada
+CODE|85261,Best Western Plus Orange County Airport North,1035,20700,18630,"02, 2019",USA
+CODE|85226,Best Western Plus Oceanside Inn,170,4590,3400,"09, 2019",USA
+CODE|85191,Best Western Plus Nottingham City Centre,304,8816,5168,"01, 2019",UK
+CODE|85156,Best Western Plus Norwester Hotel & Conference Centre,229,5267,4580,"04, 2019",كندا
+CODE|85121,Best Western Plus North Las Vegas Inn & Suites,685,15755,12330,"05, 2019",USA
+CODE|85086,Best Western Plus Nobila Airport Hotel,1363,29986,21808,"03, 2019",Benin
+CODE|85051,Best Western Plus Nice Cosy Hotel,1300,32500,24700,"02, 2019",France
+CODE|85016,Best Western Plus Newark Airport West,1951,46824,37069,"05, 2019",USA
+CODE|84981,Best Western Plus New Orleans Airport Hotel,389,9336,5835,"11, 2019",USA
+CODE|84946,Best Western Plus Net Tower Hotel Padova,81,1701,1458,"10, 2019",Italy
+CODE|84911,Best Western Plus Muskoka Inn,541,16230,10820,"07, 2019",Canada
+CODE|84876,Best Western Plus Montreal Downtown-Hotel Europa,297,8316,5940,"01, 2019",Canada
+CODE|84841,Best Western Plus Milwaukee Airport Hotel & Conference Ctr.,1578,39450,23670,"06, 2019",USA
+CODE|84806,Best Western Plus Milton,922,26738,15674,"01, 2019",Canada
+CODE|84771,"Best Western Plus Meridian Inn & Suites, Anaheim-Orange",1407,37989,22512,"12, 2019",USA
+CODE|84736,BEST WESTERN Plus Meridian Hotel,1483,32626,23728,"08, 2019",Kenya
+CODE|84701,Best Western Plus Mariposa Inn & Conference Centre,1704,51120,28968,"12, 2019",Canada
+CODE|84666,Best Western Plus Marina Star Hotel Lindau,251,5522,5020,"05, 2019",Germany
+CODE|84631,Best Western Plus Marina Gateway Hotel,1576,45704,28368,"03, 2019",USA
+CODE|84596,BEST WESTERN PLUS Maple Leaf,544,14144,9792,"06, 2019",Bangladesh
+CODE|84561,Best Western Plus Mahboula,932,26096,18640,"11, 2019",Kuwait
+CODE|84526,BEST WESTERN PLUS Lusaka Grand Hotel,80,1760,1520,"10, 2019",Zambia
+CODE|84491,Best Western Plus London Wembley Hotel,341,9548,5797,"01, 2019",UK
+CODE|84456,Best Western Plus Lockport Hotel,1550,31000,24800,"10, 2019",USA
+CODE|84421,Best Western Plus Lido Hotel,1758,36918,28128,"08, 2019",Romania
+CODE|84386,Best Western Plus Lex Cebu,305,6100,4880,"06, 2019",Philippines
+CODE|84351,BEST WESTERN PLUS Leone di Messapia Lecce,1892,56760,37840,"03, 2019",Italia
+CODE|84316,Best Western Plus Leamington Hotel & Conference Centre,1124,26976,17984,"03, 2019",Canada
+CODE|84281,Best Western Plus Las Vegas West,496,11408,7936,"12, 2019",USA
+CODE|84246,Best Western Plus Larco Hotel,851,19573,13616,"02, 2019",Cyprus
+CODE|84211,Best Western Plus Lamplighter Inn & Conference Centre,617,14808,11106,"05, 2019",Canada
+CODE|84176,Best Western Plus LA Mid-Town Hotel,542,16260,9214,"09, 2019",USA
+CODE|84141,Best Western Plus La Demeure,1498,40446,22470,"07, 2019",France
+CODE|84106,Best Western Plus Kissimmee-Lake Buena Vista South Inn & Suites,849,22074,12735,"04, 2019",USA
+CODE|84071,BEST WESTERN PLUS Khan Hotel,134,2680,2680,"08, 2019",Turkey
+CODE|84036,Best Western Plus Kemayoran Hotel,1849,48074,27735,"09, 2019",إندونيسيا
+CODE|84001,Best Western Plus John Bauer Hotel,1263,36627,22734,"07, 2019",Sweden
+CODE|83966,Best Western Plus Island Palms Hotel & Marina,4,84,76,"04, 2019",USA
+CODE|83931,Best Western Plus Inn Of Hayward,1868,48568,29888,"05, 2019",USA
+CODE|83896,Best Western Plus Hotel Universo,1299,36372,23382,"11, 2019",Italy
+CODE|83861,BEST WESTERN PLUS Hotel Stellar,1489,29780,28291,"01, 2019",Australia
+CODE|83826,BEST WESTERN PLUS Hotel Steinsgarten,1058,26450,17986,"10, 2019",Not Found
+CODE|83791,BEST WESTERN PLUS Hotel Steglitz International,1454,43620,21810,"02, 2019",Germany
+CODE|83756,Best Western Plus Hotel Spring House,410,9430,6560,"11, 2019",Italy
+CODE|83721,"Best Western Plus Hotel Plaza, Vasteras",1421,36946,28420,"12, 2019",Sweden
+CODE|83686,Best Western Plus Hotel Plaza,1646,34566,32920,"09, 2019",Greece
+CODE|83651,BEST WESTERN PLUS Hotel Piramida,448,12096,8512,"03, 2019",Slovenia
+CODE|83616,Best Western Plus Hotel Noble House,762,22098,13716,"02, 2019",Sweden
+CODE|83581,Best Western Plus Hôtel Monopole Métropole,1622,34062,29196,"04, 2019",France
+CODE|83546,BEST WESTERN PLUS Hotel Mirabeau Lausanne,549,16470,10431,"09, 2019",Switzerland
+CODE|83511,Best Western Plus Hotel Konak,1142,28550,18272,"08, 2019",Turkey
+CODE|83476,Best Western Plus Hotel Haarhuis,1724,37928,31032,"01, 2019",Netherlands
+CODE|83441,Best Western Plus Hotel Genova,981,24525,14715,"09, 2019",Italy
+CODE|83406,BEST WESTERN PLUS Hotel Galles,292,7300,4964,"01, 2019",Italy
+CODE|83371,Best Western Plus Hotel Galileo Padova,384,8448,5760,"03, 2019",Italy
+CODE|83336,BEST WESTERN PLUS Hotel Erb,1410,35250,25380,"01, 2019",Germany
+CODE|83301,Best Western Plus Hotel Diana,11,275,176,"03, 2019",Australia
+CODE|83266,Best Western Plus Hotel De Capuleti,1137,25014,21603,"12, 2019",Italy
+CODE|83231,Best Western Plus Hotel Business Faltom,372,10416,6324,"03, 2019",Not Found
+CODE|83196,BEST WESTERN PLUS Hotel Böttcherhof,1068,26700,16020,"05, 2019",Germany
+CODE|83161,Best Western Plus Hotel Bern,894,25926,17880,"03, 2019",Switzerland
+CODE|83126,BEST WESTERN PLUS Hotel Bahnhof,913,22825,14608,"02, 2019",Switzerland
+CODE|83091,BEST WESTERN PLUS Hotel Arcadia,1853,51884,35207,"02, 2019",Austria
+CODE|83056,Best Western Plus Hotel Amstelveen,1200,32400,22800,"02, 2019",هولندا
+CODE|83021,Best Western Plus Hotel Ambra,354,7434,7080,"11, 2019",Hungary
+CODE|82986,Best Western Plus Hotel Alfa Aeropuerto,432,10800,6480,"04, 2019",Spain
+CODE|82951,Best Western Plus Hospitality House,90,1980,1800,"03, 2019",USA
+CODE|82916,Best Western Plus Hill House,185,5180,3515,"01, 2019",USA
+CODE|82881,Best Western Plus Heritage Inn Rancho Cucamonga/Ontario,1270,25400,20320,"06, 2019",USA
+CODE|82846,Best Western Plus Henderson Hotel,730,19710,10950,"04, 2019",USA
+CODE|82811,Best Western Plus Hawthorne Terrace Hotel,526,13676,7890,"07, 2019",USA
+CODE|82776,Best Western Plus Hacienda Hotel Old Town,219,6132,3504,"12, 2019",USA
+CODE|82741,Best Western Plus Grosvenor Airport Hotel,469,10787,8911,"01, 2019",USA
+CODE|82706,Best Western Plus Grand Hotel Victor Hugo,1313,38077,23634,"12, 2019",لوكسمبورغ
+CODE|82671,Best Western Plus Glendale,168,5040,2856,"07, 2019",USA
+CODE|82636,BEST WESTERN PLUS Garden City Hotel,1087,32610,21740,"07, 2019",Australia
+CODE|82601,Best Western Plus Fursan,1332,35964,22644,"06, 2019",Saudi Arabia
+CODE|82566,Best Western Plus Fresno Inn,1039,21819,16624,"01, 2019",USA
+CODE|82531,Best Western Plus Fresno Airport Hotel,938,22512,16884,"10, 2019",USA
+CODE|82496,Best Western Plus French Quarter Landmark Hotel,1140,33060,18240,"10, 2019",USA
+CODE|82461,Best Western Plus Fort Wayne Inn & Suites North,1762,52860,28192,"11, 2019",USA
+CODE|82426,Best Western Plus Fergus Hotel,819,18018,13923,"08, 2019",Canada
+CODE|82391,Best Western Plus Fairfield Executive Inn,837,24273,14229,"03, 2019",USA
+CODE|82356,Best Western Plus Expocenter Hotel,1145,33205,19465,"12, 2019",Not Found
+CODE|82321,Best Western Plus Executive Residency Happy Valley/North Phoenix,401,12030,6817,"03, 2019",USA
+CODE|82286,Best Western Plus Executive Inn,497,12425,7952,"02, 2019",USA
+CODE|82251,BEST WESTERN PLUS Executive Hotel and Suites,793,18239,15067,"02, 2019",Italy
+CODE|82251,BEST WESTERN PLUS Executive Hotel and Suites,793,18239,15067,"02, 2019",Italy
+CODE|82251,BEST WESTERN PLUS Executive Hotel and Suites,793,18239,15067,"02, 2019",Italy
+CODE|82251,BEST WESTERN PLUS Executive Hotel and Suites,793,18239,15067,"02, 2019",Italy
+CODE|82216,Best Western Plus Executive Court Inn & Conference Center,435,9570,8700,"05, 2019",USA
+CODE|82216,Best Western Plus Executive Court Inn & Conference Center,435,9570,8700,"05, 2019",USA
+CODE|82216,Best Western Plus Executive Court Inn & Conference Center,435,9570,8700,"05, 2019",USA
+CODE|82216,Best Western Plus Executive Court Inn & Conference Center,435,9570,8700,"05, 2019",USA
+CODE|82181,BEST WESTERN PLUS Excelsior Chamonix Hôtel&Spa,1514,43906,27252,"02, 2019",فرنسا
+CODE|82146,Best Western Plus Encina Inn & Suites,812,17864,12992,"05, 2019",USA
+CODE|82111,Best Western Plus Embassy Hotel,713,18538,12834,"01, 2019",Greece
+CODE|82076,Best Western Plus El Rancho Inn,300,6300,6000,"07, 2019",USA
+CODE|82041,Best Western Plus Durham Hotel & Conference Centre,624,17472,9984,"04, 2019",Canada
+CODE|82006,Best Western Plus Dryden Hotel & Conference Centre,273,5460,4914,"07, 2019",Canada
+CODE|81971,Best Western Plus Dfw Airport Suites,859,17180,13744,"07, 2019",USA
+CODE|81936,Best Western Plus Dallas Love Field North Hotel,736,18400,11776,"04, 2019",USA
+CODE|81901,Best Western Plus Crossroads Inn & Suites,1847,48022,27705,"02, 2019",أمريكا
+CODE|81866,Best Western Plus Couchiching Inn,171,4959,3249,"02, 2019",Canada
+CODE|81831,Best Western Plus Congress Hotel,789,20514,11835,"01, 2019",Armenia
+CODE|81796,Best Western Plus Commerce Hotel,1900,45600,34200,"12, 2019",USA
+CODE|81761,Best Western Plus Cobourg Inn & Convention Centre,1857,55710,29712,"05, 2019",Not Found
+CODE|81726,Best Western Plus City Hotel,34,782,680,"09, 2019",Italy
+CODE|81691,Best Western Plus CHC Florence,48,1248,912,"03, 2019",Italy
+CODE|81656,Best Western Plus Chateau Granville Hotel & Suites & Conference Ctr.,1950,46800,39000,"02, 2019",Canada
+CODE|81621,Best Western Plus Chandler Hotel & Suites,928,24128,14848,"06, 2019",USA
+CODE|81586,Best Western Plus Centre Hotel,470,13630,9400,"05, 2019",Turkey
+CODE|81551,Best Western Plus Celebrity Suites,1709,35889,34180,"12, 2019",Austria
+CODE|81516,Best Western Plus Casino Royale – Center Strip,637,13377,10829,"11, 2019",USA
+CODE|81481,Best Western Plus Camperdown Suites,1106,27650,16590,"07, 2019",Australia
+CODE|81446,Best Western Plus Cambridge Hotel,175,4025,3500,"01, 2019",Canada
+CODE|81411,Best Western Plus Calgary Centre Inn,1009,30270,17153,"10, 2019",Canada
+CODE|81376,Best Western Plus Burlington Inn & Suites,1307,32675,22219,"02, 2019",Canada
+CODE|81341,Best Western Plus Buraidah,1278,37062,19170,"06, 2019",السعودية
+CODE|81306,Best Western Plus Buckingham International,1469,44070,27911,"02, 2019",Australia
+CODE|81271,BEST WESTERN PLUS Bruntsfield Hotel,766,21448,13022,"03, 2019",UK
+CODE|81236,Best Western Plus Brunswick Inn & Suites,338,10140,6422,"02, 2019",USA
+CODE|81201,Best Western Plus Brookside Inn,1095,31755,17520,"11, 2019",USA
+CODE|81166,Best Western Plus Bristol Hotel,184,3864,3312,"12, 2019",Bulgaria
+CODE|81131,Best Western Plus Bowmanville,1009,24216,19171,"06, 2019",Canada
+CODE|81096,Best Western Plus Boston Hotel,1107,32103,19926,"09, 2019",USA
+CODE|81061,Best Western Plus Bayside Inn,314,6908,6280,"12, 2019",USA
+CODE|81026,Best Western Plus Barrie,1081,24863,16215,"12, 2019",Canada
+CODE|80991,Best Western Plus Barclay Hotel,1226,25746,19616,"07, 2019",Canada
+CODE|80956,Best Western Plus Austin City Hotel,932,22368,18640,"04, 2019",USA
+CODE|80921,Best Western Plus Austin Central,1178,24738,20026,"05, 2019",USA
+CODE|80886,Best Western Plus Atlantic Beach Resort,1471,36775,27949,"08, 2019",USA
+CODE|80851,Best Western Plus At Lake Powell,614,17192,9210,"03, 2019",USA
+CODE|80816,Best Western Plus Arroyo Roble Hotel & Creekside Villas,1609,35398,25744,"07, 2019",USA
+CODE|80781,Best Western Plus Anaheim Inn,265,5830,4770,"02, 2019",USA
+CODE|80746,Best Western Plus Americania,120,3000,2040,"02, 2019",Not Found
+CODE|80711,Best Western Plus Amedia Wien,110,2310,1760,"06, 2019",النمسا
+CODE|80676,Best Western Plus Amedia Hotel,559,13975,9503,"12, 2019",النمسا
+CODE|80641,BEST WESTERN PLUS Amedia Art Salzburg,1095,22995,19710,"02, 2019",Austria
+CODE|80606,Best Western Plus Amazon Hotel,394,8668,7486,"11, 2019",Greece
+CODE|80571,Best Western Plus Al Qurayyat City Center,570,15960,10260,"03, 2019",Saudi Arabia
+CODE|80536,Best Western Plus Airport Plaza,1626,47154,24390,"08, 2019",USA
+CODE|80501,Best Western Plus Airport Hotel Copenhagen,636,12720,12720,"06, 2019",Not Found
+CODE|80466,Best Western Plus Aalener Römerhotel,331,7282,6620,"09, 2019",Germany
+CODE|80431,Best Western Plus A Wayfarer's Inn And Suites,748,16456,12716,"10, 2019",USA
+CODE|80396,Best Western Plus 93 Park Hotel,1346,33650,21536,"11, 2019",Colombia
+CODE|80361,Best Western Plus 61 Paris Nation Hotel,1547,35581,29393,"06, 2019",France
+CODE|80326,BEST WESTERN PLUS @20 Sukhumvit,139,2919,2224,"02, 2019",Thailand
+CODE|80291,Best Western Plaza Hotel Grevenbroich,1669,38387,30042,"07, 2019",Germany
+CODE|80256,Best Western Pine Tree Motel,100,2500,1900,"02, 2019",Not Found
+CODE|80221,BEST WESTERN Phuket Ocean Resort,1372,39788,26068,"10, 2019",Thailand
+CODE|80186,Best Western Pembroke Inn & Conference Centre,1948,56492,31168,"10, 2019",Canada
+CODE|80151,Best Western Pasadena Royale Inn & Suites,1705,34100,32395,"06, 2019",USA
+CODE|80116,Best Western Parkway Inn & Conference Centre,905,24435,16290,"06, 2019",Canada
+CODE|80081,Best Western Parkway Hotel Toronto North,1224,28152,18360,"09, 2019",Canada
+CODE|80046,Best Western Park Hotel,1010,30300,19190,"11, 2019",Italy
+CODE|80011,Best Western Park Airport Hotel,886,21264,17720,"12, 2019",Sweden
+CODE|79976,Best Western Paris Saint-Quentin,1576,44128,23640,"02, 2019",France
+CODE|79941,BEST WESTERN Paris Porte de Versailles,1108,23268,17728,"03, 2019",France
+CODE|79906,Best Western Paris Meudon Ermitage,299,6578,5382,"04, 2019",France
+CODE|79871,Best Western Paris Italie,1037,20740,15555,"08, 2019",France
+CODE|79836,Best Western Paramus Hotel & Suites,1797,39534,30549,"04, 2019",USA
+CODE|79801,Best Western Palm Hotel,221,5304,3978,"10, 2019",Not Found
+CODE|79766,Best Western Palm Garden Inn,326,6846,6194,"01, 2019",USA
+CODE|79731,Best Western Paint Pony Lodge,1904,51408,34272,"09, 2019",Not Found
+CODE|79696,Best Western Oxford Suites Makati,499,9980,7984,"12, 2019",Philippines
+CODE|79661,Best Western Orlando West,1505,36120,25585,"03, 2019",USA
+CODE|79626,Best Western Orlando Gateway Hotel,396,10296,7920,"11, 2019",USA
+CODE|79591,BEST WESTERN Opéra Batignolles,766,19150,15320,"07, 2019",France
+CODE|79556,Best Western Nouvel Orléans Montparnasse,1549,40274,30980,"02, 2019",France
+CODE|79521,Best Western Norwalk Inn,1426,41354,28520,"07, 2019",USA
+CODE|79486,Best Western Northwest Inn,595,14875,10710,"08, 2019",USA
+CODE|79451,Best Western Northfields Ealing Hotel,1410,29610,26790,"05, 2019",UK
+CODE|79416,Best Western Northbridge Apartments,776,19400,14744,"06, 2019",Not Found
+CODE|79381,Best Western North Phoenix Hotel,650,16900,11700,"06, 2019",USA
+CODE|79346,Best Western North Bay Hotel & Conference Centre,732,21960,10980,"09, 2019",Canada
+CODE|79311,Best Western North Attleboro / Providence Beltway,1835,42205,36700,"02, 2019",USA
+CODE|79276,BEST WESTERN Nordic Hotel Ambiente,1158,33582,19686,"11, 2019",Germany
+CODE|79241,Best Western Niceville - Eglin AFB Hotel,1762,45812,28192,"03, 2019",USA
+CODE|79206,Best Western Naples Inn & Suites,665,16625,13300,"07, 2019",USA
+CODE|79171,Best Western Museumhotels Delft,574,13776,11480,"08, 2019",Netherlands
+CODE|79136,Best Western M-Treize Paris Asnieres,163,3586,2934,"01, 2019",فرنسا
+CODE|79101,BEST WESTERN Mornington Hotel,498,13944,7470,"10, 2019",UK
+CODE|79066,Best Western Moreno Hotel & Suites,1560,34320,23400,"03, 2019",USA
+CODE|79031,Best Western Montecristo,1399,33576,27980,"01, 2019",France
+CODE|78996,Best Western Mission Bay,45,1080,675,"12, 2019",USA
+CODE|78961,BEST WESTERN Mirage Hotel Fiera,366,10980,7320,"02, 2019",Italy
+CODE|78926,Best Western Miner's Inn,813,23577,16260,"10, 2019",USA
+CODE|78891,Best Western Mill River Manor,1832,53128,32976,"04, 2019",USA
+CODE|78856,Best Western Mercedes Arc de triomphe,282,6486,5358,"02, 2019",France
+CODE|78821,Best Western Mccarran Inn,291,8439,5529,"11, 2019",USA
+CODE|78786,Best Western Market Center,1402,42060,25236,"10, 2019",USA
+CODE|78751,Best Western Marina del Rey,64,1920,1024,"07, 2019",Chile
+CODE|78716,Best Western Mangga Dua Hotel and Residence,328,7216,5904,"03, 2019",Indonesia
+CODE|78681,Best Western Mahoneys Motor Inn,401,8020,6416,"10, 2019",Australia
+CODE|78646,Best Western Macrander Hotel Frankfurt/Kaiserlei,1626,48780,26016,"06, 2019",Germany
+CODE|78611,BEST WESTERN Macrander Hotel Dresden,452,11752,8136,"10, 2019",Germany
+CODE|78576,Best Western Luxury Inn,703,16169,10545,"06, 2019",USA
+CODE|78541,Best Western Luna Del Mar,733,20524,10995,"02, 2019",Mexico
+CODE|78506,Best Western Louisville East,884,23868,16796,"10, 2019",USA
+CODE|78471,Best Western Los Angeles Worldport Hotel,932,27960,14912,"05, 2019",USA
+CODE|78436,BEST WESTERN London Peckham Hotel,409,11043,6135,"06, 2019",UK
+CODE|78401,Best Western London Highbury,1844,47944,31348,"09, 2019",UK
+CODE|78366,Best Western London Heathrow Ariel Hotel,681,14982,12258,"03, 2019",UK
+CODE|78331,Best Western London Airport Inn & Suites,869,19118,15642,"10, 2019",Canada
+CODE|78296,Best Western Little River Inn,211,4642,3165,"05, 2019",Canada
+CODE|78261,Best Western Linko Hotel,226,4520,3616,"11, 2019",France
+CODE|78226,Best Western Le Patio des Artistes,465,10695,7905,"09, 2019",فرنسا
+CODE|78191,Best Western Las Mercedes Airport,123,3321,1845,"11, 2019",Nicaragua
+CODE|78156,Best Western Lakmi Nice,78,1950,1326,"06, 2019",فرنسا
+CODE|78121,Best Western Lake Lucille Inn,1580,36340,26860,"03, 2019",USA
+CODE|78086,Best Western Laegreid Hotell Sogndal,1211,36330,19376,"02, 2019",Norway
+CODE|78051,BEST WESTERN La Baia Palace Hotel,877,17540,13155,"10, 2019",Italy
+CODE|78016,Best Western L’Oree Paris Sud,454,9080,8626,"08, 2019",فرنسا
+CODE|77981,Best Western Kutaisi Hotel,1159,31293,23180,"11, 2019",Georgia
+CODE|77946,Best Western Kodiak Inn And Convention Center,1256,36424,18840,"02, 2019",Not Found
+CODE|77911,Best Western King Salmon Motel,247,6422,3952,"11, 2019",USA
+CODE|77876,Best Western Kensington Olympia Hotel,1044,22968,17748,"03, 2019",Not Found
+CODE|77841,Best Western Kampen Hotell,1099,31871,17584,"08, 2019",Not Found
+CODE|77806,Best Western Kampen Apartment Hotel,753,21837,12801,"01, 2019",Not Found
+CODE|77771,Best Western Kamala Jimbaran,1454,39258,23264,"12, 2019",Indonesia
+CODE|77736,Best Western John Jay Inn,1054,29512,21080,"12, 2019",USA
+CODE|77701,Best Western JFK Hotel,1393,34825,26467,"09, 2019",Italy
+CODE|77666,Best Western Jasper Inn & Suites,838,17598,14246,"09, 2019",Canada
+CODE|77631,Best Western Jamaica Inn,548,15892,10412,"04, 2019",USA
+CODE|77596,Best western Irazú,1379,35854,24822,"03, 2019",Costa Rica
+CODE|77561,Best Western International Drive - Orlando,1731,39813,25965,"07, 2019",USA
+CODE|77526,Best Western Innsuites Yuma Mall Hotel & Suites,1312,28864,24928,"10, 2019",USA
+CODE|77491,Best Western Innsuites Tucson Foothills Hotel & Suites,1143,25146,22860,"07, 2019",USA
+CODE|77456,Best Western Inn On The Hill,1758,43950,35160,"06, 2019",Canada
+CODE|77421,Best Western Inn On The Bay,1225,36750,23275,"06, 2019",Canada
+CODE|77386,Best Western Inn Of Pinetop,662,13240,11254,"11, 2019",USA
+CODE|77351,Best Western Inn of Payson,1580,44240,28440,"02, 2019",USA
+CODE|77316,Best Western Inn Of Chandler,476,10948,9044,"09, 2019",USA
+CODE|77281,Best Western Inn At Palm Springs,1564,35972,31280,"09, 2019",USA
+CODE|77246,Best Western Ilford,1367,27340,23239,"11, 2019",UK
+CODE|77211,Best Western Hotell Borås,1698,45846,33960,"01, 2019",SVE
+CODE|77176,BEST WESTERN Hotel Zürcherhof,1525,42700,22875,"10, 2019",Switzerland
+CODE|77141,Best Western Hotel zur Post,747,14940,11205,"06, 2019",Germany
+CODE|77106,Best Western Hotel Wetzlar,202,4242,3636,"10, 2019",Germany
+CODE|77071,BEST WESTERN Hotel Waldegg Horw Luzern,151,4077,2567,"08, 2019",Schweiz
+CODE|77036,BEST WESTERN Hotel Turismo,240,5040,3600,"12, 2019",Italy
+CODE|77001,Best Western Hotel Tritone,1145,26335,18320,"02, 2019",Italy
+CODE|76966,Best Western Hotel Trier City,1828,43872,29248,"12, 2019",Germany
+CODE|76931,Best Western Hotel Tranås Statt,1520,34960,30400,"06, 2019",Sweden
+CODE|76896,Best Western Hotel Toubkal,77,1925,1540,"09, 2019",Morocco
+CODE|76861,Best Western Hotel The K,1170,30420,23400,"03, 2019",Germany
+CODE|76826,BEST WESTERN Hôtel Sydney Opéra,804,19296,12864,"12, 2019",France
+CODE|76791,Best Western Hotel Svava,1670,50100,31730,"02, 2019",Sweden
+CODE|76756,BEST WESTERN Hotel Stella D'Italia,1730,44980,27680,"08, 2019",Italy
+CODE|76721,Best Western Hotel StadtPalais,1425,42750,21375,"07, 2019",Germany
+CODE|76686,BEST WESTERN Hotel Spirgarten,519,14532,9342,"11, 2019",Switzerland
+CODE|76651,Best Western Hôtel So'Co,1500,34500,30000,"06, 2019",France
+CODE|76616,Best Western Hotel Sindelfingen City,574,17220,8610,"10, 2019",Germany
+CODE|76581,Best Western Hotel Royal Centre,1889,45336,37780,"02, 2019",Belgium
+CODE|76546,Best Western Hotel Rosenau,1496,35904,25432,"07, 2019",Germany
+CODE|76511,Best Western Hôtel Ronceray-Opéra,1724,49996,32756,"10, 2019",France
+CODE|76476,Best Western Hotel Rome Airport,591,12411,9456,"04, 2019",Italy
+CODE|76441,BEST WESTERN Hotel Roma Tor Vergata,1701,44226,32319,"10, 2019",Italy
+CODE|76406,BEST WESTERN Hotel Rocca,920,20240,16560,"04, 2019",Italy
+CODE|76371,BEST WESTERN Hotel Rivoli,754,17342,14326,"01, 2019",Italy
+CODE|76336,Best Western Hôtel Rives de Paris La Défense,1847,49869,33246,"09, 2019",فرنسا
+CODE|76301,BEST WESTERN Hotel Regina Elena,1691,37202,32129,"10, 2019",Italy
+CODE|76266,Best Western Hotel Regence,1050,27300,18900,"01, 2019",Germany
+CODE|76231,BEST WESTERN Hotel Rastatt,420,12180,7140,"12, 2019",Germany
+CODE|76196,BEST WESTERN Hotel President,439,10975,7463,"09, 2019",Italy
+CODE|76161,Best Western Hotel Portos,441,11907,8379,"12, 2019",Poland
+CODE|76126,BEST WESTERN Hotel Porto Antico,1859,46475,37180,"01, 2019",Italy
+CODE|76091,BEST WESTERN Hotel Plaza,1210,33880,19360,"09, 2019",Italy
+CODE|76056,Best Western Hotel Piemontese,950,27550,15200,"01, 2019",Italy
+CODE|76021,Best Western Hotel Piccadilly Roma,135,3510,2430,"08, 2019",Italy
+CODE|75986,Best Western Hotel Peine-Salzgitter,1208,28992,18120,"09, 2019",Germany
+CODE|75951,BEST WESTERN Hotel Opole Centrum,1265,36685,20240,"08, 2019",Poland
+CODE|75916,Best Western Hotel Opéra Drouot,1553,40378,31060,"03, 2019",France
+CODE|75881,BEST WESTERN Hotel Ohm by HappyCulture™,67,2010,1139,"11, 2019",France
+CODE|75846,Best Western Hotel Nürnberg City West,781,19525,14058,"02, 2019",Germany
+CODE|75811,Best Western Hotel Montcalm Paris 15 (Hôtel Paris 75015),136,3672,2040,"03, 2019",France
+CODE|75776,Best Western Hotel Moderno Verdi,58,1508,986,"06, 2019",Italy
+CODE|75741,BEST WESTERN Hotel Mirage,845,17745,14365,"05, 2019",إيطاليا
+CODE|75706,BEST WESTERN Hotel Metropoli,1686,40464,33720,"06, 2019",Italy
+CODE|75671,Best Western Hotel Meteor Plaza,217,5859,3255,"05, 2019",Czech Republic
+CODE|75636,Best Western Hotel Mediterraneo,1291,29693,20656,"11, 2019",Spain
+CODE|75601,Best Western Hotel Major,187,4488,3179,"05, 2019",Italy
+CODE|75566,BEST WESTERN Hotel Madison,1896,39816,32232,"05, 2019",Italy
+CODE|75531,BEST WESTERN Hotel Luxor,1824,52896,34656,"10, 2019",Italy
+CODE|75496,Best Western Hotel Louvre Piemont,1145,33205,18320,"07, 2019",France
+CODE|75461,Best Western Hôtel Littéraire Arthur Rimbaud,588,15876,11172,"08, 2019",France
+CODE|75426,BEST WESTERN Hotel Libertà,1578,34716,29982,"05, 2019",Italy
+CODE|75391,BEST WESTERN Hotel Le Montparnasse,674,15502,12806,"07, 2019",France
+CODE|75356,Best Western Hotel Le Montmartre Saint-Pierre,20,460,320,"06, 2019",France
+CODE|75321,Best Western Hotel Köln,668,16700,12024,"12, 2019",Deutschland
+CODE|75286,BEST WESTERN Hotel Kiel,1690,43940,32110,"10, 2019",Germany
+CODE|75251,Best Western Hotel Karlaplan,182,5096,3094,"05, 2019",Sweden
+CODE|75216,Best Western Hotel Kantstrasse Berlin,1663,43238,29934,"11, 2019",Deutschland
+CODE|75181,Best Western Hotel Journel Paris Sud,1496,44880,25432,"11, 2019",فرنسا
+CODE|75146,Best Western Hotel International,1805,52345,27075,"08, 2019",France
+CODE|75111,Best Western Hotel I Triangoli,1555,38875,31100,"06, 2019",Italy
+CODE|75076,BEST WESTERN Hotel Heide Oldenburg,1455,36375,21825,"08, 2019",Germany
+CODE|75041,Best Western Hotel Hebron,854,20496,15372,"05, 2019",Denmark
+CODE|75006,Best Western Hotel Hannover City,1671,50130,30078,"07, 2019",Germany
+CODE|74971,BEST WESTERN Hotel Hamburg International,1412,36712,28240,"09, 2019",Germany
+CODE|74936,Best Western Hôtel Grand Parc,1888,50976,28320,"06, 2019",فرنسا
+CODE|74901,Best Western Hotel Genio,307,7675,5526,"05, 2019",Italy
+CODE|74866,BEST WESTERN Hotel Geheimer Rat,1839,49653,36780,"09, 2019",Germany
+CODE|74831,Best Western Hotel Fino Tokyo Akihabara,889,22225,16891,"07, 2019",Japan
+CODE|74796,Best Western Hotel Fino Tokyo Akasaka,1211,32697,18165,"03, 2019",Japan
+CODE|74761,Best Western Hotel Fino Shin-Yokohama,758,20466,12128,"08, 2019",Japan
+CODE|74726,BEST WESTERN Hotel Düsseldorf City,253,7084,5060,"03, 2019",Germany
+CODE|74691,Best Western Hôtel Du Parc Chantilly,1277,34479,25540,"08, 2019",فرنسا
+CODE|74656,Best Western Hotel de Ville,846,17766,12690,"04, 2019",Germany
+CODE|74621,Best Western Hotel de Paris,1697,37334,28849,"03, 2019",France
+CODE|74586,Best Western Hotel Darmstadt,1352,33800,21632,"05, 2019",Germany
+CODE|74551,Best Western Hotel Cristal,1483,40041,28177,"06, 2019",Poland
+CODE|74516,Best Western Hotel Crimea Torino,1776,42624,31968,"01, 2019",Italy
+CODE|74481,Best Western Hotel Corsi,1017,23391,17289,"08, 2019",Italy
+CODE|74446,Best Western Hotel Continental,1418,32614,21270,"07, 2019",Italy
+CODE|74411,Best Western Hotel Cologne Airport Troisdorf,147,4116,2793,"09, 2019",Germany
+CODE|74376,Best Western Hotel City,1449,42021,26082,"01, 2019",Italy
+CODE|74341,Best Western Hotel Cavalieri della Corona,1031,25775,20620,"02, 2019",Italy
+CODE|74306,BEST WESTERN Hôtel Carlton,640,16000,12160,"06, 2019",France
+CODE|74271,Best Western Hotel Caiçara,721,15141,10815,"12, 2019",Brazil
+CODE|74236,Best Western Hotel Bremen City,1360,38080,20400,"01, 2019",Germany
+CODE|74201,Best Western Hotel Bologna,804,24120,15276,"05, 2019",Italy
+CODE|74166,BEST WESTERN Hotel Biri,1036,24864,17612,"02, 2019",Italy
+CODE|74131,Best Western Hotel Berlin-Mitte,545,15805,10355,"05, 2019",Germany
+CODE|74096,Best Western Hotel Bellevue au Lac,962,21164,16354,"08, 2019",سويسرا
+CODE|74061,BEST WESTERN Hotel Belfort,1530,41310,22950,"02, 2019",France
+CODE|74026,BEST WESTERN Hôtel Au Trocadero,722,15162,12996,"04, 2019",France
+CODE|73991,Best Western Hotel Astrid Roma,1209,31434,24180,"09, 2019",Italy
+CODE|73956,Best Western Hotel Astoria,1748,40204,33212,"04, 2019",Italy
+CODE|73921,Best Western Hotel Armando,743,16346,14117,"05, 2019",Italy
+CODE|73886,Best Western Hotel Aramis Saint-Germain,1177,35310,17655,"08, 2019",France
+CODE|73851,Best Western Hotel Arabellapark Muenchen,642,16050,10272,"06, 2019",Germany
+CODE|73816,BEST WESTERN Hotel Apollo,207,4140,3105,"08, 2019",Finland
+CODE|73781,BEST WESTERN Hotel Antico Termine,49,1127,735,"09, 2019",Not Found
+CODE|73746,Best Western Hôtel Anjou Lafayette Opera,647,13587,9705,"05, 2019",France
+CODE|73711,Best Western Hotel am Walserberg,687,19923,13053,"10, 2019",Austria
+CODE|73676,Best Western Hotel am Spittelmarkt,653,18937,10448,"05, 2019",Germany
+CODE|73641,BEST WESTERN Hotel am Schloss Köpenick,637,18473,11466,"01, 2019",Germany
+CODE|73606,BEST WESTERN Hotel am Europaplatz,1623,48690,30837,"08, 2019",Germany
+CODE|73571,BEST WESTERN Hotel am Borsigturm,985,22655,18715,"08, 2019",Germany
+CODE|73536,BEST WESTERN Hotel Alzey,530,12720,9010,"10, 2019",Germany
+CODE|73501,Best Western Hotel Airport Frankfurt,1426,37076,22816,"12, 2019",Germany
+CODE|73466,Best Western Hotel Achim Bremen,575,16100,10925,"03, 2019",Germany
+CODE|73431,Best Western Hoover Dam Hotel,1542,44718,24672,"08, 2019",USA
+CODE|73396,Best Western Hi-Desert Inn,1461,37986,21915,"06, 2019",USA
+CODE|73361,Best Western Heritage Inn,232,5800,4176,"12, 2019",USA
+CODE|73326,Best Western Hazlet Inn,459,9180,9180,"08, 2019",USA
+CODE|73291,Best Western Hanford Inn,995,29850,16915,"11, 2019",Not Found
+CODE|73256,Best Western Gudauri,1538,43064,27684,"03, 2019",Georgia
+CODE|73221,Best Western Gregory Hotel,242,7018,4356,"10, 2019",USA
+CODE|73186,Best Western Greater London Hotel,1000,25000,20000,"03, 2019",UK
+CODE|73151,Best Western Grants Inn,1008,24192,17136,"11, 2019",USA
+CODE|73116,Best Western Grant Park Hotel,1223,31798,20791,"05, 2019",USA
+CODE|73081,Best Western Grandma's Feather Bed,92,1840,1564,"10, 2019",USA
+CODE|73046,Best Western Gran Hotel Centro Historico,1672,33440,26752,"05, 2019",México
+CODE|73011,Best Western Golden Key,1836,51408,31212,"01, 2019",USA
+CODE|72976,Best Western Gold Canyon Inn & Suites,416,8736,8320,"02, 2019",USA
+CODE|72941,BEST WESTERN Globus Hotel,1950,52650,37050,"01, 2019",Italy
+CODE|72906,Best Western Geelong Motor Inn and Apartments,1588,46052,28584,"04, 2019",Australia
+CODE|72871,Best Western Gateway To The Keys,1883,37660,37660,"04, 2019",USA
+CODE|72836,Best Western Galleria Inn & Suites,1936,40656,34848,"09, 2019",USA
+CODE|72801,Best Western Fort Lee,689,15158,13091,"02, 2019",USA
+CODE|72766,Best Western Fireside Inn,382,9550,6494,"03, 2019",Canada
+CODE|72731,BEST WESTERN Falck Village Hotel,264,6864,3960,"04, 2019",Italy
+CODE|72696,Best Western Exeter Inn & Suites,1886,52808,37720,"02, 2019",USA
+CODE|72661,Best Western Executive Inn,649,14927,11033,"05, 2019",USA
+CODE|72626,Best Western Executive Business Hotel,1651,42926,26416,"01, 2019",Italy
+CODE|72591,Best Western Eurohotel,1221,28083,18315,"02, 2019",Romania
+CODE|72556,Best Western Empire Palace,1942,54376,34956,"02, 2019",Turkey
+CODE|72521,Best Western Empire Elysees,974,28246,16558,"03, 2019",France
+CODE|72486,Best Western Elyon Colombo,1112,26688,16680,"05, 2019",Sri Lanka
+CODE|72451,Best Western El Cid,533,13858,9061,"05, 2019",Mexico
+CODE|72416,Best Western Downtown Sudbury Centreville,1384,40136,22144,"08, 2019",Canada
+CODE|72381,Best Western Desert Inn,90,2520,1530,"02, 2019",USA
+CODE|72346,Best Western Des Plaines Inn,374,8602,6358,"06, 2019",USA
+CODE|72311,Best Western Delmere Hotel,344,8256,6192,"09, 2019",UK
+CODE|72276,Best Western Darbar Delhi,1673,50190,25095,"04, 2019",India
+CODE|72241,Best Western Dam Square Inn,1187,33236,17805,"09, 2019",Netherlands
+CODE|72206,BEST WESTERN Cumberland Hotel,1021,25525,18378,"06, 2019",USA
+CODE|72171,BEST WESTERN CTC Hotel Verona,1398,30756,22368,"09, 2019",Italy
+CODE|72136,Best Western Crystal Palace Hotel Turin,530,15370,9540,"01, 2019",Italy
+CODE|72101,Best Western Courtesy Inn,1906,38120,38120,"01, 2019",USA
+CODE|72066,Best Western Country Inn,632,13904,12640,"07, 2019",أمريكا
+CODE|72031,Best Western Cottonwood Inn,835,18370,12525,"06, 2019",USA
+CODE|71996,Best Western Corona Hotel,1989,49725,31824,"12, 2019",UK
+CODE|71961,Best Western Cordelia Inn,1762,45812,28192,"05, 2019",USA
+CODE|71926,Best Western Coral Hills,321,8346,6099,"05, 2019",USA
+CODE|71891,Best Western Coral Beach Hotel,119,2975,2023,"05, 2019",Tanzania
+CODE|71856,Best Western Colonel Butler Inn,1791,51939,34029,"08, 2019",Canada
+CODE|71821,Best Western Cocoa Beach Hotel & Suites,1403,29463,25254,"12, 2019",USA
+CODE|71786,Best Western City Hotel Moran,1979,57391,29685,"11, 2019",Czech Republic
+CODE|71751,Best Western City Hotel Leiden,645,19350,12255,"02, 2019",Not Found
+CODE|71716,Best Western City Hotel Goderie,1031,24744,18558,"08, 2019",Not Found
+CODE|71681,Best Western City Hotel,274,7124,5206,"12, 2019",Italy
+CODE|71646,Best Western City Centre,671,19459,10736,"08, 2019",Belgium
+CODE|71611,Best Western CineMusic Hotel,1529,42812,25993,"09, 2019",Italy
+CODE|71576,Best Western Chiswick Palace & Suites,330,7260,5610,"07, 2019",UK
+CODE|71541,Best Western Centro Monterrey,1571,36133,29849,"01, 2019",المكسيك
+CODE|71506,Best Western Central Inn,1543,40118,27774,"03, 2019",USA
+CODE|71471,Best Western Central Hotel,1831,51268,32958,"12, 2019",France
+CODE|71436,Best Western Cedar Inn,1447,41963,27493,"01, 2019",أمريكا
+CODE|71401,Best Western CBD Hotel,377,9048,7163,"04, 2019",Tanzania
+CODE|71366,Best Western Causeway Bay,1842,38682,36840,"07, 2019",Hong Kong
+CODE|71331,Best Western Casa Grande Inn,1798,44950,26970,"11, 2019",USA
+CODE|71296,Best Western Carlsbad by the Sea,564,12408,10716,"10, 2019",USA
+CODE|71261,Best Western Cape Suites Hotel,1292,28424,24548,"07, 2019",South Africa
+CODE|71226,Best Western Canoga Park Motor Inn,701,18226,11917,"03, 2019",USA
+CODE|71191,Best Western Cannes Riviera Hôtel,12,288,216,"06, 2019",فرنسا
+CODE|71156,Best Western California City Inn & Suites,1288,36064,24472,"04, 2019",USA
+CODE|71121,Best Western Cabrillo Garden Inn,1134,30618,17010,"06, 2019",USA
+CODE|71086,Best Western Burbank Airport Inn,1222,30550,21996,"10, 2019",USA
+CODE|71051,Best Western Buckingham Palace Rd,1836,36720,29376,"12, 2019",UK
+CODE|71016,Best Western Brooklyn-Coney Island Inn,397,10719,7940,"04, 2019",USA
+CODE|70981,Best Western Bretagne Montparnasse,1358,27160,27160,"08, 2019",France
+CODE|70946,Best Western Brantford Hotel And Conference Centre,158,4424,3002,"08, 2019",Canada
+CODE|70911,Best Western Bowery Hanbee Hotel,1969,53163,31504,"10, 2019",Not Found
+CODE|70876,Best Western Blu Hotel Roma,1236,33372,19776,"01, 2019",Italy
+CODE|70841,Best Western Bishop Lodge,278,8062,5560,"12, 2019",USA
+CODE|70806,Best Western Big Country Inn,747,22410,12699,"02, 2019",USA
+CODE|70771,Best Western Big Bear Chateau,1469,32318,26442,"12, 2019",USA
+CODE|70631,Best Western Bidarka Inn,518,15022,8806,"12, 2019",USA
+CODE|70596,Best Western Belleville,930,21390,17670,"12, 2019",Canada
+CODE|70561,Best Western Bar Harbour Inn,1503,42084,24048,"12, 2019",USA
+CODE|70526,Best Western Aulivia Opera,588,17052,9996,"07, 2019",France
+CODE|70491,Best Western at O'Hare,1873,44952,35587,"11, 2019",USA
+CODE|70456,Best Western Astor Metropole Hotel & Apartments,348,8004,6264,"05, 2019",Australia
+CODE|70421,Best Western Artdeco Hotel,757,17411,13626,"03, 2019",Italy
+CODE|70386,Best Western Art Plaza Hotel,1148,26404,19516,"05, 2019",Bulgaria
+CODE|70351,Best Western Ars Hotel,334,9686,5344,"04, 2019",Italy
+CODE|70316,Best Western Arizonian Inn,851,19573,17020,"04, 2019",USA
+CODE|70281,BEST WESTERN Arirang Hill Dongdaemun,990,21780,16830,"05, 2019",South Korea
+CODE|70246,Best Western Arcata Inn,304,6992,6080,"12, 2019",USA
+CODE|70211,Best Western Apricot Inn,1497,37425,23952,"05, 2019",USA
+CODE|70176,Best Western Apache Junction Inn,255,7650,4590,"01, 2019",USA
+CODE|70736,Best Western Andersen's Inn,1719,34380,34380,"10, 2019",USA
+CODE|70701,Best Western and hotel,1058,21160,16928,"11, 2019",Sweden
+CODE|70666,Best Western Amsterdam Airport Hotel,1453,33419,26154,"03, 2019",Netherlands
+CODE|70036,Best Western Amsterdam,598,14950,11362,"09, 2019",هولندا
+CODE|70001,Best Western Americana Inn,294,7056,5880,"09, 2019",USA
+CODE|69966,Best Western Amedia Frankfurt Rüsselsheim,1242,31050,24840,"02, 2019",ألمانيا
+CODE|69931,BEST WESTERN Amedia Frankfurt Airport,807,16947,15333,"07, 2019",Germany
+CODE|69896,BEST WESTERN Amedia Bielefeld / Werther,689,13780,11024,"08, 2019",Germany
+CODE|69861,BEST WESTERN Amarys,1157,33553,18512,"09, 2019",France
+CODE|69826,Best Western Allegro Nation,202,5656,3636,"07, 2019",France
+CODE|69791,Best Western Airport Plaza Inn,980,26460,17640,"02, 2019",USA
+CODE|69756,Best Western Airport Motel & Convention Centre,1159,32452,23180,"06, 2019",Australia
+CODE|69721,Best Western Airport Inn & Suites,640,17920,10240,"08, 2019",USA
+CODE|69686,Best Western Airport Inn,1089,23958,19602,"10, 2019",Canada
+CODE|69651,Best Western Airport 85 Motel,1728,34560,25920,"02, 2019",Australia
+CODE|69616,Best Western Airpark Hotel,966,20286,15456,"09, 2019",USA
+CODE|69301,Best Western Adams Inn Quincy - Boston,601,12020,12020,"03, 2019",USA
+CODE|69266,Best Western Abbots Barton Hotel,1934,58020,30944,"03, 2019",UK
+CODE|69231,BEST WESTERN 4*S Hotel Obermühle,347,10063,6246,"02, 2019",Deutschland
+CODE|69196,Best Western - Hotel Mariacki,942,24492,17898,"06, 2019",Poland
+CODE|69161,Best Western,883,20309,15011,"02, 2019",Not Found
+CODE|69126,Best View Pyramids Hotel,28,700,532,"09, 2019",Egypt
+CODE|69091,Best Star Resort,1884,45216,35796,"12, 2019",Malaysia
+CODE|69056,Best Roquetas,205,4510,3690,"09, 2019",Spain
+CODE|69021,Best Osuna Madrid Feria,687,19923,11679,"06, 2019",Spain
+CODE|68986,Best Oasis Park,1158,27792,17370,"07, 2019",Spain
+CODE|68951,Best Nobel Hotel,1016,28448,16256,"01, 2019",Turkey
+CODE|68916,Best Host Inn Buena Park,1745,40135,34900,"07, 2019",USA
+CODE|68881,Best Home Suites Sultanahmet Aparts,237,7110,4266,"09, 2019",Turkey
+CODE|68846,Best Front Marítim,1699,47572,25485,"04, 2019",Spain
+CODE|68811,Best Auto Hogar,102,2958,1530,"02, 2019",Spain
+CODE|68776,BessaHotel Boavista,1033,21693,17561,"07, 2019",Portugal
+CODE|68741,Berr Hotel,238,6188,3808,"12, 2019",Turkey
+CODE|68706,Bernina Hotel Geneva,985,23640,16745,"12, 2019",Switzerland
+CODE|68671,Berlin Marriott Hotel,1724,46548,32756,"03, 2019",Germany
+CODE|68636,Berlin Mark Hotel,213,4899,3408,"05, 2019",Not Found
+CODE|68601,Berkeley Shore Hotel,120,2400,2280,"04, 2019",USA
+CODE|68566,Berjer Hotel,772,16212,11580,"02, 2019",Turkey
+CODE|68531,Berjaya Tioman Resort,572,14300,11440,"11, 2019",Malaysia
+CODE|68496,"Berjaya Times Square Hotel, Kuala Lumpur",383,10341,7277,"03, 2019",ماليزيا
+CODE|68461,Berjaya Penang Hotel,1188,27324,19008,"02, 2019",Malaysia
+CODE|68426,Berjaya Makati Hotel - Philippines,1247,24940,19952,"08, 2019",Philippines
+CODE|68391,Berjaya Langkawi Resort,1896,49296,30336,"03, 2019",Malaysia
+CODE|68356,Berjaya Eden Park Hotel,633,17724,9495,"01, 2019",UK
+CODE|68321,Berjaya Beau Vallon Bay Resort & Casino,1121,23541,21299,"03, 2019",Seychelles
+CODE|68286,Bergresort Seefeld,671,18788,12078,"06, 2019",Austria
+CODE|68251,Bentota Beach by Cinnamon,1542,44718,29298,"09, 2019",Sri Lanka
+CODE|68216,Bento Inn Munich,1108,23268,22160,"12, 2019",Germany
+CODE|68181,Bentley Hotel Bosphorus,1713,37686,27408,"08, 2019",Turkey
+CODE|68146,Belver Hotel do Principe Real,837,21762,13392,"08, 2019",Portugal
+CODE|68111,Belvedere Hotel,1466,38116,26388,"05, 2019",إيطاليا
+CODE|68076,Beltif Hotel,107,2354,2033,"02, 2019",Not Found
+CODE|68041,Belstay Venezia Mestre,1732,46764,29444,"01, 2019",إيطاليا
+CODE|68006,Belstay Roma Aurelia,348,8352,6612,"10, 2019",Italy
+CODE|67971,Belstay Milano Linate,1390,38920,20850,"07, 2019",Italy
+CODE|67936,Belstay Milano Assago,1509,37725,30180,"12, 2019",إيطاليا
+CODE|67901,Belmont Hotel Manila,1259,26439,23921,"12, 2019",Philippines
+CODE|67866,Belmond Mount Nelson Hotel,1378,31694,20670,"02, 2019",South Africa
+CODE|67831,Belmond Charleston Place,1569,32949,31380,"05, 2019",USA
+CODE|67796,Bellwether Beach Resort,1527,35121,24432,"01, 2019",USA
+CODE|67761,Bellis Deluxe Hotel,1971,55188,35478,"12, 2019",Turkey
+CODE|67726,BelleVue Residence Batumi,841,23548,13456,"04, 2019",Georgia
+CODE|67691,Bellevue Park Hotel Riga,956,20076,17208,"01, 2019",Latvia
+CODE|67656,Bellevue,1231,29544,20927,"06, 2019",Not Found
+CODE|67621,Belle Vue Inn,1465,42485,21975,"02, 2019",Not Found
+CODE|67586,Belle Vue Hotel,1284,30816,21828,"06, 2019",Egypt
+CODE|67551,Belle Maison Parosand Danang Hotel,103,2781,1957,"04, 2019",فيتنام
+CODE|67516,Bellagio Las Vegas,1058,30682,19044,"11, 2019",USA
+CODE|67481,Bellagio Beach Resort & Spa,871,19162,15678,"03, 2019",مصر
+CODE|67446,"Bella Vista Waterfront Resort, Kuah Langkawi",709,17725,12762,"09, 2019",ماليزيا
+CODE|67411,Bella Vista Express Hotel,295,8850,4425,"04, 2019",ماليزيا
+CODE|67376,Bella Habana Hotel,1203,25263,20451,"05, 2019",Not Found
+CODE|67341,Bella Express Hotel,1834,51352,27510,"10, 2019",Thailand
+CODE|67306,Bella,1988,53676,33796,"02, 2019",Not Found
+CODE|67271,Believe Madero Hotel,1463,35112,29260,"11, 2019",Argentina
+CODE|67236,Belgrade City Hotel,1392,32016,23664,"04, 2019",صربيا
+CODE|67201,"Belgrade Art Hotel, a member of Radisson Individuals",1327,29194,23886,"08, 2019",Serbia
+CODE|67166,BelAire Bangkok,746,15666,11936,"06, 2019",Thailand
+CODE|67131,Belair Executive Suites Bahrain,1317,26340,22389,"05, 2019",Bahrain
+CODE|67096,Belad Bont Resort,310,6200,6200,"06, 2019",عُمان
+CODE|67061,Bel Azur Thalassa,427,12810,7259,"07, 2019",تونس
+CODE|67026,Bel Azur Hotel,1947,58410,31152,"07, 2019",Lebanon
+CODE|66991,Bel Aire Patong Phuket,1013,27351,15195,"02, 2019",Thailand
+CODE|66956,"Bel Air Business Mexico City WTC, Trademark by Wyndham",513,10773,7695,"12, 2019",Mexico
+CODE|66921,Bekdas Hotel Deluxe,350,7000,7000,"06, 2019",تركيا
+CODE|66886,"BEI San Francisco, Trademark Collection by Wyndham",1957,46968,35226,"06, 2019",USA
+CODE|66851,Bedford Motel,1500,30000,22500,"06, 2019",USA
+CODE|66816,Bedford Hotel & Congress Centre,905,27150,17195,"11, 2019",Belgium
+CODE|66781,Bedford Hotel,675,16875,10125,"04, 2019",UK
+CODE|66746,becozy Self Check-in & Pop-up Hotel Sihlcity,117,3393,1872,"01, 2019",سويسرا
+CODE|66711,Beaver Run Resort & Conference Center,1412,40948,24004,"01, 2019",USA
+CODE|66676,Beau-Rivage,1360,36720,27200,"09, 2019",Egypt
+CODE|66641,Beacon Grand A Union Square Hotel,260,5720,4420,"11, 2019",USA
+CODE|66606,Beaches Turks & Caicos Resort Villages & Spa,1453,34872,27607,"10, 2019",Turks & Caicos Islands
+CODE|66571,Beach Walk Hotel,414,12006,6624,"09, 2019",الإمارات
+CODE|66536,Beach Villas,513,15390,10260,"11, 2019",Not Found
+CODE|66501,Beach Rotana - Residences,25,575,500,"01, 2019",UAE
+CODE|66466,Beach Rotana - All Suites,218,5886,4142,"10, 2019",UAE
+CODE|66431,Beach Rotana,110,2970,1760,"08, 2019",UAE
+CODE|66396,Beach Resort Salalah,1960,56840,35280,"12, 2019",Oman
+CODE|66361,BEACH PALACE,1977,49425,31632,"03, 2019",Mexico
+CODE|66326,Beach Haus Bal Harbour,166,4648,2656,"04, 2019",USA
+CODE|66291,Beach Club Doganay Hotel,247,6175,4446,"10, 2019",Turkey
+CODE|66256,Beach Albatros Resort,1248,27456,24960,"02, 2019",Egypt
+CODE|66221,Be Smart Terrace Algarve,1366,31418,25954,"09, 2019",Portugal
+CODE|66186,BE Premium Bodrum,495,13365,9405,"01, 2019",تركيا
+CODE|66151,Be Live Havana City Copacabana,982,26514,14730,"07, 2019",Not Found
+CODE|66116,Be Live Experience Varadero,49,1470,735,"05, 2019",Not Found
+CODE|66081,Be Live Collection Punta Cana Adults Only,1483,43007,26694,"08, 2019",Dominican Republic
+CODE|66046,Be Live Collection Punta Cana,1754,45604,29818,"05, 2019",Dominican Republic
+CODE|66011,Be Live Collection Cayo Santa Maria Cuba,676,16900,11492,"05, 2019",Not Found
+CODE|65976,Be Live Collection Canoa,437,10488,6555,"09, 2019",Dominican Republic
+CODE|65941,Be Live Adults Only Marivent,1920,38400,30720,"05, 2019",Spain
+CODE|65906,BCN Urbaness Hotels Gran Rosellon,528,13200,8976,"07, 2019",Spain
+CODE|65871,BCN Urbaness Hotels del Comte,1680,48720,30240,"11, 2019",Spain
+CODE|65836,BCN Urbaness Hotels Bonavista,478,10038,8604,"07, 2019",Spain
+CODE|65801,bc hotel,207,6003,3519,"06, 2019",Turkey
+CODE|65766,Baywalk Residence Pattaya,1439,40292,21585,"09, 2019",Thailand
+CODE|65731,Bayview Park Hotel Manila,1084,27100,16260,"01, 2019",Philippines
+CODE|65696,Bayview Hotel Melaka,1136,29536,21584,"03, 2019",Malaysia
+CODE|65661,Bayview Hotel Georgetown Penang,664,17264,10624,"06, 2019",Malaysia
+CODE|65626,Bayview Geographe Resort,1728,39744,32832,"02, 2019",Australia
+CODE|65591,Bayview Eden Melbourne,1398,41940,25164,"06, 2019",Not Found
+CODE|65556,Bayview Beach,1591,38184,30229,"10, 2019",Malaysia
+CODE|65521,Bayview,1073,24679,19314,"04, 2019",Not Found
+CODE|65486,Bayswater Inn Hotel,578,16184,9826,"08, 2019",المملكة المتحدة
+CODE|65451,BaySide Salgados Golf & Beach Resort,117,2925,1755,"08, 2019",Not Found
+CODE|65416,Bayside Hotel Katsaras,1489,35736,22335,"09, 2019",Greece
+CODE|65381,Bayshore Villas Candi Dasa,706,20474,13414,"03, 2019",Indonesia
+CODE|65346,Bayshore Ocean View,295,8555,4425,"11, 2019",Thailand
+CODE|65311,Baymont Inn & Suites Flagstaff,1984,41664,33728,"05, 2019",USA
+CODE|65276,Baymont Inn & Suites Denver International Airport,1850,37000,37000,"02, 2019",USA
+CODE|65241,Baymont by Wyndham Meriden,169,4732,3042,"03, 2019",Not Found
+CODE|65206,Bayir Diamond Hotel & Convention Center Konya,1638,36036,24570,"01, 2019",Turkey
+CODE|65171,Bayat Hotel,1474,36850,25058,"09, 2019",السعودية
+CODE|65136,Bay View Resort,815,18745,12225,"12, 2019",مصر
+CODE|65101,Bay Street Hotel,518,11396,8288,"10, 2019",Not Found
+CODE|65066,Bay Landing Hotel,983,27524,15728,"08, 2019",USA
+CODE|65031,Bay Lake Tower at Disney's Contemporary Resort,1549,37176,29431,"11, 2019",Not Found
+CODE|64996,Bay La Sun Hotel & Marina,730,20440,13870,"11, 2019",السعودية
+CODE|64961,Bay Hotel,297,8316,4455,"09, 2019",مصر
+CODE|64926,Baviera Mokinba Hotels,664,18592,9960,"12, 2019",Italy
+CODE|64891,Bavaria Hotel Münchner Hof,233,6291,3495,"09, 2019",Deutschland
+CODE|64856,Baur au Lac,568,11928,9088,"08, 2019",سويسرا
+CODE|64821,Baumanburi Hotel,538,15064,10760,"01, 2019",تايلاند
+CODE|64786,Bauman Residence Hotel,1399,36374,26581,"11, 2019",Thailand
+CODE|64751,Bauer Palazzo,1377,41310,22032,"03, 2019",Italy
+CODE|64716,Batu Caves Star Hotel,997,29910,17946,"06, 2019",Malaysia
+CODE|64681,Batoul Ajyad Hotel,1412,38124,22592,"03, 2019",السعودية
+CODE|64646,Baton Rouge Marriott,1916,57480,32572,"05, 2019",USA
+CODE|64611,Batam Marriott Hotel Harbour Bay,202,4242,4040,"03, 2019",Indonesia
+CODE|64576,Bastion Hotel Utrecht,111,2331,1887,"02, 2019",Netherlands
+CODE|64541,Bastion Hotel Tilburg,1878,39438,30048,"05, 2019",Netherlands
+CODE|64506,Bastion Hotel Schiphol Hoofddorp,3,78,51,"12, 2019",Nederland
+CODE|64471,Bastion Hotel Leiden - Voorschoten,726,15246,14520,"07, 2019",Nederland
+CODE|64436,Bastion Hotel Deluxe Zaandam Zuid,1065,26625,21300,"10, 2019",Nederland
+CODE|64401,Bastion Hotel Amsterdam Zuidwest,1225,29400,23275,"04, 2019",Netherlands
+CODE|64366,Bastion Hotel Amsterdam Noord,1753,38566,33307,"03, 2019",Netherlands
+CODE|64331,Bastion Hotel Amsterdam Amstel,922,21206,18440,"10, 2019",Netherlands
+CODE|64296,Bastion Hotel Amsterdam Airport,1872,46800,37440,"12, 2019",Netherlands
+CODE|64261,BASSENA Wien Messe Prater,1269,35532,21573,"12, 2019",Österreich
+CODE|64226,Basma hotel,847,18634,15246,"09, 2019",مصر
+CODE|64191,Basiliani - CDSHotels,1654,47966,26464,"12, 2019",Italy
+CODE|64156,Basic Braga by Axis,390,8580,6630,"04, 2019",Portugal
+CODE|64121,Barracuda Beach Resort,103,2987,2060,"01, 2019",UAE
+CODE|64086,Barracuda Aparthotel,1057,27482,17969,"05, 2019",Portugal
+CODE|64051,Baros Maldives,1599,36777,28782,"08, 2019",Maldives
+CODE|64016,Baron Resort Sharm El Sheikh,1208,28992,21744,"01, 2019",مصر
+CODE|63981,Baron Palms Resort Sharm El Sheikh - Adults Only - All inclusive,262,5240,3930,"02, 2019",Egypt
+CODE|63946,Baron Palace Sahl Hasheesh,1655,39720,26480,"09, 2019",مصر
+CODE|63911,Baron Heliopolis,1323,37044,22491,"01, 2019",Egypt
+CODE|63876,Baron Beach Hotel,1861,53969,33498,"03, 2019",تايلاند
+CODE|63841,Baron Al Masif,1764,52920,28224,"07, 2019",السعودية
+CODE|63806,Barocco Hotel,1553,46590,24848,"06, 2019",Not Found
+CODE|63771,Barkston Rooms Earl's Court,739,16258,14041,"05, 2019",Not Found
+CODE|63736,Barkston Gardens Hotel,1664,49920,29952,"01, 2019",Not Found
+CODE|63701,Barın Hotel,369,7380,7380,"07, 2019",Turkey
+CODE|63666,Bären Sigriswil,358,9666,5370,"07, 2019",Schweiz
+CODE|63631,Barclay Hotel,1255,28865,21335,"12, 2019",كندا
+CODE|63596,Barcelona Granvia Plaza Espana,1986,39720,39720,"11, 2019",Spain
+CODE|63561,Barceló Torre de Madrid,239,5975,4541,"06, 2019",España
+CODE|63526,Barceló Tiran Sharm,468,11232,8424,"05, 2019",مصر
+CODE|63491,Barceló Tanger,104,2184,1560,"08, 2019",المغرب
+CODE|63456,Barceló Tambor,933,27990,17727,"02, 2019",كوستاريكا
+CODE|63421,Barceló Sevilla Renacimiento,1471,30891,22065,"08, 2019",España
+CODE|63386,Barceló Sants,1345,39005,21520,"04, 2019",Spain
+CODE|63351,Barceló San José,1019,23437,16304,"12, 2019",كوستاريكا
+CODE|63316,Barceló Raval,1192,28608,23840,"10, 2019",إسبانيا
+CODE|63281,Barceló Punta Umbría Mar,1306,33956,20896,"07, 2019",España
+CODE|63246,Barceló Punta Umbría Beach Resort,1159,27816,22021,"08, 2019",Spain
+CODE|63211,Barceló Oviedo Cervantes,1161,31347,20898,"04, 2019",España
+CODE|63176,Barceló Mussanah Resort,1608,36984,24120,"06, 2019",عُمان
+CODE|63141,Barceló Maya Palace,1612,38688,25792,"04, 2019",المكسيك
+CODE|63106,Barceló Maya Colonial,1959,50934,39180,"11, 2019",Mexico
+CODE|63071,Barceló Maya Caribe,992,19840,18848,"06, 2019",المكسيك
+CODE|63036,Barceló Marbella,389,9336,7002,"04, 2019",إسبانيا
+CODE|63001,Barceló Managua,1279,26859,19185,"01, 2019",Not Found
+CODE|62966,Barceló Málaga,1270,25400,20320,"11, 2019",إسبانيا
+CODE|62931,Barceló Istanbul,1234,28382,23446,"05, 2019",تركيا
+CODE|62896,Barceló Isla Canela,1283,26943,24377,"02, 2019",إسبانيا
+CODE|62861,Barceló Imagine,1839,38619,34941,"10, 2019",Spain
+CODE|62826,Barceló Hamburg,1135,23835,21565,"07, 2019",ألمانيا
+CODE|62791,Barceló Guatemala City,1660,48140,31540,"11, 2019",Guatemala
+CODE|62756,Barceló Gran Faro Los Cabos,1381,34525,22096,"03, 2019",México
+CODE|62721,Barceló Fuerteventura Thalasso Spa,1014,29406,15210,"07, 2019",Spain
+CODE|62686,Barceló Emperatriz,880,25520,15840,"07, 2019",إسبانيا
+CODE|62651,Barceló Dubai Marina Residences,1827,36540,29232,"03, 2019",UAE
+CODE|62616,Barceló Costa Vasca,1460,29200,27740,"01, 2019",Spain
+CODE|62581,Barcelo Concorde Les berges du Lac,866,23382,16454,"09, 2019",تونس
+CODE|62546,Barceló Casablanca,1144,25168,18304,"04, 2019",المغرب
+CODE|62511,Barceló Cairo Pyramids,1734,46818,26010,"12, 2019",Egypt
+CODE|62476,Barceló Bilbao Nervión,1106,29862,16590,"06, 2019",إسبانيا
+CODE|62441,Barceló Bávaro Palace,965,20265,18335,"10, 2019",Dominican Republic
+CODE|62406,Barceló Bávaro Beach - Adults Only,1637,37651,27829,"06, 2019",Dominican Republic
+CODE|62371,Barceló Aran Mantegna,1423,35575,28460,"10, 2019",إيطاليا
+CODE|62336,Barceló Angra Marina,1561,45269,24976,"03, 2019",البرتغال
+CODE|62301,Barbara Tourist Apartments,1543,44747,30860,"03, 2019",Cyprus
+CODE|62266,Bara Guest House,1324,37072,26480,"05, 2019",South Africa
+CODE|62231,B-Aparthotel Grand Place,391,8993,6256,"12, 2019",Belgium
+CODE|62196,B-Aparthotel Ambiorix,1433,34392,28660,"07, 2019",Belgium
+CODE|62161,Banyan Tree Vabbinfaru,216,6264,4320,"11, 2019",Maldives
+CODE|62126,Banyan Tree Tamouda Bay,1415,28300,26885,"02, 2019",Morocco
+CODE|62091,Banyan Tree Spa Sanctuary,1366,32784,24588,"09, 2019",Not Found
+CODE|62056,Banyan Tree Seychelles,1591,36593,30229,"04, 2019",Not Found
+CODE|62021,Banyan Tree Samui,927,27810,13905,"08, 2019",Thailand
+CODE|61986,Banyan Tree Phuket,531,15399,9558,"11, 2019",تايلاند
+CODE|61951,Banyan Tree Kuala Lumpur,1690,42250,33800,"04, 2019",Malaysia
+CODE|61916,Banyan Tree Doha At La Cigale Mushaireb,745,22350,14900,"02, 2019",Qatar
+CODE|61881,Banyan Tree Bangkok,1877,39417,37540,"11, 2019",Thailand
+CODE|61846,Bantry Bay Suite Hotel,1384,29064,27680,"07, 2019",South Africa
+CODE|61811,Banquet Halls at Shangri-La's,1637,36014,26192,"09, 2019",India
+CODE|61776,"Bankside, Autograph Collection",785,20410,11775,"07, 2019",UK
+CODE|61741,Bangkok Palace Hotel,1851,53679,35169,"08, 2019",Thailand
+CODE|61706,Bangkok Marriott Marquis Queen’s Park,261,6003,5220,"12, 2019",Thailand
+CODE|61671,Bangkok Marriott Hotel The Surawongse,197,5910,2955,"02, 2019",تايلاند
+CODE|61636,Bangkok Marriott Hotel Sukhumvit,1919,47975,34542,"09, 2019",تايلاند
+CODE|61601,Bangkok Cha-Da Hotel,81,1620,1539,"09, 2019",Thailand
+CODE|61566,Bangkok 68,1155,32340,21945,"07, 2019",تايلاند
+CODE|61531,Bandos Maldives,239,4780,3824,"12, 2019",Maldives
+CODE|61496,Banana Spa,518,11396,9842,"01, 2019",Not Found
+CODE|61461,Banana Island Resort Doha by Anantara,764,22156,11460,"05, 2019",Qatar
+CODE|61426,Balturk Hotel Izmit,1277,31925,22986,"02, 2019",تركيا
+CODE|61391,Baltimore Marriott Waterfront,879,22854,17580,"11, 2019",USA
+CODE|61356,Baltimore Marriott Inner Harbor at Camden Yards,1533,32193,26061,"10, 2019",USA
+CODE|61321,Baltic Beach Hotel & Spa,1169,24549,19873,"09, 2019",Latvia
+CODE|61286,Balneario de Lanjarón,602,12642,12040,"07, 2019",España
+CODE|61251,Balmoral Hotel,873,21825,16587,"12, 2019",المملكة المتحدة
+CODE|61216,Bally's Atlantic City,503,12072,9557,"10, 2019",USA
+CODE|61181,Ballarat Suites Accommodation - Best Western Plus,1002,24048,17034,"09, 2019",Australia
+CODE|61146,Balina Paradise Abu Soma Resort,1385,40165,22160,"08, 2019",مصر
+CODE|61111,Balin Boutique Hotel,1983,43626,33711,"06, 2019",تركيا
+CODE|61076,Balim Hotel,345,8625,5520,"05, 2019",Not Found
+CODE|61041,Bali Tropic Resort & Spa,1818,52722,30906,"11, 2019",إندونيسيا
+CODE|61006,Bali Prime Villas,352,9152,6336,"01, 2019",Indonesia
+CODE|60971,Bali Garden Beach Resort,1828,36560,31076,"12, 2019",Indonesia
+CODE|60936,Bali Dynasty Resort,1582,47460,26894,"03, 2019",Indonesia
+CODE|60901,Bali Baliku Beach Front Luxury Private Pool Villas,938,22512,15946,"04, 2019",Not Found
+CODE|60866,Balcova Termal Otel,1863,54027,37260,"03, 2019",تركيا
+CODE|60831,Balcony Hotel & Suites,1652,46256,24780,"06, 2019",Jordan
+CODE|60796,Balangan Paradise Hostel and Restaurant,1792,39424,30464,"08, 2019",Indonesia
+CODE|60761,Balangan Inn,653,15672,11101,"03, 2019",Indonesia
+CODE|60726,Bakuriani Inn,858,18876,13728,"10, 2019",جورجيا
+CODE|60691,Baku Palace Hotel,1834,45850,36680,"09, 2019",Azerbaijan
+CODE|60656,Baku Marriott Hotel Boulevard,221,5304,4199,"08, 2019",Azerbaijan
+CODE|60621,Bakkara Hotel,564,11844,9588,"09, 2019",Ukraine
+CODE|60586,Bakersfield Marriott at the Convention Center,121,3025,2057,"01, 2019",USA
+CODE|60551,Baiyun Hotel,263,7627,4208,"12, 2019",China
+CODE|60516,Baiyoke Suite Hotel,1621,47009,27557,"05, 2019",Thailand
+CODE|60481,Baiyoke Suite Hostel,327,7194,5886,"01, 2019",Thailand
+CODE|60446,Baiyoke Sky Hotel,1782,37422,26730,"01, 2019",تايلاند
+CODE|60411,Baity Hotel Apartments,1442,40376,23072,"05, 2019",UAE
+CODE|60376,Bait Al Amani Suites,155,3565,2480,"02, 2019",السعودية
+CODE|60341,Baisan International Hotel,1843,53447,29488,"11, 2019",البحرين
+CODE|60306,Bairro Alto Hotel,1303,37787,24757,"05, 2019",البرتغال
+CODE|60271,Baia Bursa Hotel,1539,36936,30780,"12, 2019",تركيا
+CODE|60236,Bahrain International Hotel,1623,32460,24345,"04, 2019",Bahrain
+CODE|60201,Bahrain Carlton Hotel,1769,37149,30073,"04, 2019",Bahrain
+CODE|60166,Bahrain Airport Hotel,297,7425,5346,"10, 2019",Bahrain
+CODE|60131,Bahia Principe Luxury Esmeralda,1702,35742,28934,"03, 2019",الدومينيكان
+CODE|60096,Bahia Principe Luxury Cayo Levantado,1822,52838,29152,"06, 2019",Rep. Dominicana
+CODE|60061,Bahia Principe Grand Turquesa,408,8160,7752,"05, 2019",Dominican Republic
+CODE|60026,Bahia Principe Grand Tulum,60,1200,1140,"11, 2019",المكسيك
+CODE|59991,Bahia Principe Grand Punta Cana,909,25452,13635,"06, 2019",الدومينيكان
+CODE|59956,Bahia Principe Grand La Romana,588,14700,11760,"01, 2019",Dominican Republic
+CODE|59921,Bahia Principe Grand Jamaica,196,5880,3724,"11, 2019",Jamaica
+CODE|59886,Bahia Principe Grand Aquamarine,616,14168,11088,"09, 2019",Dominican Republic
+CODE|59851,Bahia Principe Fantasia Punta Cana,1667,46676,30006,"12, 2019",الدومينيكان
+CODE|59816,Bahia Cabana Beach Resort,980,21560,15680,"08, 2019",Not Found
+CODE|59781,Bahi Ajman Palace Hotel,1167,29175,17505,"05, 2019",UAE
+CODE|59746,Bahana Guest House,1836,49572,27540,"08, 2019",Indonesia
+CODE|59711,Bagues Hotel Barcelona 5*,712,16376,10680,"11, 2019",إسبانيا
+CODE|59676,Baglioni Hotel Regina - Rome,1398,32154,22368,"07, 2019",Italy
+CODE|59641,Baglioni Hotel Luna,1425,41325,22800,"12, 2019",إيطاليا
+CODE|59606,Baglioni Hotel London,1410,29610,26790,"04, 2019",UK
+CODE|59571,Baglioni Hotel Carlton - Milan,1211,29064,20587,"10, 2019",Not Found
+CODE|59536,Bagden Hall Hotel,533,14391,9594,"04, 2019",UK
+CODE|59501,"Baeren Hotel, The Bear Inn",538,11836,8070,"01, 2019",سويسرا
+CODE|59466,Badr Al Maqam,47,987,799,"08, 2019",السعودية
+CODE|59431,Bade Hotels Sisli - Summit Hotels & Resorts,1998,55944,31968,"06, 2019",Not Found
+CODE|59396,Badagoni Boutique Hotel Rustaveli,1004,25100,16064,"02, 2019",Georgia
+CODE|59361,Babylon Warwick Hotel,1247,29928,22446,"06, 2019",Iraq
+CODE|59326,Babylon Rotana Baghdad,806,24180,12090,"01, 2019",العراق
+CODE|59291,Babuino 181 - Small Luxury Hotels of the World,1683,33660,31977,"08, 2019",Italy
+CODE|59256,Babillon Hotel & Spa & Restaurant,1395,39060,20925,"02, 2019",Turkey
+CODE|59221,Babel Studios,54,1080,918,"06, 2019",Argentina
+CODE|59186,Bab Al Shams Desert Resort & Spa,1225,33075,19600,"06, 2019",الإمارات
+CODE|59151,Bab Al Qasr Hotel,1710,41040,25650,"10, 2019",UAE
+CODE|59116,Bab Al Multazim Concorde Hotel,750,21750,14250,"09, 2019",Not Found
+CODE|59081,Baan Samui Resort,53,1272,901,"05, 2019",Thailand
+CODE|59046,Baan Laimai Patong Beach Resort,329,9541,5264,"08, 2019",تايلاند
+CODE|59011,B4 Plaza Nice,48,1152,864,"05, 2019",Not Found
+CODE|58976,B&B Trevi Roma,194,5820,2910,"12, 2019",Italia
+CODE|58941,B&B Rabat Médina,320,8960,4800,"12, 2019",Not Found
+CODE|58906,B&B Hotels RJ Copacabana,90,2430,1350,"11, 2019",Brazil
+CODE|58871,B&B Hotels Rio Copacabana Posto 5,635,17145,11430,"06, 2019",Brazil
+CODE|58836,B&B Hotel Roma Fiumicino Aeroporto Fiera 1,1030,28840,16480,"01, 2019",Italia
+CODE|58801,B&B Hotel Prague-City,1041,20820,19779,"07, 2019",Czech Republic
+CODE|58766,B&B Hotel Paris Nord 2 CDG Aéroport,723,18075,11568,"07, 2019",France
+CODE|58731,B&B Hôtel Paris Le Bourget,1645,32900,27965,"04, 2019",فرنسا
+CODE|58696,B&B Hotel Paris 17 Batignolles,1945,48625,35010,"02, 2019",فرنسا
+CODE|58661,B&B Hotel Milano San Siro,1696,49184,32224,"11, 2019",Italy
+CODE|58626,B&B Hotel Milano Aosta,1441,41789,27379,"01, 2019",إيطاليا
+CODE|58591,B&B Hôtel Marne la Vallée Bussy,351,7020,7020,"11, 2019",فرنسا
+CODE|58556,B&B Hotel Madrid Pinar de Las Rozas,1022,20440,16352,"04, 2019",إسبانيا
+CODE|58521,B&B Hotel Madrid Aeropuerto T1 T2 T3,1406,32338,23902,"11, 2019",إسبانيا
+CODE|58486,B&B Hôtel La Rochelle Centre,1807,45175,28912,"08, 2019",فرنسا
+CODE|58451,B&B Hotel Girona 2,1204,36120,19264,"12, 2019",Spain
+CODE|58416,B&B Hotel Fuencarral 52,1957,50882,33269,"10, 2019",Spain
+CODE|58381,B&B Hotel Firenze Nuovo Palazzo Di Giustizia,192,5376,3840,"01, 2019",Italia
+CODE|58346,B&B Hotel Como City Center,976,27328,14640,"11, 2019",Italy
+CODE|58311,B&B Hotel Brussels Centre Louise,953,28590,15248,"02, 2019",Belgium
+CODE|58276,B&B Hotel Barcelona Rubí,817,23693,16340,"09, 2019",إسبانيا
+CODE|58241,B&B Hotel at Disneyland® Paris,221,4641,4420,"05, 2019",France
+CODE|58206,B&B Hotel Amsterdam-Zaandam,1036,20720,20720,"01, 2019",هولندا
+CODE|58171,B Resort & Spa,656,13776,11808,"12, 2019",USA
+CODE|58136,B Residence,1150,23000,20700,"02, 2019",لبنان
+CODE|58101,B Ocean Resort Fort Lauderdale,1909,38180,38180,"11, 2019",USA
+CODE|58066,B Business Hotel & Spa,1037,25925,19703,"11, 2019",Turkey
+CODE|58031,Azure Cave Suites - Hotel,1680,42000,31920,"01, 2019",Turkey
+CODE|57996,Azura Deluxe Resort & Aqua Sorgun,986,26622,14790,"06, 2019",Turkey
+CODE|57961,Azur Paradise,1461,39447,27759,"03, 2019",موريشيوس
+CODE|57926,Azumi Boutique Hotel,1980,49500,39600,"11, 2019",الفلبين
+CODE|57891,azuLine Hotel Bergantin,1759,36939,29903,"05, 2019",Spain
+CODE|57856,AzuLine Hotel Bahamas & Bahamas II,284,7100,4260,"04, 2019",Spain
+CODE|57821,azuLine Apartamentos Sunshine,1628,47212,29304,"12, 2019",Not Found
+CODE|57786,Azka Restaurant,1014,29406,17238,"11, 2019",Not Found
+CODE|57751,Aziyade Hotel,1864,50328,27960,"02, 2019",Not Found
+CODE|57716,AZIMUT Hotel Smolenskaya Moscow,1563,45327,25008,"07, 2019",روسيا
+CODE|57681,AZIMUT Hotel Nuremberg,1041,28107,17697,"01, 2019",Germany
+CODE|57646,AZIMUT Hotel Munich City East,1335,30705,24030,"07, 2019",Germany
+CODE|57611,AZIMUT Hotel Erding,275,5500,4950,"01, 2019",Germany
+CODE|57576,AZIMUT Hotel Berlin Kurfürstendamm,451,9471,6765,"07, 2019",Germany
+CODE|57541,Azimut Hotel Berlin City South,1037,21777,16592,"09, 2019",Germany
+CODE|57506,Azcot Hotel,1374,30228,23358,"09, 2019",أذربيجان
+CODE|57471,Azar Hotel (Boutique hotel),1765,44125,30005,"02, 2019",مصر
+CODE|57436,Azalaï Hotel de la Plage,960,22080,15360,"06, 2019",Bénin
+CODE|57401,Azade Hotel,1900,41800,32300,"08, 2019",تركيا
+CODE|57366,AZ Hotel Zeralda,1154,28850,21926,"10, 2019",الجزائر
+CODE|57331,AZ Hotel Vague D'or,1745,43625,29665,"06, 2019",Not Found
+CODE|57296,Ayyan Al Baraka Hotel,1239,37170,19824,"05, 2019",Not Found
+CODE|57261,Ayrest Hotel 华欣,1097,32910,18649,"12, 2019",Thailand
+CODE|57226,Ayres Hotel Fountain Valley,431,10775,8189,"04, 2019",USA
+CODE|57191,Ayre Hotel Sevilla,584,15184,9928,"10, 2019",Spain
+CODE|57156,Ayre Hotel Alfonso II,1187,30862,17805,"07, 2019",Spain
+CODE|57121,Aypart Hotel,1144,29744,19448,"05, 2019",تركيا
+CODE|57086,Ayodya Resort Bali,1238,28474,19808,"07, 2019",Indonesia
+CODE|57051,Ayna Hotel,1920,44160,34560,"10, 2019",Not Found
+CODE|57016,Ayla Ibri Hotel,741,17784,11115,"12, 2019",عُمان
+CODE|56981,Ayla Hotel,513,13338,8721,"09, 2019",الإمارات
+CODE|56946,Ayla Grand Hotel,1003,28084,19057,"10, 2019",الإمارات
+CODE|56911,Ayla Bawadi Hotel,145,3625,2175,"06, 2019",الإمارات
+CODE|56876,Ayhan Hotel,1941,44643,34938,"10, 2019",تركيا
+CODE|56841,Ayder Yesil Vadi Otel,508,10668,8636,"02, 2019",Turkey
+CODE|56806,Ayder Doga Resort,1143,28575,22860,"12, 2019",تركيا
+CODE|56771,Ayasultan Hotel,1465,39555,23440,"03, 2019",تركيا
+CODE|56736,Ayass Hotel,1121,25783,19057,"09, 2019",الأردن
+CODE|56701,Ayasofya Hotel,493,14790,7888,"08, 2019",تركيا
+CODE|56666,Ayara Hotel Resort and Spa,936,27144,18720,"08, 2019",تايلاند
+CODE|56631,Ayapam Boutique,658,16450,12502,"04, 2019",Turkey
+CODE|56596,AYANA Resort Bali,1038,20760,20760,"04, 2019",Indonesia
+CODE|56561,Ayan furnished units and Suites,1493,31353,29860,"11, 2019",Saudi Arabia
+CODE|56526,Ayada Maldives,13,325,195,"06, 2019",Maldives
+CODE|56491,Aya Boutique Hotel Pattaya,225,6075,3825,"03, 2019",Thailand
+CODE|56456,Aya Beach Bungalows,112,2912,1680,"08, 2019",Tanzania
+CODE|56421,Axor Feria Hotel,792,16632,12672,"04, 2019",إسبانيا
+CODE|56386,Axis Suites Hotel,555,12765,9435,"07, 2019",Ghana
+CODE|56351,Axis Hotel 4*,1288,34776,21896,"02, 2019",Belgium
+CODE|56316,Axel Hotel Madrid - Adults Only,1768,44200,33592,"05, 2019",إسبانيا
+CODE|56281,Axel Hotel Berlin – Adults Only,1738,48664,26070,"04, 2019",Germany
+CODE|56246,Axel Hotel Barcelona – Adults Only,62,1302,992,"04, 2019",Spain
+CODE|56211,AX The Saint John,111,2220,1998,"12, 2019",Malta
+CODE|56176,AWFAD Hotel,143,2860,2574,"09, 2019",السعودية
+CODE|56141,Awana Hotel,541,12443,8656,"03, 2019",ماليزيا
+CODE|56106,Awaliv Suites,500,11500,9000,"12, 2019",Saudi Arabia
+CODE|56071,Awaliv International Hotel,873,21825,16587,"02, 2019",السعودية
+CODE|56036,Awal Hotel Manama,19,437,323,"01, 2019",Not Found
+CODE|56001,Avra Imperial Hotel,1517,30340,27306,"08, 2019",Greece
+CODE|55966,"Avista Hideaway Phuket Patong, MGallery by Sofitel",988,29640,15808,"07, 2019",Thailand
+CODE|55931,Avillion Admiral Cove,1762,38764,29954,"04, 2019",Malaysia
+CODE|55896,Avicenna Hotel,1091,32730,20729,"03, 2019",Turkey
+CODE|55861,Aviator Sheremetyevo,1409,40861,22544,"12, 2019",Russia
+CODE|55826,Averof Hotel,1967,53109,39340,"11, 2019",Not Found
+CODE|55791,Avenue Hotel Dubai,1694,45738,32186,"10, 2019",UAE
+CODE|55756,Avenue Hotel Baku,103,3090,1648,"02, 2019",Azerbaijan
+CODE|55721,Avenue Hotel,1877,39417,37540,"11, 2019",جورجيا
+CODE|55686,Aventura Mexicana Hotel,90,2610,1350,"08, 2019",Not Found
+CODE|55651,Avenida Palace,1772,38984,26580,"09, 2019",Portugal
+CODE|55616,avendi Hotel am Griebnitzsee,1522,35006,30440,"09, 2019",Germany
+CODE|55581,Avcilar Vizyon Hotel,897,20631,17940,"06, 2019",تركيا
+CODE|55546,Avcılar İnci Hotel,1498,41944,25466,"07, 2019",تركيا
+CODE|55511,avcılar dedem hotel 2,962,26936,19240,"04, 2019",Turkey
+CODE|55476,Avari Towers,454,10442,7718,"11, 2019",Pakistan
+CODE|55441,Avari Hotel Lahore,1573,47190,23595,"12, 2019",Pakistan
+CODE|55406,Avari Al Barsha Apartment Hotel,782,21114,14858,"10, 2019",Not Found
+CODE|55371,Avanti International Resort,1268,31700,20288,"12, 2019",USA
+CODE|55336,AVANTGARDE LEVENT HOTEL,1136,29536,18176,"07, 2019",تركيا
+CODE|55301,Avantgarde Hotel Taksim,330,8910,5940,"09, 2019",تركيا
+CODE|55266,Avantgarde Collection Taksim Square Hotel,1410,39480,25380,"12, 2019",Turkey
+CODE|55231,AVANI Windhoek Hotel & Casino,815,24450,14670,"06, 2019",Namibia
+CODE|55196,AVANI Victoria Falls Resort,351,10530,6318,"10, 2019",Zambia
+CODE|55161,Avani Sukhumvit Bangkok Hotel,11,275,187,"07, 2019",تايلاند
+CODE|55126,AVANI Seychelles Barbarons Resort & Spa,1922,51894,30752,"04, 2019",SC
+CODE|55091,AVANI Sepang Goldcoast Resort,516,10320,7740,"06, 2019",ماليزيا
+CODE|55056,AVANI Riverside Bangkok Hotel,1712,37664,32528,"01, 2019",تايلاند
+CODE|55021,AVANI Quy Nhon Resort & Spa,1877,39417,31909,"08, 2019",فيتنام
+CODE|54986,AVANI Pemba Beach Hotel,1247,33669,19952,"01, 2019",Mozambique
+CODE|54951,Avani Pattaya Resort,13,364,208,"10, 2019",تايلاند
+CODE|54916,Avani Palm View Dubai Hotel & Suites,462,11088,7854,"12, 2019",الإمارات
+CODE|54881,Avani Muscat Hotel,1311,32775,20976,"02, 2019",Oman
+CODE|54846,AVANI Maseru Hotel,1983,51558,33711,"12, 2019",Lesotho
+CODE|54811,AVANI Lesotho Hotel & Casino,556,13900,8896,"11, 2019",Lesotho
+CODE|54776,Avani Ibn Battuta Dubai Hotel,1636,42536,26176,"04, 2019",الإمارات
+CODE|54741,AVANI Hua Hin Resort & Villas,1081,21620,20539,"03, 2019",تايلاند
+CODE|54706,AVANI Gaborone Resort & Casino,49,1225,882,"03, 2019",Botswana
+CODE|54671,Avani Deira Dubai Hotel,342,7524,5472,"03, 2019",UAE
+CODE|54636,AVANI Bentota Resort & Spa,265,6095,4240,"03, 2019",Sri Lanka
+CODE|54601,AVANI Atrium Bangkok,1406,30932,21090,"04, 2019",تايلاند
+CODE|54566,Avana Bangkok Hotel,536,10720,9112,"06, 2019",Thailand
+CODE|54531,Avalon Palace Hotel,1335,34710,25365,"03, 2019",Greece
+CODE|54496,Avalon Hotel Beverly Hills,418,10868,6688,"12, 2019",USA
+CODE|54461,Avala Resort & Villas,1598,36754,28764,"08, 2019",Montenegro
+CODE|54426,Austria Trend Parkhotel Schönbrunn,595,11900,8925,"03, 2019",Austria
+CODE|54391,Austria Trend Hotel Zoo Wien,1808,52432,36160,"10, 2019",Austria
+CODE|54356,Austria Trend Hotel Schloss Wilhelminenberg,1083,25992,20577,"12, 2019",Austria
+CODE|54321,Austria Trend Hotel Schillerpark,39,1131,741,"11, 2019",Austria
+CODE|54286,Austria Trend Hotel Salzburg West,730,20440,11680,"12, 2019",Austria
+CODE|54251,Austria Trend Hotel Salzburg Mitte,1842,42366,31314,"09, 2019",Austria
+CODE|54216,Austria Trend Hotel Ljubljana,1104,30912,18768,"03, 2019",Slovenia
+CODE|54181,Austria Trend Hotel Europa Wien,1113,31164,20034,"10, 2019",Austria
+CODE|54146,Austria Trend Hotel Europa Salzburg,1187,35610,17805,"02, 2019",Austria
+CODE|54111,Austria Trend Hotel Doppio,1984,53568,35712,"02, 2019",Austria
+CODE|54076,Austria Trend Hotel Congress Innsbruck,193,5790,3860,"07, 2019",Austria
+CODE|54041,Austria Trend Hotel Bratislava,1090,29430,19620,"04, 2019",Not Found
+CODE|54006,Austria Trend Hotel Bosei,344,8944,5504,"02, 2019",Austria
+CODE|53971,Austria Trend Hotel Astoria,1452,34848,29040,"10, 2019",Austria
+CODE|53936,Austria Trend Hotel Ananas,1388,38864,23596,"04, 2019",Austria
+CODE|53901,Austin's Saint Lazare Hotel,173,3806,3287,"03, 2019",فرنسا
+CODE|53866,Austin Marriott North,1659,38157,24885,"02, 2019",USA
+CODE|53831,Austin Hotel Baku,1404,42120,25272,"09, 2019",Azerbaijan
+CODE|53796,aurumOne Makati,1846,47996,33228,"02, 2019",Not Found
+CODE|53761,Aurora Oriental Resort,1621,35662,29178,"04, 2019",Egypt
+CODE|53726,Aurora Bay Resort Marsa Alam,495,13365,7920,"03, 2019",مصر
+CODE|53691,Auris Boutique Hotel Apartments,373,10817,5595,"11, 2019",UAE
+CODE|53656,Auris Alfanar Villa Hotel,1383,33192,26277,"12, 2019",السعودية
+CODE|53621,Auris Alfanar,502,14056,8534,"12, 2019",السعودية
+CODE|53586,Auriane Porte de Versailles,41,1107,697,"01, 2019",France
+CODE|53551,Áurea Washington Irving,1472,38272,23552,"10, 2019",Spain
+CODE|53516,Auramar Beach Resort,658,19740,10528,"11, 2019",Portugal
+CODE|53481,Aura Resort Sidi Abdel Rahman,1270,35560,24130,"07, 2019",مصر
+CODE|53446,Augustus Hotel & Resort,225,4725,3825,"06, 2019",إيطاليا
+CODE|53411,"Augustine, a Luxury Collection Hotel, Prague",225,5400,4050,"10, 2019",Czech Republic
+CODE|53376,Augustine Hotel,1876,48776,33768,"11, 2019",Czech Republic
+CODE|53341,Augusta Hotel Apartments,1889,39669,28335,"11, 2019",Not Found
+CODE|53306,"Auberge Du Vin, A Tribute Portfolio Hotel, Tupungato",720,20160,14400,"11, 2019",Not Found
+CODE|53271,Au Cadran Bleu,804,16080,12060,"08, 2019",Not Found
+CODE|53236,Attica 21 Barcelona Mar,348,8352,5220,"04, 2019",إسبانيا
+CODE|53201,Attalos Hotel,782,21896,14076,"06, 2019",Not Found
+CODE|53166,Atse Yohannes Hotel,1625,35750,24375,"10, 2019",Not Found
+CODE|53131,Atropat Hotel,1378,30316,24804,"09, 2019",أذربيجان
+CODE|53096,Atrium Zenon,1842,42366,33156,"09, 2019",قبرص
+CODE|53061,Atrium Platinum Resort Hotel & Spa,1566,32886,29754,"09, 2019",اليونان
+CODE|53026,Atrium Inn Vancouver,766,15320,12256,"05, 2019",Canada
+CODE|52991,Atrium Hotel Heathrow,1782,37422,33858,"09, 2019",UK
+CODE|52956,Atrium Hotel,887,19514,15966,"05, 2019",Greece
+CODE|52921,Atrium Fashion Hotel,832,23296,15808,"12, 2019",Hungary
+CODE|52886,Atrium Boutique Hotel,895,23270,13425,"11, 2019",Thailand
+CODE|52851,Atrium Beach and Spa Hotel All Inclusive,1905,49530,28575,"12, 2019",St. Maarten
+CODE|52816,Atrium,607,13354,10319,"09, 2019",Not Found
+CODE|52781,Atlas Sky Airport,262,7074,4454,"11, 2019",Morocco
+CODE|52746,Atlas Rif & Spa,1267,35476,24073,"11, 2019",Not Found
+CODE|52711,Atlas Orient Oujda,1014,28392,19266,"09, 2019",المغرب
+CODE|52676,Atlas Medina & Spa,540,14580,10800,"10, 2019",المغرب
+CODE|52641,Atlas Marina Beach,895,25060,14320,"11, 2019",Not Found
+CODE|52606,Atlas Hotel Brussels,941,25407,17879,"12, 2019",Belgium
+CODE|52571,Atlas Hotel Baku,1999,47976,37981,"04, 2019",Azerbaijan
+CODE|52536,ATLAS Grand Hotel Garmisch-Partenkirchen,371,10759,6678,"10, 2019",Germany
+CODE|52501,Atlas Asni Marrakech,1598,31960,28764,"09, 2019",المغرب
+CODE|52466,Atlas Amadil Beach Hotel,1715,44590,27440,"02, 2019",المغرب
+CODE|52431,Atlas Almohades Casablanca City Center,50,1000,900,"02, 2019",Not Found
+CODE|52396,"Atlantis, The Palm",1740,40020,33060,"04, 2019",UAE
+CODE|52361,Atlantis Hotel Ξενοδοχείο,963,25038,19260,"12, 2019",Ελλάδα
+CODE|52326,Atlantis Hotel,1106,30968,22120,"12, 2019",الإمارات
+CODE|52291,Atlantis City Hotel,1747,45422,27952,"12, 2019",Greece
+CODE|52256,Atlantis Casino Resort Spa,395,9480,6715,"04, 2019",USA
+CODE|52221,Atlantis,473,11352,8514,"03, 2019",Not Found
+CODE|52186,AtlanticHotels Studio 17,644,14812,12880,"12, 2019",Portugal
+CODE|52151,Atlantica Miramare Beach,1729,36309,31122,"04, 2019",Cyprus
+CODE|52116,Atlantic Palm Beach,1925,48125,34650,"06, 2019",Morocco
+CODE|52081,Atlantic Palace,1045,26125,17765,"12, 2019",USA
+CODE|52046,Atlantic Hotel Universum,319,8294,5423,"02, 2019",Germany
+CODE|52011,ATLANTIC Hotel Airport,692,17992,12456,"05, 2019",Germany
+CODE|51976,Atlantic Hôtel,1312,34112,24928,"09, 2019",France
+CODE|51941,Atlantic Hotel,1601,41626,25616,"05, 2019",Czech Republic
+CODE|51906,Atlantic Beach Hotel,358,10024,5728,"04, 2019",USA
+CODE|51871,Atlantic Agdal,216,4752,4320,"10, 2019",المغرب
+CODE|51836,Atlanta Marriott Suites Midtown,1755,50895,28080,"08, 2019",USA
+CODE|51801,Atlanta Marriott Marquis,658,17766,12502,"04, 2019",USA
+CODE|51766,Atlanta Evergreen Lakeside Resort,876,20148,15768,"03, 2019",USA
+CODE|51731,Atlanta Airport Marriott Gateway,1657,34797,33140,"04, 2019",USA
+CODE|51696,Atiram Premier Hotel,875,21000,17500,"11, 2019",البحرين
+CODE|51661,ATIRAM Olaya Suites Hotel,1249,37470,18735,"07, 2019",Bahrain
+CODE|51626,Atiram Jewel Hotel,1843,44232,29488,"03, 2019",البحرين
+CODE|51591,Atik Palace Hotel,1109,31052,21071,"01, 2019",Turkey
+CODE|51556,ATHINAIS HOTEL,862,18102,15516,"06, 2019",Greece
+CODE|51521,Athina Palace,1703,42575,30654,"07, 2019",اليونان
+CODE|51486,AthenStyle,919,22975,15623,"10, 2019",Greece
+CODE|51451,Athens Zafolia Hotel,1996,55888,37924,"02, 2019",Greece
+CODE|51416,Athens Tiare Hotel,1702,34040,27232,"03, 2019",اليونان
+CODE|51381,Athens One Smart Hotel,1166,34980,23320,"09, 2019",Greece
+CODE|51346,Athens Mirabello S.A.,485,13580,9700,"10, 2019",Greece
+CODE|51311,Athens Marriott Hotel,868,19964,13888,"03, 2019",Greece
+CODE|51276,Athens Lotus Hotel,1858,48308,29728,"10, 2019",Greece
+CODE|51241,Athens Ledra Hotel,1374,27480,26106,"05, 2019",Not Found
+CODE|51206,Athens Gate Hotel,1144,33176,21736,"10, 2019",Greece
+CODE|51171,Athens Family Apartments,1048,27248,18864,"10, 2019",Greece
+CODE|51136,Athens Cypria Hotel,888,23976,16872,"08, 2019",Greece
+CODE|51101,Athens City Hotel,854,21350,12810,"07, 2019",Greece
+CODE|51066,Athens Center Square Hotel,368,7728,6624,"03, 2019",Greece
+CODE|51031,Athens Capital Hotel - colección MGallery,11,264,165,"06, 2019",اليونان
+CODE|50996,Athens Avenue Hotel,447,9387,8940,"05, 2019",Greece
+CODE|50961,ATHENS ATRIUM HOTEL & SUITES,186,5580,3720,"11, 2019",Greece
+CODE|50926,Atheneum Suite Hotel,1359,32616,24462,"08, 2019",USA
+CODE|50891,Athenaeum Grand Hotel,1055,21100,20045,"11, 2019",اليونان
+CODE|50856,Ateneo Garden Palace,939,20658,14085,"09, 2019",Italy
+CODE|50821,Atenea Calabria Apartaments 3*,93,2139,1860,"06, 2019",Spain
+CODE|50786,Atelier ApartHotel,1259,33993,20144,"01, 2019",Poland
+CODE|50751,Atana Musandam Resort,1655,49650,31445,"11, 2019",Oman
+CODE|50716,Atana Khasab Hotel,855,23940,14535,"06, 2019",Oman
+CODE|50681,Atana Hotel,1569,42363,23535,"02, 2019",UAE
+CODE|50646,Atakosk Hotel,4,100,68,"10, 2019",Turkey
+CODE|50611,Atahotel Capotaormina,1692,33840,30456,"04, 2019",Italy
+CODE|50576,At Pingnakorn HuayKaew Hotel,427,11956,7259,"02, 2019",Thailand
+CODE|50541,AT EASE saladaeng,1035,31050,20700,"11, 2019",تايلاند
+CODE|50506,Aswar hotel suite al ulaya,218,5668,4360,"08, 2019",السعودية
+CODE|50471,Aswar Hotel Riyadh,17,374,323,"06, 2019",السعودية
+CODE|50436,Aswar Boutique Hotel,935,22440,17765,"11, 2019",السعودية
+CODE|50401,Asur Hotel,1740,50460,34800,"02, 2019",تركيا
+CODE|50366,Astra - Hotel,182,5096,2912,"03, 2019",إيطاليا
+CODE|50331,Astoria Plaza,1247,33669,19952,"07, 2019",الفلبين
+CODE|50296,Astoria Palawan,1229,33183,19664,"05, 2019",Philippines
+CODE|50261,Astoria Hotel,1272,34344,20352,"06, 2019",تركيا
+CODE|50226,Astor Hotel,1642,44334,26272,"01, 2019",اليونان
+CODE|50191,Astor Court Hotel,852,21300,14484,"05, 2019",UK
+CODE|50156,Aston Waikiki Circle Hotel,279,6138,4743,"07, 2019",USA
+CODE|50121,Aston Tropicana Hotel,799,23970,15181,"06, 2019",إندونيسيا
+CODE|50086,Aston Sunset Beach Resort - Gili Trawangan,738,18450,12546,"11, 2019",Indonesia
+CODE|50051,Aston Sentul Lake Resort & Conference Center,141,3525,2679,"12, 2019",Indonesia
+CODE|50016,Aston Samarinda Hotel & Convention Center,851,21275,14467,"02, 2019",Not Found
+CODE|49981,Aston Rasuna,807,20175,13719,"12, 2019",Not Found
+CODE|49946,Aston Priority Simatupang Hotel & Conference Center,859,24052,12885,"08, 2019",Indonesia
+CODE|49911,Aston Pluit Hotel & Residence,1192,29800,23840,"07, 2019",إندونيسيا
+CODE|49876,Aston Pasteur,1206,26532,18090,"01, 2019",إندونيسيا
+CODE|49841,Aston Marina Ancol,763,19075,12971,"11, 2019",Indonesia
+CODE|49806,Aston Makassar Hotel & Convention Center,1299,31176,19485,"03, 2019",Indonesia
+CODE|49771,Aston La Scala Nice,626,14398,12520,"03, 2019",فرنسا
+CODE|49736,Aston Jember Hotel & Conference Center,1960,54880,37240,"04, 2019",Indonesia
+CODE|49701,ASTON Inn Pandanaran Semarang,995,26865,15920,"09, 2019",Indonesia
+CODE|49666,Aston Inn Mataram,528,13728,7920,"09, 2019",Indonesia
+CODE|49631,Aston Braga Hotel & Residence,721,15141,12978,"11, 2019",Indonesia
+CODE|49596,Aston Bogor Hotel & Resort,1889,41558,35891,"02, 2019",إندونيسيا
+CODE|49561,Aston at Kuningan Suites,1220,30500,18300,"03, 2019",Indonesia
+CODE|49526,ASTIR BEACH HOTEL,1055,30595,18990,"01, 2019",Greece
+CODE|49491,Asteria Bodrum Resort,190,4750,3040,"03, 2019",تركيا
+CODE|49456,Aster Hotel,449,13021,7633,"01, 2019",السعودية
+CODE|49421,Astana Marriott Hotel,1748,45448,34960,"06, 2019",Kazakhstan
+CODE|49386,Assos Hotel Istanbul,230,4830,3910,"06, 2019",تركيا
+CODE|49351,"Assila, a Luxury Collection Hotel, Jeddah",272,5984,4352,"06, 2019",السعودية
+CODE|49316,Assenzio,361,7942,6137,"12, 2019",Not Found
+CODE|49281,Aspro Spiti,1348,32352,24264,"12, 2019",Not Found
+CODE|49246,Aspira Parc 39 Residence,34,918,544,"04, 2019",Not Found
+CODE|49211,Aspira One Sutthisan,733,21990,10995,"10, 2019",تايلاند
+CODE|49176,Aspen Hotel,222,6438,3330,"12, 2019",تركيا
+CODE|49141,Aspen,990,24750,17820,"08, 2019",Not Found
+CODE|49106,Aspasios Urquinaona Design,830,19920,14940,"02, 2019",Spain
+CODE|49071,Asoul Najed 2 Hotel Suite,773,19325,13141,"07, 2019",Not Found
+CODE|49036,Askoç Hotel,1871,56130,37420,"08, 2019",تركيا
+CODE|49001,Aska Lara Resort & SPA,964,21208,18316,"05, 2019",تركيا
+CODE|48966,Asitane Life Hotel,971,25246,17478,"07, 2019",تركيا
+CODE|48931,Asiana Hotel Dubai,1514,43906,27252,"08, 2019",UAE
+CODE|48896,Asian Mansion II Condotel,1888,41536,28320,"11, 2019",PH
+CODE|48861,Asia International Hotel Guangdong,1245,26145,23655,"08, 2019",China
+CODE|48826,Asia Hotel Bangkok,684,20520,10260,"09, 2019",Not Found
+CODE|48791,Asia City Hotel Istanbul,1514,37850,25738,"05, 2019",تركيا
+CODE|48756,Ashley Hotel Jakarta,1786,48222,28576,"05, 2019",Indonesia
+CODE|48721,Ashlee Hub Hotel Patong,1273,26733,20368,"05, 2019",Thailand
+CODE|48686,Ashburn Hotel,1584,31680,25344,"03, 2019",UK
+CODE|48651,Aselia Hotel,1195,25095,20315,"11, 2019",تركيا
+CODE|48616,Aseania Resort & Spa Langkawi Island,73,1606,1314,"08, 2019",Not Found
+CODE|48581,Asdal Gulf Inn,1458,33534,24786,"08, 2019",Bahrain
+CODE|48546,Ascott Tahlia Jeddah,1887,43401,35853,"12, 2019",السعودية
+CODE|48511,Ascott Sudirman Jakarta,467,12609,8873,"06, 2019",إندونيسيا
+CODE|48476,Ascott Sentral Kuala Lumpur,423,12267,7191,"05, 2019",ماليزيا
+CODE|48441,Ascott Sari Jeddah,1667,46676,25005,"07, 2019",السعودية
+CODE|48406,Ascott Rafal Olaya Riyadh,1064,30856,18088,"06, 2019",السعودية
+CODE|48371,Ascott Park Place Dubai,865,22490,12975,"09, 2019",UAE
+CODE|48336,Ascott Orchard Singapore,1860,55800,31620,"04, 2019",Singapore
+CODE|48301,Ascott Kuningan Jakarta,1802,52258,30634,"05, 2019",Indonesia
+CODE|48266,Ascott Kuala Lumpur,724,15204,11584,"11, 2019",ماليزيا
+CODE|48231,Ascott Jakarta,1647,39528,24705,"05, 2019",إندونيسيا
+CODE|48196,Ascott Gurney Penang,50,1050,900,"06, 2019",Malaysia
+CODE|48161,Ascott Corniche Al Khobar,1821,52809,36420,"07, 2019",السعودية
+CODE|48126,Ascott,1228,34384,23332,"09, 2019",Not Found
+CODE|48091,Ascot Hyde Park Hotel,633,13926,12027,"04, 2019",المملكة المتحدة
+CODE|48056,Ascot Hotel,1990,49750,35820,"08, 2019",Denmark
+CODE|48021,Ascensor da Bica - Lisbon Serviced Apartments,1941,50466,29115,"11, 2019",Portugal
+CODE|47986,As Hotel Porta de Barcelona,1290,28380,20640,"01, 2019",إسبانيا
+CODE|47951,Aryana Hotel,1942,44666,33014,"12, 2019",الإمارات
+CODE|47916,Aryaduta Semanggi,1016,20320,19304,"06, 2019",إندونيسيا
+CODE|47881,Aryaduta Pekanbaru,787,19675,11805,"08, 2019",Indonesia
+CODE|47846,Aryaduta Palembang,1851,44424,29616,"01, 2019",Indonesia
+CODE|47811,Aryaduta Medan,983,25558,14745,"04, 2019",Indonesia
+CODE|47776,Aryaduta Bandung,1659,34839,31521,"09, 2019",Indonesia
+CODE|47741,ARYADUTA BALI,1352,27040,21632,"12, 2019",Indonesia
+CODE|47706,Arvi,811,21897,13787,"08, 2019",Not Found
+CODE|47671,Arusha Corridor Spring Hotel,514,10794,9252,"10, 2019",Tanzania
+CODE|47636,Aruna Hotel,1372,28812,27440,"10, 2019",تركيا
+CODE|47601,Arumaila Hotel - Souq Waqif Boutique Hotels,368,7728,6624,"06, 2019",Qatar
+CODE|47566,Aruba Marriott Resort & Stellaris Casino,1157,27768,20826,"06, 2019",Aruba
+CODE|47531,Arts Hotel Taksim,336,8064,6048,"03, 2019",Turkey
+CODE|47496,Arts Hotel Istanbul,1710,46170,34200,"07, 2019",Turkey
+CODE|47461,art'otel berlin mitte,372,9300,5952,"01, 2019",ألمانيا
+CODE|47426,art'otel amsterdam,1399,29379,25182,"06, 2019",هولندا
+CODE|47391,Artisan Senses Quinta Avenida-Adults Only,1405,29505,26695,"10, 2019",Mexico
+CODE|47356,Artis Hotel Rome,1244,34832,18660,"07, 2019",Italy
+CODE|47321,Artika Hotel,1052,24196,18936,"12, 2019",مصر
+CODE|47286,Artiem Capri,1069,32070,16035,"08, 2019",Spain
+CODE|47251,Artıç Hotel,32,768,480,"02, 2019",Turkey
+CODE|47216,Arthur Garden Inn Hotel,1949,58470,31184,"03, 2019",Austria
+CODE|47181,Arthotel ANA Prime,1847,53563,29552,"11, 2019",Austria
+CODE|47146,Arthotel ANA Enzian,1061,31830,20159,"07, 2019",Austria
+CODE|47111,Arthotel ANA Diva,499,14471,8982,"11, 2019",ألمانيا
+CODE|47076,Artemis Hotel,576,12096,10368,"12, 2019",Turkey
+CODE|47041,Artemis Cave Suites,778,22562,13226,"11, 2019",Turkey
+CODE|47006,Arte Hotel Wien Stadthalle,1764,38808,35280,"01, 2019",Österreich
+CODE|46971,arte Hotel Salzburg,703,15466,11248,"01, 2019",Austria
+CODE|46936,Artama Hotel,601,13823,12020,"05, 2019",السعودية
+CODE|46901,Artal Taiba Hotel,178,4450,2848,"02, 2019",Not Found
+CODE|46866,Artal Al Munawara Hotel,338,8450,6760,"04, 2019",Not Found
+CODE|46831,Art View Hotel Al Riyadh,1125,29250,19125,"02, 2019",السعودية
+CODE|46796,Art Suites Korai,1729,34580,25935,"01, 2019",Greece
+CODE|46761,Art Palace Suites & Spa,1893,56790,32181,"02, 2019",المغرب
+CODE|46726,Art Maisons Aspaki Exclusive Suites,1124,30348,16860,"06, 2019",Greece
+CODE|46691,Art Hotel Athens,942,26376,14130,"02, 2019",Greece
+CODE|46656,Art Deco Imperial Hotel,1727,36267,34540,"06, 2019",Czech Republic
+CODE|46621,Art Deco Hotel Montana,901,22525,14416,"05, 2019",Switzerland
+CODE|46586,Art City Otel,136,2992,2040,"09, 2019",تركيا
+CODE|46551,Art Boutique Hotel,1824,36480,27360,"08, 2019",Not Found
+CODE|46516,Arsen Hotel,279,6138,4743,"11, 2019",تركيا
+CODE|46481,Arosfa Hotel,1347,37716,20205,"09, 2019",المملكة المتحدة
+CODE|46446,Arosa Rio Hotel,739,19953,11824,"02, 2019",Brazil
+CODE|46411,Aros Alfaisaliah Furnished Units,1647,32940,32940,"01, 2019",Saudi Arabia
+CODE|46376,Arona Hotel Frankfurt Rüsselsheim,1417,38259,24089,"08, 2019",Deutschland
+CODE|46341,Aron Hotel Prague,269,7801,4035,"09, 2019",Czech Republic
+CODE|46306,Arnold Palmer's Bay Hill Club & Lodge,1189,27347,22591,"08, 2019",USA
+CODE|46271,Arniston Spa Hotel,398,10746,5970,"09, 2019",جنوب أفريقيا
+CODE|46236,Armis Hotel,1480,38480,25160,"04, 2019",Turkey
+CODE|46201,Armenia Marriott Hotel Yerevan,623,16821,10591,"02, 2019",أرمينيا
+CODE|46166,Armeni Village Rooms & Suites,1846,42458,29536,"06, 2019",Greece
+CODE|46131,Armed Forces Officers Club and Hotel,1758,35160,29886,"12, 2019",Not Found
+CODE|46096,Armani Hotel Milano,754,18096,12064,"10, 2019",إيطاليا
+CODE|46061,Armani Hotel Dubai,1815,38115,36300,"11, 2019",الإمارات
+CODE|46026,Arman Villas,733,18325,14660,"01, 2019",كرواتيا
+CODE|45991,Arman Hotel,1122,23562,19074,"08, 2019",البحرين
+CODE|45956,Armalong Winery Chalets,1630,32600,27710,"02, 2019",Australia
+CODE|45921,Armada Istanbul Old City Hotel,438,13140,8322,"11, 2019",تركيا
+CODE|45886,Armada Avenue Hotel,1187,28488,20179,"08, 2019",الإمارات
+CODE|45851,Arlo SoHo,1986,47664,35748,"12, 2019",أمريكا
+CODE|45816,Arkin Palm Beach Hotel,987,24675,15792,"06, 2019",Northern Cyprus
+CODE|45781,Arkan Al Manar,804,23316,12060,"11, 2019",Not Found
+CODE|45746,ARKADI HOTEL,490,10780,9310,"07, 2019",Greece
+CODE|45711,Arjaan by Rotana Dubai Media City,1821,47346,34599,"09, 2019",الإمارات
+CODE|45676,Arizona Grand Resort & Spa,915,24705,17385,"07, 2019",أمريكا
+CODE|45641,Arizona Biltmore,899,22475,16182,"04, 2019",USA
+CODE|45606,Aristoteles Hotel,281,5620,5339,"09, 2019",Italy
+CODE|45571,Ariston Hotel,925,24050,13875,"12, 2019",Italy
+CODE|45536,Arion Swiss-Belhotel Bandung,243,5103,4374,"04, 2019",Indonesia
+CODE|45501,Arion Swiss - Belhotel,1056,22176,21120,"02, 2019",Indonesia
+CODE|45466,Arion Cityhotel Vienna und Appartements,542,13008,9756,"02, 2019",Austria
+CODE|45431,Arion Athens Hotel,996,27888,14940,"04, 2019",Greece
+CODE|45396,Arinza Hotel,1458,30618,21870,"07, 2019",المملكة المتحدة
+CODE|45361,Arinara Bangtao Beach Resort,213,4899,3621,"04, 2019",تايلاند
+CODE|45326,Arie Lagoon,1034,28952,18612,"05, 2019",سريلانكا
+CODE|45291,Arianna Hotel,1674,46872,28458,"11, 2019",Italy
+CODE|45256,ARIA Resort & Casino Las Vegas,724,17376,14480,"11, 2019",USA
+CODE|45221,Aria Claros Beach&Spa Resort,633,13293,10761,"05, 2019",تركيا
+CODE|45186,Argos Hotel,720,15120,12960,"01, 2019",Turkey
+CODE|45151,Argo Hotel,130,3250,2210,"10, 2019",Greece
+CODE|45116,Argenta Suites Belgrano,90,2250,1800,"10, 2019",Argentina
+CODE|45081,Argana Hotel Agadir,59,1475,1121,"09, 2019",المغرب
+CODE|45046,Arethusa Hotel,702,14040,10530,"05, 2019",Greece
+CODE|45011,Arenas Atiram Hotels,948,24648,14220,"10, 2019",Spain
+CODE|44976,Arenal,1224,29376,24480,"06, 2019",Not Found
+CODE|44941,Arenaa star hotel,1820,36400,34580,"02, 2019",ماليزيا
+CODE|44906,Arena Space Hotel,217,6076,3689,"04, 2019",Jordan
+CODE|44871,Arena Leme Hotel,1224,24480,24480,"04, 2019",Brazil
+CODE|44836,Arena Ipanema Hotel,1505,43645,28595,"11, 2019",Brazil
+CODE|44801,Arena Hotel,1370,30140,24660,"06, 2019",Turkey
+CODE|44766,Arena Beach Hotel,1168,31536,19856,"06, 2019",المالديف
+CODE|44731,"Arelauquen Lodge, a Tribute Portfolio Hotel, San Carlos de Bariloche",1809,39798,36180,"11, 2019",Argentina
+CODE|44696,Areen Palace Hotel - Almadina Road,1449,37674,27531,"05, 2019",Saudi Arabia
+CODE|44661,Areen Hotel,1568,45472,31360,"08, 2019",السعودية
+CODE|44626,Areen Al Naeem,750,21000,12000,"08, 2019",السعودية
+CODE|44591,Areen Airport Hotel,1827,42021,27405,"12, 2019",Saudi Arabia
+CODE|44556,Arden Cıty Hotel,107,3210,2033,"09, 2019",Turkey
+CODE|44521,Arde Hotel,1172,25784,22268,"03, 2019",ألمانيا
+CODE|44486,ARCOTEL Wimberger Wien,163,4564,2445,"10, 2019",Österreich
+CODE|44451,ARCOTEL Velvet Berlin,585,17550,11700,"10, 2019",ألمانيا
+CODE|44416,ARCOTEL Nike Linz,1497,41916,25449,"04, 2019",النمسا
+CODE|44381,ARCOTEL Kaiserwasser Wien,732,14640,10980,"09, 2019",Österreich
+CODE|44346,ARCOTEL John F Berlin,843,21075,14331,"04, 2019",Germany
+CODE|44311,ARCOTEL Castellani Salzburg,445,10680,8900,"05, 2019",Austria
+CODE|44276,ARCOTEL Camino Stuttgart,1862,39102,29792,"07, 2019",ألمانيا
+CODE|44241,Archipelagos Hotel,1550,34100,26350,"02, 2019",Greece
+CODE|44206,"Arch Hotel, by Best Western",1689,43914,28713,"05, 2019",البحرين
+CODE|44171,Arcadian Hotel Brookline,1507,31647,25619,"07, 2019",USA
+CODE|44136,Arcadia Suites Hotel,1668,33360,28356,"10, 2019",Thailand
+CODE|44101,Arcade Hotel Nişantaşı,1254,25080,20064,"03, 2019",تركيا
+CODE|44066,Arbor Hyde Park,590,16520,11800,"11, 2019",Not Found
+CODE|44031,Arbella Boutique Hotel,1478,32516,23648,"07, 2019",الإمارات
+CODE|43996,Arbat House,1217,26774,20689,"04, 2019",روسيا
+CODE|43961,Araya Beach Hotel Patong,1371,38388,24678,"05, 2019",Thailand
+CODE|43926,Aravi Hotel,1647,47763,27999,"11, 2019",UAE
+CODE|43891,Ararat Park Hyatt Moscow,1157,30082,18512,"11, 2019",Not Found
+CODE|43856,Ararat Hotel,1798,39556,34162,"02, 2019",تركيا
+CODE|43821,Aran Blu,247,6669,4446,"06, 2019",إيطاليا
+CODE|43786,Aramunt Barcelona Apartment,938,20636,18760,"11, 2019",Spain
+CODE|43751,Araliya Green Hills Hotel,1677,45279,25155,"05, 2019",Sri Lanka
+CODE|43716,Arak Ajyad Hotel,1011,30330,16176,"12, 2019",Not Found
+CODE|43681,Aracan Pyramids Hotel,435,8700,8265,"01, 2019",Egypt
+CODE|43646,Aracan Port Said Hotel,79,1580,1422,"08, 2019",Egypt
+CODE|43611,Aracan Eatabe Luxor Hotel,1873,46825,33714,"02, 2019",مصر
+CODE|43576,Arabian Suites,555,13875,11100,"09, 2019",Jordan
+CODE|43541,"Arabian Park Dubai, an Edge by Rotana Hotel",1451,36275,27569,"02, 2019",UAE
+CODE|43506,Arabian Palm Hotel,1681,42025,33620,"10, 2019",Saudi Arabia
+CODE|43471,Arabian Nights Hotel,431,12499,6465,"02, 2019",Egypt
+CODE|43436,Arabian Dreams Hotel Apartments,1504,31584,30080,"03, 2019",UAE
+CODE|43401,Arabian Courtyard Hotel & Spa,312,8112,5304,"07, 2019",الإمارات
+CODE|43366,Arabian Court At One & Only Royal Mirage,869,21725,13035,"12, 2019",UAE
+CODE|43331,Arabia Azur Resort,1863,42849,31671,"05, 2019",مصر
+CODE|43296,Arabella Residence,99,2772,1683,"12, 2019",مصر
+CODE|43261,Arabella Azur Resort - All Inclusive,68,1496,1292,"08, 2019",مصر
+CODE|43226,Arabela Amman Hotel,1038,20760,18684,"11, 2019",الأردن
+CODE|43191,AR Los Arcos Hotel,1966,41286,37354,"10, 2019",Spain
+CODE|43156,Aquzz Inn & Spa,314,8792,6280,"09, 2019",Maldives
+CODE|43121,Aquis Mare Nostrum Hotel Thalasso,847,18634,16093,"04, 2019",Not Found
+CODE|43086,Aquila Hotel,1848,53592,33264,"04, 2019",السعودية
+CODE|43051,Aqueen Paya Lebar Hotel,1394,40426,25092,"06, 2019",Singapore
+CODE|43016,Aqueen Hotel Lavender,1904,47600,32368,"11, 2019",Singapore
+CODE|42981,Aquaworld Belek,306,6732,5814,"07, 2019",تركيا
+CODE|42946,Aquatio Cave Luxury Hotel & SPA,922,21206,16596,"10, 2019",إيطاليا
+CODE|42911,Aquarium Hotel Istanbul,272,8160,5440,"07, 2019",Not Found
+CODE|42876,Aquamarina Beach Hotel Cancun,1236,33372,18540,"04, 2019",Mexico
+CODE|42841,Aquamare Beach Hotel & Spa,1346,37688,20190,"10, 2019",قبرص
+CODE|42806,Aqualux Hotel Spa & Suite Bardolino,530,12720,9010,"11, 2019",Italy
+CODE|42771,Aqua Liberty Hotel,681,16344,13620,"02, 2019",جورجيا
+CODE|42736,Aqua Fantasy Aquapark Hotel & Spa,1366,39614,25954,"11, 2019",تركيا
+CODE|42701,Aqua Batumi Hotel & Apartments,509,14761,7635,"01, 2019",Georgia
+CODE|42666,Aqua Aurelia Suitenhotel,67,1876,1273,"03, 2019",Germany
+CODE|42631,Aqua Aloha Surf Waikiki Hotel,815,22820,14670,"01, 2019",USA
+CODE|42596,Aprilis Hotel,37,1073,555,"02, 2019",تركيا
+CODE|42561,Aprilis Gold Hotel,157,3925,2826,"01, 2019",تركيا
+CODE|42526,Apra International,1255,36395,21335,"12, 2019",Not Found
+CODE|42491,Apple Villas & Apartments,1930,54040,34740,"05, 2019",Indonesia
+CODE|42456,Appart'hôtel Victoria Garden Bordeaux ***,120,3120,2400,"11, 2019",France
+CODE|42421,Appart'hôtel Odalys Ferney Genève,1256,26376,25120,"11, 2019",France
+CODE|42386,Appart'hôtel Odalys City Le Clos de la Chartreuse,1434,38718,24378,"12, 2019",France
+CODE|42351,Appartementhaus Mühle,1117,27925,21223,"09, 2019",Österreich
+CODE|42316,Appartementhaus Cityxpress by All in One Apartments,1183,23660,17745,"10, 2019",Austria
+CODE|42281,Appart'City Versailles Magny Les Hameaux,1128,32712,16920,"02, 2019",France
+CODE|42246,Appart'City Versailles Louveciennes,146,2920,2482,"04, 2019",Not Found
+CODE|42211,Appart'City Strasbourg Aéroport,402,9246,6030,"03, 2019",France
+CODE|42176,Appart'City Paris Clichy Mairie,813,18699,13821,"05, 2019",فرنسا
+CODE|42141,Appart'City Marseille Euromed - Appart Hôtel,782,17986,14076,"12, 2019",France
+CODE|42106,Appart'City Lyon Part-Dieu - Appart Hôtel ex-Park&Suites,1488,41664,29760,"04, 2019",France
+CODE|42071,Appart'City Confort Paris Grande Bibliothèque - Appart Hôtel,1889,43447,32113,"12, 2019",France
+CODE|42036,Appart'City Confort Marne La Vallée Val d'Europe - Appart Hôtel ex Park&Suites,265,6095,5035,"05, 2019",Not Found
+CODE|42001,Appart'City Clermont-Ferrand Centre - Appart Hôtel,1930,50180,36670,"02, 2019",France
+CODE|41966,Appart Hôtel Le Rio,614,14122,10438,"05, 2019",المغرب
+CODE|41931,Apotek Hotel by Keahotels,1775,53250,31950,"11, 2019",Iceland
+CODE|41896,Apollonion,1420,32660,28400,"06, 2019",Greece
+CODE|41861,Apollo Opéra Hôtel,1048,23056,19912,"01, 2019",فرنسا
+CODE|41826,Apollo Hotel Utrecht City Centre,1578,44184,28404,"12, 2019",Netherlands
+CODE|41791,Apollo Hotel Lelystad City Centre,766,17618,13788,"03, 2019",Netherlands
+CODE|41756,"Apollo Hotel Amsterdam, a Tribute Portfolio Hotel",861,19803,14637,"11, 2019",Netherlands
+CODE|41721,Apollo Hotel Almere City Centre,1752,45552,33288,"02, 2019",هولندا
+CODE|41686,Apollo Hotel,282,5922,5640,"11, 2019",Netherlands
+CODE|41651,Apollo,125,3375,2375,"08, 2019",Not Found
+CODE|41616,Apollinaire Nice,525,15225,9975,"07, 2019",فرنسا
+CODE|41581,APK Resort & Spa,53,1325,954,"12, 2019",Not Found
+CODE|41546,Aphrodite Beach Hotel,281,7306,4777,"10, 2019",Cyprus
+CODE|41511,Apex City of London Hotel,1681,45387,25215,"09, 2019",UK
+CODE|41476,Apex City of Glasgow Hotel,733,19058,13194,"11, 2019",UK
+CODE|41441,Apartment-Hotel Hamburg Mitte,1410,39480,22560,"06, 2019",Germany
+CODE|41406,Apartmenthaus Seilergasse,1421,41209,28420,"01, 2019",Österreich
+CODE|41371,ApartHotel Pergamin,506,10120,9614,"07, 2019",Poland
+CODE|41336,APART-HOTEL operated by HILTON,1756,35120,35120,"11, 2019",Switzerland
+CODE|41301,Aparthotel Mariano Cubi,255,5355,4845,"04, 2019",Spain
+CODE|41266,Apart-hotel Imeretinskiy - The Coastline complex,579,12159,9264,"07, 2019",Russia
+CODE|41231,Aparthotel ILUNION Tartessus Sancti Petri,1146,24066,19482,"10, 2019",Spain
+CODE|41196,Aparthotel g3 Galeón,1135,27240,17025,"12, 2019",España
+CODE|41161,Aparthotel Ferrer Skyline,392,9800,6272,"01, 2019",Spain
+CODE|41126,Aparthotel Exe Campus San Mames,1823,45575,30991,"05, 2019",Spain
+CODE|41091,Aparthotel El Pinar,668,16032,13360,"01, 2019",Spain
+CODE|41056,Aparthotel Blau Parc,207,5589,3519,"04, 2019",Spain
+CODE|41021,Aparthotel Atenea Barcelona,1794,46644,28704,"10, 2019",Spain
+CODE|40986,Aparthotel Albufera,219,6132,4161,"03, 2019",Spain
+CODE|40951,Aparthotel Adagio Vienna City,221,4641,3536,"04, 2019",Austria
+CODE|40916,Aparthotel Adagio Strasbourg Place Kléber,160,4640,2720,"08, 2019",فرنسا
+CODE|40881,Aparthotel Adagio Serris - Val d'Europe,125,3625,2125,"07, 2019",فرنسا
+CODE|40846,Aparthotel Adagio Rome Vatican,1328,33200,19920,"01, 2019",Italy
+CODE|40811,Aparthotel Adagio Premium Dubai Al Barsha,1541,46230,29279,"07, 2019",الإمارات
+CODE|40776,Aparthotel Adagio Porte de Versailles,544,14144,9792,"08, 2019",France
+CODE|40741,Aparthotel Adagio Paris Vincennes,1616,37168,32320,"06, 2019",فرنسا
+CODE|40706,Aparthotel Adagio Paris Montrouge,1857,37140,33426,"09, 2019",فرنسا
+CODE|40671,Aparthotel Adagio Paris Montmartre,19,551,342,"03, 2019",France
+CODE|40636,Aparthotel Adagio Paris Centre Tour Eiffel,1839,45975,27585,"11, 2019",France
+CODE|40601,Aparthotel Adagio Paris 19eme Cité de la Musique,495,13365,9405,"03, 2019",France
+CODE|40566,Aparthotel Adagio Nice Centre,1741,47007,31338,"09, 2019",France
+CODE|40531,Aparthotel Adagio München City,308,8008,5236,"04, 2019",ألمانيا
+CODE|40496,Aparthotel Adagio Marne la Vallée Val d'Europe,1299,38970,25980,"03, 2019",France
+CODE|40461,Aparthotel Adagio London Brentford,864,21600,17280,"10, 2019",المملكة المتحدة
+CODE|40426,Aparthotel Adagio Liverpool City Centre,104,3016,1768,"12, 2019",UK
+CODE|40391,Aparthotel Adagio La Defense Kleber,1361,39469,23137,"12, 2019",فرنسا
+CODE|40356,Aparthotel Adagio la Défense Courbevoie,1237,34636,23503,"05, 2019",France
+CODE|40321,Aparthotel Adagio Geneve Mont Blanc,1994,51844,29910,"02, 2019",سويسرا
+CODE|40286,Aparthotel Adagio Fujairah,813,18699,13821,"04, 2019",UAE
+CODE|40251,Aparthotel Adagio Frankfurt City Messe,321,7383,4815,"10, 2019",Germany
+CODE|40216,Aparthotel Adagio Edinburgh Royal Mile,677,16925,12186,"04, 2019",UK
+CODE|40181,Aparthotel Adagio Dubai Deira,1068,28836,17088,"03, 2019",UAE
+CODE|40146,Aparthotel Adagio Brussels Grand Place,250,7250,4750,"01, 2019",Belgium
+CODE|40111,Aparthotel Adagio Birmingham City Centre,90,2610,1710,"05, 2019",UK
+CODE|40076,Aparthotel Adagio Annecy Centre,1788,44700,33972,"11, 2019",فرنسا
+CODE|40041,Aparthotel Adagio Access Strasbourg Petite France,1726,41424,27616,"01, 2019",France
+CODE|40006,Aparthotel Adagio Access Strasbourg Illkirch,939,25353,17841,"03, 2019",France
+CODE|39971,Aparthotel Adagio Access Poitiers,1784,48168,32112,"04, 2019",France
+CODE|39936,Aparthotel Adagio Access Paris Saint Denis Pleyel,842,22734,15156,"08, 2019",فرنسا
+CODE|39901,Aparthotel Adagio Access Paris Maisons Alfort,1357,33925,27140,"02, 2019",France
+CODE|39866,Aparthotel Adagio Access Paris Clichy,502,14558,8032,"06, 2019",France
+CODE|39831,Aparthotel Adagio Access Paris Asnieres,1245,36105,24900,"02, 2019",فرنسا
+CODE|39796,Aparthotel Adagio Access Nantes Viarme,990,28710,14850,"03, 2019",فرنسا
+CODE|39761,Aparthotel Adagio Abu Dhabi Al Bustan,1231,34468,19696,"12, 2019",الإمارات
+CODE|39726,Aparthotel Acuazul,1125,22500,22500,"01, 2019",إسبانيا
+CODE|39691,Apartemen Grand Palace Kemayoran,1185,24885,22515,"12, 2019",Indonesia
+CODE|39656,ApartaSuites Satellite,1978,49450,39560,"10, 2019",Not Found
+CODE|39621,Apartaments Bon Repòs,258,6450,3870,"05, 2019",Spain
+CODE|39586,Apartaments Beach & Golf Resort,1512,33264,27216,"08, 2019",إسبانيا
+CODE|39551,Apartamentos Vistamojacar,1063,21260,18071,"03, 2019",Not Found
+CODE|39516,Apartamentos Vibra Tivoli,398,9950,7164,"07, 2019",Spain
+CODE|39481,Apartamentos Vibra Riviera,864,20736,17280,"11, 2019",Spain
+CODE|39446,Apartamentos Vibra Jabeque Dreams,1961,54908,31376,"06, 2019",إسبانيا
+CODE|39411,Apartamentos Vértice Sevilla Aljarafe,1533,30660,29127,"07, 2019",إسبانيا
+CODE|39376,Apartamentos Turisticos Madanis,431,11206,6896,"05, 2019",Not Found
+CODE|39341,Apartamentos Turísticos Artemisa Sevilla,1751,47277,26265,"11, 2019",Not Found
+CODE|39306,Apartamentos Torreluz,324,7776,5832,"02, 2019",Spain
+CODE|39271,Apartamentos Sunway Tara,171,4788,2907,"11, 2019",Spain
+CODE|39236,Apartamentos Stella Maris,1332,26640,22644,"08, 2019",Spain
+CODE|39201,Apartamentos Roisa Centro,1730,38060,32870,"05, 2019",إسبانيا
+CODE|39166,APARTAMENTOS PALM GARDEN,1938,48450,38760,"12, 2019",Spain
+CODE|39131,Apartamentos Matute 11,1753,36813,33307,"11, 2019",Spain
+CODE|39096,Apartamentos Maribel,363,8349,7260,"01, 2019",Spain
+CODE|39061,Apartamentos Luxmar,1270,26670,22860,"07, 2019",إسبانيا
+CODE|39026,Apartamentos Loar,1996,39920,35928,"12, 2019",Spain
+CODE|38991,Apartamentos LEO,576,13248,8640,"08, 2019",إسبانيا
+CODE|38956,Apartamentos Green Park,653,15019,11101,"12, 2019",Spain
+CODE|38921,Apartamentos GHM Sabica,1706,39238,32414,"01, 2019",Spain
+CODE|38886,Apartamentos Flamingo Benidorm,1942,44666,33014,"04, 2019",España
+CODE|38851,Apartamentos Espahotel Gran Vía,530,12720,9540,"07, 2019",España
+CODE|38816,Apartamentos Esmeralda,14,378,238,"03, 2019",Spain
+CODE|38781,Apartamentos Dunas Club,928,25984,18560,"09, 2019",إسبانيا
+CODE|38746,Apartamentos Cumana,719,16537,13661,"05, 2019",Spain
+CODE|38711,Apartamentos Corona Roja,789,18936,11835,"11, 2019",España
+CODE|38676,Apartamentos Best Michelangelo,1366,32784,24588,"10, 2019",إسبانيا
+CODE|38641,Apartamentos Augusta,199,4577,3184,"11, 2019",إسبانيا
+CODE|38606,Apartamentos Alta,1844,55320,33192,"07, 2019",Spain
+CODE|38571,Apartamentos Albatros,1701,39123,30618,"01, 2019",إسبانيا
+CODE|38536,Apartamento Loft Montserrat 1,1075,27950,17200,"01, 2019",Not Found
+CODE|38501,Apartahotel Smartline Los Jazmines,426,9372,6390,"08, 2019",Spain
+CODE|38466,Apartahotel Paris Bercy,1302,36456,19530,"03, 2019",France
+CODE|38431,Apartahotel First Flatotel International,695,18765,11120,"03, 2019",Spain
+CODE|38396,Apartahotel Arena Center,872,23544,13080,"08, 2019",Spain
+CODE|38361,"APART HOTEL ""TANGERINE""",1347,28287,21552,"12, 2019",Georgia
+CODE|38326,Apart Altamira,1055,28485,17935,"01, 2019",النمسا
+CODE|38291,APA Hotel Shinjuku Kabukicho Tower,1596,33516,25536,"05, 2019",Japan
+CODE|38256,APA Hotel Ochanomizu-Ekikita,1329,39870,23922,"08, 2019",Japan
+CODE|38221,APA Hotel Midosujihonmachieki Higashi,512,12800,10240,"02, 2019",Japan
+CODE|38186,A-One The Royal Cruise Hotel,1508,43732,25636,"07, 2019",Thailand
+CODE|38151,A-One Star Hotel Pattaya,1697,49213,30546,"11, 2019",Thailand
+CODE|38116,A-One Bangkok Hotel,682,17732,11594,"05, 2019",Thailand
+CODE|38081,Aonang Princeville Villa Resort & Spa,719,20851,11504,"11, 2019",تايلاند
+CODE|38046,Anyavee Tubkaek Beach Resort,1985,55580,37715,"08, 2019",Thailand
+CODE|38011,Anwar Al Madinah Mövenpick Hotel,1658,44766,29844,"10, 2019",Saudi Arabia
+CODE|37976,Anulekha Resort & Villa,1354,37912,23018,"09, 2019",Not Found
+CODE|37941,Anugraha Boutique Hotel,1339,29458,24102,"07, 2019",Not Found
+CODE|37906,Anugrah Hotel,441,13230,8379,"10, 2019",Indonesia
+CODE|37871,Antusa Palace Hotel & Spa,1612,45136,29016,"08, 2019",تركيا
+CODE|37836,Antony Palace Hotel,1668,43368,31692,"06, 2019",Italy
+CODE|37801,Antony Hotel,896,25088,15232,"06, 2019",Italy
+CODE|37766,Antonios Hotel,1979,39580,37601,"12, 2019",Greece
+CODE|37731,Antis Hotel,928,25056,15776,"08, 2019",Turkey
+CODE|37696,Antique Roman Palace,4,84,60,"07, 2019",Turkey
+CODE|37661,Antique Hostel,1132,32828,16980,"03, 2019",Turkey
+CODE|37626,Antillia Health Club,1143,34290,22860,"01, 2019",Not Found
+CODE|37591,Antik Hotel Istanbul,1105,22100,22100,"03, 2019",تركيا
+CODE|37556,Anthos Apartments,1250,27500,20000,"02, 2019",Greece
+CODE|37521,Antea Palace Hotel & Spa,23,621,345,"12, 2019",تركيا
+CODE|37486,Antea Hotel,645,19350,12900,"09, 2019",تركيا
+CODE|37451,Antares Hotel Rubens,360,8280,7200,"08, 2019",Italy
+CODE|37416,Ansa Kuala Lumpur,668,16032,12692,"07, 2019",Malaysia
+CODE|37381,Annecy - Les Hauts d'Annecy,1374,39846,21984,"12, 2019",France
+CODE|37346,"Annapolis Waterfront Hotel, Autograph Collection",956,26768,19120,"01, 2019",USA
+CODE|37311,Anmaria Beach Hotel,1676,41900,26816,"04, 2019",Cyprus
+CODE|37276,Anker Hotel,283,8490,4245,"06, 2019",النرويج
+CODE|37241,Ankara HiltonSA,1042,26050,17714,"03, 2019",تركيا
+CODE|37206,Anjum Hotel Makkah,955,24830,15280,"08, 2019",السعودية
+CODE|37171,Anjer Hotel Bosphorus,341,8184,5115,"04, 2019",Turkey
+CODE|37136,Anil Hotel,1438,30198,24446,"09, 2019",تركيا
+CODE|37101,Ani Plaza Hotel,1004,20080,16064,"10, 2019",أرمينيا
+CODE|37066,Ani Grand Hotel Yerevan,1667,41675,31673,"08, 2019",أرمينيا
+CODE|37031,Angsana Villas Resort Phuket,1932,42504,32844,"12, 2019",تايلاند
+CODE|36996,Angsana Velavaru,1206,24120,19296,"03, 2019",المالديف
+CODE|36961,Angsana Teluk Bahang,958,27782,16286,"11, 2019",ماليزيا
+CODE|36926,Angsana Laguna Phuket,567,12474,11340,"08, 2019",تايلاند
+CODE|36891,Angsana Balaclava,1056,29568,15840,"09, 2019",Mauritius
+CODE|36856,Angleterre Hotel,1169,28056,19873,"02, 2019",France
+CODE|36821,Angleterre & Résidence,1663,41575,26608,"03, 2019",Switzerland
+CODE|36786,Angeles Beach Club Hotel,962,25974,16354,"10, 2019",Philippines
+CODE|36751,Angaga Island Resort & Spa,1879,39459,37580,"11, 2019",Not Found
+CODE|36716,ANEZI TOWER HOTEL,895,23270,14320,"01, 2019",المغرب
+CODE|36681,Anemos Beach Lounge,1240,26040,18600,"12, 2019",Not Found
+CODE|36646,Anemon Trabzon Hotel,1591,31820,30229,"06, 2019",تركيا
+CODE|36611,Anemon Samsun Otel,287,7175,5166,"04, 2019",تركيا
+CODE|36576,Anemon Ordu Restaurant,354,8850,6372,"07, 2019",Turkey
+CODE|36541,Anemon Ordu Otel,364,7280,6188,"06, 2019",تركيا
+CODE|36506,Anemon Konya Hotel,1653,44631,28101,"10, 2019",تركيا
+CODE|36471,Anemon iskenderun Otel,1913,51651,32521,"01, 2019",Turkey
+CODE|36436,Anemon Antakya Hotel,1755,49140,31590,"03, 2019",Turkey
+CODE|36401,Andronis Concept Wellness Resort,1951,46824,33167,"10, 2019",Greece
+CODE|36366,Andronikos Hotel,1604,48120,28872,"10, 2019",اليونان
+CODE|36331,Andron hotel,1083,29241,20577,"12, 2019",روسيا
+CODE|36296,Andreola Central Hotel,908,22700,15436,"02, 2019",Italy
+CODE|36261,Andorra Park Hotel,1354,39266,25726,"05, 2019",Andorra
+CODE|36226,Andaz Vienna Am Belvedere,1759,47493,33421,"06, 2019",النمسا
+CODE|36191,Andaz Singapore,46,1150,782,"09, 2019",Not Found
+CODE|36156,Andaz Napa,934,18680,14010,"05, 2019",USA
+CODE|36121,Andaz London Liverpool Street,39,1014,585,"02, 2019",UK
+CODE|36086,Andaz Capital Gate Abu Dhabi,1207,33796,18105,"03, 2019",UAE
+CODE|36051,Andaz by Hyatt – Palm Jumeirah,610,18300,9150,"12, 2019",UAE
+CODE|36016,Andatel Grandé Patong Phuket Hotel,243,6318,3645,"01, 2019",Not Found
+CODE|35981,Andamantra Resort & Villas Phuket,875,21875,15750,"02, 2019",تايلاند
+CODE|35946,"Andaman Embrace Patong, Phuket",357,8211,7140,"01, 2019",Thailand
+CODE|35911,Andaman Beach Suites Hotel,344,9632,5848,"04, 2019",Thailand
+CODE|35876,Ancient Sands Resort,351,7020,6669,"09, 2019",Egypt
+CODE|35841,Ancasa Residences Port Dickson,47,1410,893,"06, 2019",Malaysia
+CODE|35806,Ancasa Hotel Kuala Lumpur,1807,37947,32526,"10, 2019",Malaysia
+CODE|35771,AnCasa Express @ Pudu,1529,30580,25993,"12, 2019",Not Found
+CODE|35736,Anatolian Houses,1043,25032,18774,"01, 2019",Turkey
+CODE|35701,Anatolia Hotels Thessaloniki,810,22680,15390,"04, 2019",Greece
+CODE|35666,Anatolia Hotel,1609,43443,25744,"01, 2019",تركيا
+CODE|35631,Anatelein Boutique Cave Hotel,1932,52164,32844,"08, 2019",Turkey
+CODE|35596,Anantara World Islands Dubai Resort,868,19096,13020,"03, 2019",UAE
+CODE|35561,Anantara Veli Maldives Resort,1671,46788,30078,"04, 2019",Maldives
+CODE|35526,Anantara Uluwatu Bali Resort,1312,38048,26240,"11, 2019",Indonesia
+CODE|35491,Anantara The Palm Dubai Resort,216,5400,3240,"12, 2019",UAE
+CODE|35456,Anantara Sir Bani Yas Island Al Yamm Villa Resort,1077,24771,17232,"04, 2019",UAE
+CODE|35421,Anantara Sir Bani Yas Island Al Sahel Villa Resort,306,6120,5814,"08, 2019",UAE
+CODE|35386,Anantara Siam Bangkok Hotel,174,4698,3306,"04, 2019",تايلاند
+CODE|35351,Anantara Seminyak Bali Resort,867,17340,16473,"02, 2019",Indonesia
+CODE|35316,Anantara Riverside Bangkok Resort,1652,46256,29736,"06, 2019",تايلاند
+CODE|35281,Anantara Quy Nhon Villas,23,529,437,"10, 2019",Vietnam
+CODE|35246,Anantara Palazzo Naiadi,338,7774,5746,"11, 2019",إيطاليا
+CODE|35211,Anantara New York Palace Budapest Hotel,1354,27080,27080,"04, 2019",Hungary
+CODE|35176,Anantara Mai Khao Phuket Villas,449,11225,7184,"01, 2019",تايلاند
+CODE|35141,Anantara Layan Phuket Resort,849,22074,16131,"12, 2019",تايلاند
+CODE|35106,Anantara Kihavah Maldives Villas,1286,38580,23148,"12, 2019",Maldives
+CODE|35071,Anantara Iko Mauritius Resort & Villas,1038,26988,19722,"12, 2019",موريشيوس
+CODE|35036,Anantara Hua Hin Resort & Spa,499,13473,7485,"04, 2019",تايلاند
+CODE|35001,Anantara Hoi An,1841,44184,29456,"12, 2019",Vietnam
+CODE|34966,Anantara Grand Hotel Krasnapolsky Amsterdam,1054,31620,17918,"12, 2019",هولندا
+CODE|34931,Anantara Eastern Mangroves Abu Dhabi Hotel,1486,40122,29720,"03, 2019",UAE
+CODE|34896,Anantara Downtown Dubai Hotel,1635,40875,32700,"10, 2019",الإمارات
+CODE|34861,Anantara Desaru Coast Resort & Villas,1318,34268,22406,"08, 2019",ماليزيا
+CODE|34826,Anantara Chiang Mai Resort,691,19348,13820,"11, 2019",تايلاند
+CODE|34791,Anantara Bophut Koh Samui Resort,41,861,697,"09, 2019",Thailand
+CODE|34756,Anantara Bazaruto Island Resort & Spa,1523,42644,24368,"12, 2019",Mozambique
+CODE|34721,Anantara Al Jabal Al Akhdar Resort,719,20132,12942,"03, 2019",Oman
+CODE|34686,"Ananta Spa & Resort, Pushkar",473,9460,8987,"03, 2019",الهند
+CODE|34651,Analina Rooms,209,4598,4180,"02, 2019",Not Found
+CODE|34616,Anahita Golf & Spa Resort Mauritius,774,18576,14706,"11, 2019",موريشيوس
+CODE|34581,Anaheim Portofino Inn & Suites,1403,29463,28060,"04, 2019",USA
+CODE|34546,Anaheim Marriott,254,6096,5080,"01, 2019",USA
+CODE|34511,Anaheim Majestic Garden Hotel,1419,39732,26961,"01, 2019",USA
+CODE|34476,Anahata Villas & Spa Resort,1080,22680,19440,"01, 2019",إندونيسيا
+CODE|34441,ANA InterContinental Tokyo,266,7448,5320,"06, 2019",Japan
+CODE|34406,ANA Crowne Plaza Toyama,556,11676,8896,"03, 2019",اليابان
+CODE|34371,ANA Crowne Plaza Hotel Nagasaki Gloverhill,1634,39216,29412,"12, 2019",Japan
+CODE|34336,ANA Crowne Plaza Hotel Kyoto,1761,51069,29937,"05, 2019",Japan
+CODE|34301,ANA Crowne Plaza Hotel Grand Court Nagoya,1160,24360,23200,"03, 2019",Japan
+CODE|34266,ANA Crowne Plaza Hotel Fukuoka,226,6780,3616,"05, 2019",Japan
+CODE|34231,ANA Crowne Plaza Hiroshima,1978,53406,29670,"05, 2019",اليابان
+CODE|34196,"Amway Grand Plaza, Curio Collection by Hilton",1780,39160,35600,"09, 2019",أمريكا
+CODE|34161,Amwaj Rotana - JBR,870,17400,17400,"12, 2019",الإمارات
+CODE|34126,Amsterdam Teleport Hotel,286,7436,5434,"02, 2019",Netherlands
+CODE|34091,Amsterdam Marriott Hotel,319,6699,5742,"12, 2019",هولندا
+CODE|34056,Amsterdam ID Aparthotel,1121,23541,21299,"02, 2019",Netherlands
+CODE|34021,Amsterdam Downtown Hotel,1951,50726,33167,"07, 2019",Netherlands
+CODE|33986,Amrey Sant Pau,1664,38272,31616,"12, 2019",إسبانيا
+CODE|33951,Amrâth Grand Hotel de l'Empereur,646,14212,10982,"12, 2019",Netherlands
+CODE|33916,Amphoras Blu Hotel,1176,28224,21168,"09, 2019",مصر
+CODE|33881,Amphoras Beach,378,7938,7182,"04, 2019",Egypt
+CODE|33846,Amphoras Aqua Hotel,1435,38745,24395,"06, 2019",مصر
+CODE|33811,Amoun Hotel,266,5586,5054,"03, 2019",Not Found
+CODE|33776,Amorgos Boutique Hotel,1838,55140,31246,"07, 2019",Cyprus
+CODE|33741,Amora Ubud Boutique Villas,862,18102,17240,"04, 2019",Indonesia
+CODE|33706,Amora NeoLuxe Bangkok,908,18160,14528,"04, 2019",Thailand
+CODE|33671,Amora Hotel Jamison Sydney,1575,31500,29925,"05, 2019",Australia
+CODE|33636,Ammonite Hotel Amsterdam,498,10956,7470,"10, 2019",Netherlands
+CODE|33601,Amman West Hotel,1000,29000,16000,"04, 2019",Jordan
+CODE|33566,Amman Rotana,1145,27480,22900,"02, 2019",الأردن
+CODE|33531,Amman Palace Hotel,846,19458,13536,"06, 2019",Jordan
+CODE|33496,Amman Orchid Hotel,1225,24500,22050,"07, 2019",الأردن
+CODE|33461,Amman Marriott Hotel,14,420,252,"02, 2019",Jordan
+CODE|33426,Amman International Hotel,1398,33552,25164,"11, 2019",Jordan
+CODE|33391,Amman Inn Hotel,1601,41626,27217,"12, 2019",Jordan
+CODE|33356,Amman Airport Hotel,1610,46690,28980,"02, 2019",Jordan
+CODE|33321,Amjad Royal Suites Hotel,1062,25488,21240,"06, 2019",Not Found
+CODE|33286,Amister Apartments,972,20412,19440,"02, 2019",Spain
+CODE|33251,Amir Palace,584,13432,11680,"03, 2019",تونس
+CODE|33216,Amigo hotel,383,8426,6511,"01, 2019",مصر
+CODE|33181,Amigo City Centre Hotel ****,1601,38424,24015,"06, 2019",Czech Republic
+CODE|33146,Ametyst Hotel Prague: 4 Star Boutique Hotel in Prague City Centre,665,15960,11305,"03, 2019",Czech Republic
+CODE|33111,Amethyst Hotel,892,25868,16056,"12, 2019",تركيا
+CODE|33076,AMERON Hotel Regent,1829,36580,32922,"06, 2019",Germany
+CODE|33041,AMERON Hotel Königshof,1907,55303,34326,"10, 2019",Not Found
+CODE|33006,Ameritania at Times Square,1923,57690,38460,"03, 2019",USA
+CODE|32971,Americas Best Value Inn Kelso,1154,28850,19618,"09, 2019",USA
+CODE|32936,Americas Best Value Inn Dodger Stadium Hollywood,24,600,384,"07, 2019",USA
+CODE|32901,Americas Best Value Inn,1032,21672,20640,"05, 2019",USA
+CODE|32866,American Palace Eur,189,4914,3024,"02, 2019",Italy
+CODE|32831,America Diamonds Hotel,910,22750,16380,"11, 2019",Portugal
+CODE|32796,Amerian Salta Hotel,610,17080,9760,"02, 2019",Not Found
+CODE|32761,Amerian Portal del Iguazú,680,13600,11560,"06, 2019",Argentina
+CODE|32726,Amerian Hotel Casino Carlos V,564,11280,10152,"06, 2019",Not Found
+CODE|32691,Amérian Executive Córdoba Hotel,209,5643,3762,"05, 2019",Argentina
+CODE|32656,Amérian Córdoba Park Hotel,1972,51272,39440,"09, 2019",Argentina
+CODE|32621,Ameri Plaza Hotel,1465,41020,21975,"05, 2019",جورجيا
+CODE|32586,AMC Royal Hotel & Spa,1674,40176,33480,"01, 2019",مصر
+CODE|32551,Ambrosia Hotel,1738,39974,27808,"10, 2019",Turkey
+CODE|32516,Ambre Mauritius,774,20898,12384,"09, 2019",Mauritius
+CODE|32481,Ambiance Suites Cancun,615,14145,10455,"09, 2019",Mexico
+CODE|32446,Ambiance Hotel,1305,39150,22185,"05, 2019",مصر
+CODE|32411,Amberton hotel,404,11312,7676,"08, 2019",Lithuania
+CODE|32376,Amber Hotel Istanbul,623,14952,11837,"09, 2019",تركيا
+CODE|32341,Amber Hotel,1751,52530,26265,"08, 2019",تركيا
+CODE|32306,Amber Cave Suites,291,8148,5529,"11, 2019",Turkey
+CODE|32271,Ambassadors Hotel,222,6438,3552,"09, 2019",Nigeria
+CODE|32236,Ambassadors Bloomsbury Hotel,827,18194,13232,"10, 2019",UK
+CODE|32201,Ambassador Transit Lounge Singapore T2,1964,58920,37316,"12, 2019",Singapore
+CODE|32166,Ambassador Suites Jeddah,1669,35049,30042,"01, 2019",السعودية
+CODE|32131,Ambassador Hotel Bangkok,1807,45175,32526,"12, 2019",Thailand
+CODE|32096,Ambassador Hotel,794,23026,12704,"03, 2019",Thailand
+CODE|32061,Ambassador Aegean Luxury Hotel & Suites,629,15725,12580,"02, 2019",Greece
+CODE|32026,Ambassador - Zlatá Husa,1890,43470,30240,"12, 2019",Czech Republic
+CODE|31991,Ambassadeur Hotel Paris,584,12264,8760,"03, 2019",فرنسا
+CODE|31956,Ambassadeur Hotel,1369,32856,20535,"10, 2019",France
+CODE|31921,Ambasciatori Palace,197,5122,3546,"01, 2019",إيطاليا
+CODE|31886,Ambasciatori Hotel Brescia,1143,29718,19431,"04, 2019",Italia
+CODE|31851,Amazonia Palmela Apartamentos Turisticos,1566,36018,29754,"02, 2019",Portugal
+CODE|31816,Amazónia Lisboa Hotel,645,12900,10320,"05, 2019",البرتغال
+CODE|31781,Amazon Mykonos Resort & Spa,1015,26390,20300,"07, 2019",Greece
+CODE|31746,Amazon Hotel - Kepong,786,22008,11790,"04, 2019",Not Found
+CODE|31711,Amaya Resorts & Spa Kuda Rah,1426,42780,27094,"02, 2019",المالديف
+CODE|31676,AMATHUS BEACH HOTEL LIMASSOL,484,9680,8228,"11, 2019",Cyprus
+CODE|31641,Amatara Wellness Resort,1616,46864,29088,"03, 2019",تايلاند
+CODE|31606,Amata Resort,323,9044,4845,"09, 2019",تايلاند
+CODE|31571,Amata Lanna Village Hotel,213,5964,3195,"09, 2019",Thailand
+CODE|31536,Amaryllis Hôtel,815,18745,12225,"08, 2019",France
+CODE|31501,Amaroossa Suite Bali,1509,31689,25653,"11, 2019",Indonesia
+CODE|31466,Amaris Hotel Pemuda - Semarang,458,11450,8244,"03, 2019",إندونيسيا
+CODE|31431,AMARIS HOTEL BY SANTIKA,1911,38220,32487,"06, 2019",Not Found
+CODE|31396,Amaris Bugis Singapore,326,7824,6520,"10, 2019",Not Found
+CODE|31361,Amari Watergate Bangkok,420,10920,7980,"11, 2019",Thailand
+CODE|31326,Amari Residences Pattaya,1971,59130,37449,"03, 2019",Thailand
+CODE|31291,Amari Residences Bangkok,386,11194,7720,"11, 2019",تايلاند
+CODE|31256,Amari Phuket,1340,36180,24120,"01, 2019",Thailand
+CODE|31221,Amari Pattaya,265,6625,3975,"10, 2019",Thailand
+CODE|31186,Amari Johor Bahru,840,19320,14280,"07, 2019",Malaysia
+CODE|31151,Amari Havodda Maldives,396,9504,5940,"07, 2019",Maldives
+CODE|31116,Amari Don Muang Airport Bangkok,807,16140,16140,"10, 2019",Thailand
+CODE|31081,Amari Doha,1820,52780,29120,"04, 2019",QA
+CODE|31046,Amari Dhaka,1274,29302,20384,"09, 2019",Bangladesh
+CODE|31011,Amàre Beach Hotel Marbella - Adults Only,1920,44160,30720,"05, 2019",Spain
+CODE|30976,"Amaranth Suvarnabhumi Airport, BW Premier Collection",54,1188,918,"07, 2019",تايلاند
+CODE|30941,Amarante Pyramids Hotel,1376,38528,26144,"01, 2019",Egypt
+CODE|30906,Amarante Beau Manoir,603,18090,12060,"09, 2019",Not Found
+CODE|30871,Amara Bangkok Hotel,1188,28512,21384,"01, 2019",Thailand
+CODE|30836,Amar Sina Village,1805,46930,28880,"08, 2019",مصر
+CODE|30801,Amante Narikala by Tbilisi Luxury Boutique Hotels,1635,40875,31065,"03, 2019",Georgia
+CODE|30766,AMANO Grand Central,486,13122,7290,"06, 2019",Germany
+CODE|30731,Amala Grand Bleu Resort,1583,44324,30077,"07, 2019",تايلاند
+CODE|30696,Amadria Park Hotel Capital,819,20475,12285,"09, 2019",Croatia
+CODE|30661,Amadi Park Hotel,1845,47970,35055,"09, 2020",Netherlands
+CODE|30626,Amadi Panorama Hotel,735,17640,13965,"07, 2020",Netherlands
+CODE|30591,Amadea Resort & Villas,72,1512,1440,"11, 2020",Indonesia
+CODE|30556,Am Neutor Hotel Salzburg Zentrum,327,8829,6540,"11, 2020",النمسا
+CODE|30521,Alzer Hotel,1703,45981,28951,"03, 2019",Turkey
+CODE|30486,Alyon Hotel Taksim,781,23430,15620,"07, 2019",تركيا
+CODE|30451,Alwadi Hotel Doha - MGallery,192,4608,3456,"07, 2019",قطر
+CODE|30416,Alvear Palace Hotel,118,2478,2006,"03, 2019",Argentina
+CODE|30381,Alura Boutique Hotel,1887,50949,33966,"02, 2019",تركيا
+CODE|30346,AluaSun Lago Rojo,407,12210,6105,"04, 2019",Spain
+CODE|30311,AluaSun Costa Park,504,13608,8568,"12, 2019",Spain
+CODE|30276,AluaSoul Costa Málaga (Solo Adultos +16),1006,20120,17102,"06, 2019",España
+CODE|30241,Alua Tenerife,310,8370,6200,"05, 2019",Spain
+CODE|30206,Altwienerhof Hotel,248,6696,3968,"08, 2019",Austria
+CODE|30171,Alturki Resort,172,5160,2752,"10, 2019",السعودية
+CODE|30136,Altstadt Hotel Hofwirt Salzburg,973,19460,17514,"01, 2019",Österreich
+CODE|30101,Altius Boutique Hotel,1199,31174,17985,"12, 2019",Cyprus
+CODE|30066,Altis Prime Hotel,768,22272,15360,"06, 2019",Portugal
+CODE|30031,Altis Grand Hotel,535,14445,9630,"12, 2019",البرتغال
+CODE|29996,Altis Avenida Hotel,1252,26292,21284,"11, 2019",البرتغال
+CODE|29961,Altin Yunus Resort & Thermal Hotel,418,10032,6688,"10, 2019",Turkey
+CODE|29926,Althoff Seehotel Überfahrt,674,13480,12132,"09, 2019",Deutschland
+CODE|29891,Alta Vista de Boracay,1103,26472,19854,"10, 2019",Philippines
+CODE|29856,Alta Mare By Andronis,131,3799,2489,"12, 2019",Greece
+CODE|29821,Alsawary Taba Aparthotel,312,7176,4992,"06, 2019",Saudi Arabia
+CODE|29786,Alrumuz Alsaadiqh served apartments,886,20378,13290,"05, 2019",Saudi Arabia
+CODE|29751,Alreem Village Hotel,169,4901,2535,"05, 2019",Saudi Arabia
+CODE|29716,"AlRayyan Hotel Doha, Curio Collection by Hilton",1534,44486,26078,"10, 2019",Qatar
+CODE|29681,Alpinn Hotel İstanbul,632,17064,12640,"03, 2019",تركيا
+CODE|29646,Alpina Eclectic Hôtel & Spa in Chamonix,185,4625,3700,"08, 2019",فرنسا
+CODE|29611,Alphotel Innsbruck,1470,38220,23520,"07, 2019",النمسا
+CODE|29576,Alphonse Hotel,1737,50373,27792,"12, 2019",تركيا
+CODE|29541,Alpha Genesis Hotel,855,23940,13680,"02, 2019",Not Found
+CODE|29506,AlpenGold Hotel,1198,28752,21564,"07, 2019",سويسرا
+CODE|29471,Alp Paşa Boutique Hotel,111,2220,1776,"04, 2019",تركيا
+CODE|29436,Aloha Resort,1489,29780,25313,"06, 2019",مصر
+CODE|29401,Aloft Zhengzhou Zhengdong New District,164,3608,2952,"12, 2019",Not Found
+CODE|29366,Aloft Tulsa Downtown,161,3864,3220,"02, 2019",USA
+CODE|29331,Aloft Tulsa,856,17120,14552,"07, 2019",USA
+CODE|29296,Aloft Stuttgart,1218,25578,21924,"08, 2019",Germany
+CODE|29261,Aloft Seoul Myeongdong,258,5676,5160,"08, 2019",South Korea
+CODE|29226,Aloft Rogers-Bentonville,1365,27300,27300,"04, 2019",USA
+CODE|29191,Aloft Riyadh,1602,40050,27234,"04, 2019",السعودية
+CODE|29156,Aloft Portland Airport at Cascade Station,226,5650,3842,"10, 2019",USA
+CODE|29121,Aloft Panama,1753,47331,28048,"09, 2019",Panama
+CODE|29086,Aloft Palm Jumeirah,1024,27648,15360,"02, 2019",الإمارات
+CODE|29051,Aloft Oklahoma City Downtown - Bricktown,1339,29458,20085,"01, 2019",USA
+CODE|29016,Aloft Newport on the Levee,326,8150,5868,"09, 2019",USA
+CODE|28981,Aloft New York Brooklyn,1365,31395,21840,"02, 2019",USA
+CODE|28946,Aloft New Delhi Aerocity,1557,37368,31140,"10, 2019",India
+CODE|28911,Aloft Munich,1196,32292,20332,"02, 2019",Germany
+CODE|28876,Aloft Me'aisam Dubai,304,7296,4864,"08, 2019",الإمارات
+CODE|28841,Aloft Manhattan Downtown - Financial District,442,9282,7514,"02, 2019",USA
+CODE|28806,Aloft Madrid Gran Via,1846,47996,27690,"09, 2019",إسبانيا
+CODE|28771,Aloft Louisville East,284,6248,4544,"07, 2019",USA
+CODE|28736,Aloft Louisville Downtown,1417,41093,22672,"06, 2019",USA
+CODE|28701,Aloft London Excel,874,23598,17480,"12, 2019",UK
+CODE|28666,Aloft Liverpool,849,22074,16131,"10, 2019",UK
+CODE|28631,Aloft Leawood-Overland Park,220,6600,3300,"12, 2019",USA
+CODE|28596,Aloft Langkawi Pantai Tengah,883,19426,17660,"03, 2019",ماليزيا
+CODE|28561,Aloft Kuala Lumpur Sentral,1005,23115,19095,"09, 2019",Malaysia
+CODE|28526,Aloft Kathmandu Thamel,1563,37512,29697,"06, 2019",Nepal
+CODE|28491,Aloft Jakarta Wahid Hasyim,444,12876,8880,"10, 2019",إندونيسيا
+CODE|28456,Aloft Harlem,85,1700,1700,"04, 2019",أمريكا
+CODE|28421,Aloft Guangzhou Tianhe,672,16128,10080,"08, 2019",China
+CODE|28386,Aloft Greenville Downtown,1058,27508,17986,"07, 2019",USA
+CODE|28351,Aloft Durham Downtown,1081,22701,19458,"03, 2019",USA
+CODE|28316,Aloft Dublin City,1332,27972,26640,"01, 2019",Ireland
+CODE|28281,Aloft Dubai South,1605,35310,24075,"07, 2019",UAE
+CODE|28246,Aloft Dubai Creek,1313,35451,23634,"08, 2019",UAE
+CODE|28211,Aloft Dhahran,741,22230,11856,"05, 2019",السعودية
+CODE|28176,Aloft Denver International Airport,487,11688,9253,"07, 2019",USA
+CODE|28141,Aloft Dalian,939,24414,15024,"06, 2019",China
+CODE|28106,Aloft Columbia Harbison,1719,37818,34380,"04, 2019",USA
+CODE|28071,Aloft Coimbatore Singanallur,724,15204,12308,"06, 2019",IN
+CODE|28036,Aloft Chesapeake,727,14540,11632,"10, 2019",USA
+CODE|28001,Aloft Chennai OMR – IT Expressway,1990,53730,35820,"10, 2019",Not Found
+CODE|27966,Aloft Charlotte Uptown at the EpiCentre,606,13332,10302,"02, 2019",USA
+CODE|27931,Aloft Calgary University,102,3060,2040,"12, 2019",Canada
+CODE|27896,Aloft Bursa Hotel,967,21274,16439,"10, 2019",تركيا
+CODE|27861,Aloft Brussels Schuman,1756,35120,26340,"11, 2019",Belgium
+CODE|27826,Aloft Bolingbrook,1723,39629,29291,"05, 2019",USA
+CODE|27791,Aloft Bogota Airport Hotel,1765,42360,33535,"01, 2019",Colombia
+CODE|27756,Aloft Birmingham Soho Square,160,3520,3040,"03, 2019",USA
+CODE|27721,Aloft Bengaluru Cessna Business Park,1730,39790,25950,"08, 2019",India
+CODE|27686,Aloft Bangkok Sukhumvit 11,505,11110,9595,"01, 2019",تايلاند
+CODE|27651,Aloft Bali Seminyak,336,7728,6720,"02, 2019",Indonesia
+CODE|27616,Aloft Bali Kuta at Beachwalk,751,19526,14269,"11, 2019",Indonesia
+CODE|27581,Aloft Atlanta Downtown,1996,55888,31936,"02, 2019",USA
+CODE|27546,Aloft Asuncion,542,11924,9756,"07, 2019",Paraguay
+CODE|27511,"Aloft Al Mina, Dubai",519,14532,10380,"03, 2019",الإمارات
+CODE|27476,Aloft Al Ain,1691,47348,32129,"03, 2019",الإمارات
+CODE|27441,Aloft Abu Dhabi,145,3190,2610,"07, 2019",UAE
+CODE|27406,Almuñécar Playa Spa Hotel,765,18360,14535,"11, 2019",إسبانيا
+CODE|27371,Al-Mukhtara Al-Gharbi,515,11845,9785,"11, 2019",السعودية
+CODE|27336,Almuhaidb Takhasosi Value,418,8778,7106,"05, 2019",Saudi Arabia
+CODE|27301,Almuhaidb Takhasosi Suites,1253,31325,22554,"07, 2019",Saudi Arabia
+CODE|27266,AlMuhaidb Suwaidy 25,860,24940,16340,"01, 2019",SA
+CODE|27231,Almuhaidb Sudair,908,19976,15436,"04, 2019",السعودية
+CODE|27196,Almuhaidb Salahuddin- Almalaz,1274,34398,24206,"02, 2019",Saudi Arabia
+CODE|27161,Almuhaidb Resort Alhada,185,5180,3700,"06, 2019",السعودية
+CODE|27126,AlMuhaidb Residence Jeddah,308,6160,5544,"10, 2019",Not Found
+CODE|27091,Almuhaidb Residence Ghranta,1905,51435,32385,"01, 2019",Saudi Arabia
+CODE|27056,Almuhaidb Residence Almalaz,949,28470,15184,"04, 2019",Saudi Arabia
+CODE|27021,AlMuhaidb Residence Alkhafji,324,6804,5508,"06, 2019",السعودية
+CODE|26986,Almuhaidb Residence Aldawadmi,644,18676,10304,"05, 2019",Saudi Arabia
+CODE|26951,Almuhaidb Residence Al Jubail,144,3168,2304,"02, 2019",السعودية
+CODE|26916,Almuhaidb Olaya,1951,46824,29265,"01, 2019",السعودية
+CODE|26881,ALmuhaidb Jarir,328,8856,4920,"04, 2019",السعودية
+CODE|26846,AlMuhaidb Furnished Units King Abdulaziz,453,9513,7248,"05, 2019",Saudi Arabia
+CODE|26811,AlMuhaidb For Residential Units- Abaqrino,1063,28701,15945,"07, 2019",Saudi Arabia
+CODE|26776,Almuhaidb Faisaliah Hotel Suites,1982,43604,39640,"01, 2019",Saudi Arabia
+CODE|26741,ALmuhaidb Downtown,1534,41418,24544,"08, 2019",السعودية
+CODE|26706,Almuhaidb Alolaya Kories,1004,20080,18072,"06, 2019",السعودية
+CODE|26671,Almuhaidb Alnarges,46,1380,920,"12, 2019",السعودية
+CODE|26636,AlMuhaidb Almalaz 7,1360,29920,23120,"11, 2019",السعودية
+CODE|26601,Almuhaidb Alkhobar Sea View,1556,34232,23340,"01, 2019",السعودية
+CODE|26566,Almuhaidb Al Takhasosi Hotel,1782,39204,35640,"06, 2019",السعودية
+CODE|26531,Almuhaidb Al Diwan,1879,48854,28185,"10, 2019",السعودية
+CODE|26496,Almoneda,523,15690,8891,"02, 2019",Not Found
+CODE|26461,Almira Otel,306,6120,5508,"02, 2019",تركيا
+CODE|26426,Almina Hotel,1315,31560,23670,"11, 2019",تركيا
+CODE|26391,Almena Hotel,1938,48450,36822,"11, 2019",تركيا
+CODE|26356,Almazino Hotel,1144,26312,19448,"05, 2019",مصر
+CODE|26321,AlmaLusa Baixa/Chiado,738,16236,11070,"11, 2019",Portugal
+CODE|26286,Almacruz Hotel y Centro de Convenciones,110,2750,2200,"11, 2019",Chile
+CODE|26251,Alma Hotel,1379,41370,27580,"03, 2019",اليونان
+CODE|26216,Alma del Lago Suites & SPA,1611,41886,24165,"02, 2019",Argentina
+CODE|26181,AllYouNeed Hotel Vienna4***,1490,38740,26820,"05, 2019",Not Found
+CODE|26146,AllYouNeed Hotel Vienna2***,324,6804,5184,"12, 2019",Not Found
+CODE|26111,AllYouNeed Hotel Klagenfurt***,1417,32591,26923,"12, 2019",Not Found
+CODE|26076,Allure Aroma Mocawa Hotel,590,17110,11800,"11, 2019",Not Found
+CODE|26041,ALL-INN Hotel Frankfurt,1814,50792,29024,"12, 2019",Germany
+CODE|26006,Alliance Hotel Liege - Palais des Congres,154,4004,2464,"02, 2019",Not Found
+CODE|25971,Allegro Playacar,1328,38512,21248,"11, 2019",Mexico
+CODE|25936,Allegro,1505,37625,25585,"02, 2019",Not Found
+CODE|25901,Allaportaccanto Bed & Breakfast,617,18510,9872,"01, 2019",Italy
+CODE|25866,Alla Giustizia,1224,36720,18360,"08, 2019",Not Found
+CODE|25831,All Seasons Hotel,833,22491,14994,"12, 2019",تركيا
+CODE|25796,All Ritmo Cancún Resort & Waterpark,1965,39300,37335,"01, 2019",المكسيك
+CODE|25761,All In Hostel,1736,36456,26040,"10, 2019",Guatemala
+CODE|25726,Alkan Hotel,319,7656,4785,"06, 2019",Turkey
+CODE|25691,Aljadel hotel,123,2583,1845,"09, 2019",السعودية
+CODE|25656,Aliz Hotel Times Square,533,14391,8528,"04, 2019",USA
+CODE|25621,Aliya Resort & Spa,820,21320,15580,"06, 2019",Sri Lanka
+CODE|25586,Alisei Palace Hotel,1791,37611,32238,"12, 2019",Italy
+CODE|25551,Alion Beach Hotel,1973,49325,37487,"07, 2019",Cyprus
+CODE|25516,Alila Jabal Akhdar,84,2268,1344,"05, 2019",Oman
+CODE|25481,Alila Hinu Bay,1232,25872,23408,"05, 2019",Oman
+CODE|25446,Alicante Hills,260,7800,4940,"05, 2019",Spain
+CODE|25411,Alibeyoglu Apart,1908,41976,32436,"06, 2019",تركيا
+CODE|25376,Alia Residence Business Resort,17,493,289,"11, 2019",ماليزيا
+CODE|25341,Ali Pasha Hotel,1199,33572,22781,"01, 2019",مصر
+CODE|25306,Ali Baba Palace,423,12267,6768,"10, 2019",مصر
+CODE|25271,AlHyatt Jeddah Continental Hotel,1334,30682,21344,"05, 2019",السعودية
+CODE|25236,Alhayat Ain El Sokhna,833,20825,14161,"12, 2019",مصر
+CODE|25201,Alhambra Thalasso,279,6696,5301,"09, 2019",تونس
+CODE|25166,Algosaibi Hotel,398,8358,6368,"02, 2019",السعودية
+CODE|25131,Alfred Sommier Hotel,140,3360,2100,"10, 2019",فرنسا
+CODE|25096,Alfaw Plaza Hotel,430,12040,7310,"10, 2019",السعودية
+CODE|25061,ALFAMAR Beach & Sport Resort,710,17040,12070,"01, 2019",Not Found
+CODE|25026,Alexandre Hotel Fira Congress,1650,33000,31350,"04, 2019",Spain
+CODE|24991,Alexandra Hotel,285,8265,5700,"03, 2019",Not Found
+CODE|24956,"Alexandra Barcelona Hotel, Curio Collection by Hilton",1179,28296,20043,"05, 2019",Spain
+CODE|24921,Alexander Thomson Hotel,1375,27500,27500,"01, 2019",UK
+CODE|24886,Alexander the Great Hotel-Alexotel,79,1738,1501,"09, 2019",Egypt
+CODE|24851,aletto Hotel Kudamm,1312,39360,23616,"04, 2019",Germany
+CODE|24816,Alesta Yacht Hotel,1254,27588,20064,"03, 2019",Turkey
+CODE|24781,Alesha Suite,910,27300,14560,"08, 2019",تركيا
+CODE|24746,Alesahne Beach Hotel,1530,41310,24480,"12, 2019",Greece
+CODE|24711,Alertiqaa Hotel,542,11924,8672,"06, 2019",السعودية
+CODE|24676,"Aleph Rome Hotel, Curio Collection by Hilton",243,5103,4617,"03, 2019",Italy
+CODE|24641,Aleph Hotel Istanbul,74,2220,1110,"02, 2019",تركيا
+CODE|24606,"Aleph Doha Residences, Curio Collection by Hilton",106,2226,1696,"08, 2019",Qatar
+CODE|24571,Aleph Boutique Hotel,1558,45182,31160,"08, 2019",لبنان
+CODE|24536,Al-Eiman Al Qebla Hotel,627,16929,9405,"08, 2019",Not Found
+CODE|24501,ALEGRIA Palacio Mojacar,1236,29664,23484,"09, 2019",Spain
+CODE|24466,ALEGRIA Maripins,326,7824,5868,"07, 2019",Spain
+CODE|24431,ALEGRIA Cabo de Gata,193,4632,3667,"08, 2019",Spain
+CODE|24396,Alegria Alzinar Mar Suites,177,4779,2832,"08, 2019",Spain
+CODE|24361,Aleenta Phuket Resort & Spa,418,12122,6270,"09, 2019",تايلاند
+CODE|24326,Alden Luxury Suite Hotel,1375,30250,27500,"09, 2019",Switzerland
+CODE|24291,Aldar Hotel,156,3432,2808,"12, 2019",UAE
+CODE|24256,Al-Dammam Oriental,219,5913,4161,"04, 2019",السعودية
+CODE|24221,Alcúdia Petit Hotel,1912,51624,38240,"03, 2019",Spain
+CODE|24186,Alcron Hotel Prague,805,16905,12880,"08, 2019",Czech Republic
+CODE|24151,ALCAZAR HOTEL & SPA,1368,27360,27360,"01, 2019",البرتغال
+CODE|24116,Albuquerque Marriott Pyramid North,1029,20580,20580,"12, 2019",USA
+CODE|24081,Albufeira Sol Hotel & SPA,959,26852,18221,"10, 2019",Portugal
+CODE|24046,Albilad Jeddah,606,12120,10908,"01, 2019",Not Found
+CODE|24011,Albergue Centre Esplai,902,21648,15334,"03, 2019",إسبانيا
+CODE|23976,Albergo Terminus,494,14326,7904,"12, 2019",Italy
+CODE|23941,Albergo Sextantio Le Grotte Della Civita,547,11487,8205,"08, 2019",Italia
+CODE|23906,Albergo Sant'Emidio,771,16962,11565,"10, 2019",إيطاليا
+CODE|23871,Albergo San Marco,908,24516,15436,"05, 2019",Italy
+CODE|23836,Albergo Renato,898,19756,17062,"09, 2019",Italy
+CODE|23801,Albergo Paradiso,1308,27468,22236,"08, 2019",Italy
+CODE|23766,Albergo Mediterraneo,1197,23940,17955,"03, 2019",Italy
+CODE|23731,Albergo le Due Corti,1882,56460,30112,"10, 2019",إيطاليا
+CODE|23696,Albergo Internazionale SA,1979,49475,37601,"01, 2019",Svizzera
+CODE|23661,Albergo Cavalletto & Doge Orseolo,572,11440,9724,"04, 2019",Italy
+CODE|23626,Albergo Ai due Fanali,1669,41725,25035,"05, 2019",Italy
+CODE|23591,Albatros Sharm Resort - By Pickalbatros,720,17280,12960,"05, 2019",Egypt
+CODE|23556,Albatros Premier Hotel,703,16169,12654,"08, 2019",تركيا
+CODE|23521,Albatros Hotel,1542,40092,29298,"11, 2019",مصر
+CODE|23486,Albatros Hagia Sofia Hotel,669,13380,12711,"08, 2019",تركيا
+CODE|23451,Albatros Citadel Sahl Hashsih,1042,26050,20840,"08, 2019",مصر
+CODE|23416,Albany House,281,5901,5339,"10, 2019",Not Found
+CODE|23381,Albani Hotel Roma,1871,37420,29936,"12, 2019",Italy
+CODE|23346,Alba Hotel Torre Maura,597,13134,11343,"06, 2019",Italy
+CODE|23311,Alba hotel & spa,1572,42444,23580,"03, 2019",أذربيجان
+CODE|23276,Alazhar Palace Hotel,619,18570,11142,"04, 2019",السعودية
+CODE|23241,Alaya Resort Ubud,1008,21168,16128,"04, 2019",Indonesia
+CODE|23206,Alassia Hotel Athens Ξενοδοχείο,372,9672,7068,"01, 2019",Ελλάδα
+CODE|23171,Alasia Hotel,1498,41944,23968,"04, 2019",Cyprus
+CODE|23136,Alanda Hotel Marbella,1798,43152,28768,"01, 2019",Spain
+CODE|23101,AlamKulkul Boutique Resort,238,6426,4046,"11, 2019",إندونيسيا
+CODE|23066,Alam Sembuwuk Resort,362,9774,5792,"04, 2019",إندونيسيا
+CODE|23031,Alam Bidadari Seminyak,307,7368,5526,"11, 2019",Indonesia
+CODE|22996,Alain Hotel Apartments Ajman,483,14490,9660,"10, 2019",UAE
+CODE|22961,Alaaddin Boutique Hotel,497,12922,9443,"05, 2019",Not Found
+CODE|22926,"Al Wathba, a Luxury Collection Desert Resort & Spa, Abu Dhabi",1966,45218,35388,"09, 2019",UAE
+CODE|22891,Al Waleed Palace Hotel Apartments - Al Barsha,696,18792,13920,"03, 2019",Not Found
+CODE|22856,Al Waleed Palace Hotel Apartments,1347,33675,21552,"10, 2019",UAE
+CODE|22821,Al Wadi Hotel,1253,28819,21301,"02, 2019",قطر
+CODE|22786,Al Tayseer Towers Hotel,437,12236,8303,"05, 2019",Saudi Arabia
+CODE|22751,Al Tawfiq Plaza Hotel,1060,31800,20140,"06, 2019",Not Found
+CODE|22716,Al Sultan Hostel,1081,22701,18377,"11, 2019",Jordan
+CODE|22681,Al Sooda Resort,289,6358,4624,"06, 2019",السعودية
+CODE|22646,Al Shourfah Hotel Madinah,676,13520,10140,"09, 2019",Not Found
+CODE|22611,Al Shakreen Golden Tulip,302,6342,6040,"09, 2019",السعودية
+CODE|22576,Al Shahba Hotel,1097,31813,20843,"07, 2019",Not Found
+CODE|22541,Al Seef Resort & Spa by Andalus,639,15975,10863,"05, 2019",الإمارات
+CODE|22506,Al Seef Hotel,708,15576,14160,"07, 2019",الإمارات
+CODE|22471,"Al Seef Heritage Hotel Dubai, Curio Collection by Hilton",21,609,378,"12, 2019",الإمارات
+CODE|22436,Al Sarab Hotel,1775,46150,28400,"10, 2019",الإمارات
+CODE|22401,Al Salam Hotel,43,946,688,"03, 2019",مصر
+CODE|22366,Al Safwah Royale Orchid,1236,28428,23484,"02, 2019",السعودية
+CODE|22331,Al Safwah Hotel,1435,28700,27265,"07, 2019",Saudi Arabia
+CODE|22296,Al Safwa Tower Dar Al Ghufran Hotel,1271,35588,19065,"06, 2019",السعودية
+CODE|22261,Al Safir Residence,180,4320,3600,"07, 2019",البحرين
+CODE|22226,Al Safir Hotel & Tower,984,29520,16728,"06, 2019",البحرين
+CODE|22191,AL Reehan Homes Furnished Units,1111,33330,19998,"10, 2019",Not Found
+CODE|22156,Al Rayah Grand Hotel,59,1357,944,"04, 2019",Not Found
+CODE|22121,Al Raya Suites Manama,738,18450,14760,"05, 2019",البحرين
+CODE|22086,Al Raya Hotel Apartments,1795,44875,34105,"11, 2019",UAE
+CODE|22051,Al Rawda Royal Inn,569,11949,10811,"06, 2019",السعودية
+CODE|22016,Al Rawda Hotel - Al Salama,1211,33908,21798,"07, 2019",Not Found
+CODE|21981,Al Rawda Hotel,221,6630,3757,"02, 2019",السعودية
+CODE|21946,Al Rawda Arjaan By Rotana,89,2492,1780,"10, 2019",الإمارات
+CODE|21911,Al Rashid Residence,807,20982,16140,"06, 2019",السعودية
+CODE|21876,Al Raha Garden Suites,1333,34658,19995,"04, 2019",Not Found
+CODE|21841,Al Raha Beach Hotel,1543,40118,30860,"05, 2019",UAE
+CODE|21806,Al Quba Al Zahabia Furnished Units,432,9072,7344,"11, 2019",Saudi Arabia
+CODE|21771,Al Qasr Metropole Hotel,27,675,486,"12, 2019",الأردن
+CODE|21736,Al Pescatore Hotel & Restaurant,754,22620,15080,"07, 2019",Italy
+CODE|21701,Al Olyan Golden Hotel,1520,33440,24320,"05, 2019",Not Found
+CODE|21666,Al Olayan Al Khalil Makkah Hotel,1647,46116,24705,"02, 2019",Not Found
+CODE|21631,Al Nosour Al Mohajreen Hotel,805,19320,13685,"08, 2019",Not Found
+CODE|21596,Al Noor Hotel Makkah,1398,39144,23766,"06, 2019",السعودية
+CODE|21561,Al Nokhba Royal INN,292,8176,4672,"10, 2019",Not Found
+CODE|21526,Al Nimran Hotel,415,9130,6225,"10, 2019",Not Found
+CODE|21491,Al Nawras Hotel Apartments,1730,44980,31140,"01, 2019",Not Found
+CODE|21456,Al Nakheel Hotel Apartments by Mourouj Gloria,528,11616,7920,"12, 2019",UAE
+CODE|21421,Al Najada Doha Hotel by Tivoli,1743,52290,27888,"03, 2019",Qatar
+CODE|21386,Al Najada Doha Hotel Apartments by Oaks,337,8088,5055,"02, 2019",قطر
+CODE|21351,Al Nabila Hotel,307,8596,6140,"11, 2019",Not Found
+CODE|21316,Al Nabaress Al Macy Hotel,275,6875,5500,"12, 2019",Not Found
+CODE|21281,Al Nabarees Palestine Hotel,717,20076,12906,"11, 2019",Not Found
+CODE|21246,Al Nabarees Palace Hotel,920,21160,16560,"03, 2019",Not Found
+CODE|21211,Al Mutlaq Hotel Riyadh,1121,30267,22420,"08, 2019",السعودية
+CODE|21176,Al Musafer Hotel Riyadh,1833,51324,34827,"12, 2019",Not Found
+CODE|21141,Al Murooj Grand,469,9380,7035,"03, 2019",عُمان
+CODE|21106,Al Murjan Palace Hotel,226,5198,3842,"02, 2019",Lebanon
+CODE|21071,Al Mukhtara International Hotel,780,15600,15600,"08, 2019",Saudi Arabia
+CODE|21036,Al Mukhtara Golden,1720,36120,32680,"10, 2019",السعودية
+CODE|21001,Al Muhaideb Altaif,1026,29754,19494,"02, 2019",Saudi Arabia
+CODE|20966,Al Muhaidb Takhassusi 30,1115,33450,18955,"09, 2019",السعودية
+CODE|20931,Al Muhaidb Tahliya Olaya,805,21735,15295,"10, 2019",السعودية
+CODE|20896,Al Muhaidb Sulaimanya Askary Hospital,1998,57942,37962,"09, 2019",Not Found
+CODE|20861,Al Muhaidb Residence Altakhsosy,1000,23000,19000,"10, 2019",السعودية
+CODE|20826,Al Muhaidb Residence Al Maidan,402,10050,7638,"11, 2019",السعودية
+CODE|20791,Al Muhaidb Residence Al Dowally,1346,34996,25574,"09, 2019",السعودية
+CODE|20756,Al Muhaidb Palastine,691,20039,12438,"07, 2019",السعودية
+CODE|20721,Al Muhaidb Khanshalila,613,14099,11647,"06, 2019",السعودية
+CODE|20686,Al Muhaidb Alghzali Hotel,1625,47125,27625,"08, 2019",Saudi Arabia
+CODE|20651,Al Muhaidb Al Nadwaa,1270,35560,25400,"11, 2019",السعودية
+CODE|20616,Al Muhaidb Al Hamra,360,8640,6480,"09, 2019",Not Found
+CODE|20581,Al Muhaidb Abha Residence,1253,32578,20048,"01, 2019",السعودية
+CODE|20546,Al Muhaidab Residence Al Ahsa,838,24302,15922,"08, 2019",السعودية
+CODE|20511,"Al Messila, a Luxury Collection Resort & Spa, Doha",1163,30238,23260,"12, 2019",Qatar
+CODE|20476,Al Meroz Hotel Bangkok,918,20196,18360,"02, 2019",Thailand
+CODE|20441,Al Mawasem Al Arbaa,1135,29510,21565,"01, 2019",Not Found
+CODE|20406,Al Massa Inn Riyadh,109,2398,2180,"01, 2019",السعودية
+CODE|20371,Al MASSA Hotel,1059,22239,21180,"01, 2019",مصر
+CODE|20336,Al Massa Grand Hotel,1850,42550,31450,"01, 2019",السعودية
+CODE|20301,Al Mashreq Boutique Hotel,563,16890,8445,"11, 2019",السعودية
+CODE|20266,Al Masa Hotel Nasr City,1516,30320,24256,"05, 2019",مصر
+CODE|20231,Al Marwa Rayhaan by Rotana,1488,40176,29760,"12, 2019",السعودية
+CODE|20196,Al Mare Hotel,1330,27930,19950,"08, 2019",اليونان
+CODE|20161,Al Manzil Suites Hotel,1956,58680,37164,"11, 2019",Not Found
+CODE|20126,Al Manzil Residence – Hidd 2,1967,55076,31472,"12, 2019",البحرين
+CODE|20091,Al Manzil Residence – Hidd 1,1218,29232,19488,"08, 2019",البحرين
+CODE|20056,Al Manzil Residence,801,22428,16020,"10, 2019",البحرين
+CODE|20021,Al Manzel Hotel Apartments,1205,27715,24100,"07, 2019",UAE
+CODE|19986,Al Manthia Hotel,633,14559,12027,"04, 2019",إيطاليا
+CODE|19951,"Al Manara, a Luxury Collection Hotel, Saraya Aqaba",1777,37317,26655,"09, 2019",الأردن
+CODE|19916,Al Manar Hotel Apartment,1288,27048,19320,"06, 2019",UAE
+CODE|19881,Al Manar Grand Hotel Apartment,23,552,414,"11, 2019",UAE
+CODE|19846,Al Majaz Premiere Deluxe Hotel Apartment,1197,23940,17955,"02, 2019",الإمارات
+CODE|19811,Al Maha Regency Hotel Suites,1334,30682,26680,"03, 2019",UAE
+CODE|19776,Al Maha International Hotel,478,10994,7170,"04, 2019",عُمان
+CODE|19741,Al Maha Arjaan by Rotana,99,2871,1485,"11, 2019",الإمارات
+CODE|19706,Al Madinah Harmony Hotel,681,18387,10896,"10, 2019",السعودية
+CODE|19671,Al Madina Kareem,1989,47736,35802,"08, 2019",Not Found
+CODE|19636,Al Liwan Suites Doha,1967,53109,39340,"12, 2019",Qatar
+CODE|19601,Al Kiswah Towers Hotel,1396,29316,26524,"09, 2019",السعودية
+CODE|19566,"Al Khoory Inn, Bur Dubai",339,8136,5085,"03, 2019",الإمارات
+CODE|19531,"Al Khoory Hotel Apartments, Al Barsha",523,15167,8368,"04, 2019",الإمارات
+CODE|19496,"Al Khoory Executive Hotel, Al Wasl",1572,37728,23580,"09, 2019",الإمارات
+CODE|19461,Al Khoory Atrium Hotel,464,13920,7888,"07, 2019",الإمارات
+CODE|19426,Al Khaleej Palace Deira Hotel,1900,43700,36100,"09, 2019",الإمارات
+CODE|19391,Al Khaleej Grand Hotel,350,8400,5250,"06, 2019",الإمارات
+CODE|19356,Al Jouri Hotel,1274,36946,19110,"03, 2019",قطر
+CODE|19321,"Al Joud Boutique Hotel, Makkah",316,6320,4740,"10, 2019",السعودية
+CODE|19286,Al Jawhara Metro hotel,562,15736,8430,"11, 2019",الإمارات
+CODE|19251,Al Jawhara Hotel Apartments,740,22200,11100,"10, 2019",UAE
+CODE|19216,Al Jawhara Gardens Hotel,130,2600,2080,"08, 2019",الإمارات
+CODE|19181,Al Jahra Copthorne Hotel & Resort,19,380,323,"08, 2019",الكويت
+CODE|19146,Al Jaddaf Rotana Suite Hotel,973,20433,16541,"06, 2019",الإمارات
+CODE|19111,Al Higgi Hotel,735,16170,13230,"04, 2019",Not Found
+CODE|19076,Al Haram Hotel,639,17892,11502,"08, 2019",Not Found
+CODE|19041,Al Hamra Residence,1735,39905,31230,"11, 2019",الإمارات
+CODE|19006,Al Hamra Palace by Warwick,836,20064,15884,"08, 2019",السعودية
+CODE|18971,Al Hamra Hotel Jeddah Managed by Accorhotels,621,14283,9936,"12, 2019",Saudi Arabia
+CODE|18936,Al Hamra Hotel,966,28014,18354,"07, 2019",الكويت
+CODE|18901,Al Hambra Hotel,1771,35420,35420,"03, 2019",مصر
+CODE|18866,Al Habtoor Polo Resort,812,22736,13804,"02, 2019",الإمارات
+CODE|18831,Al Habala Resort,1774,47898,30158,"06, 2019",السعودية
+CODE|18796,Al Ghufran Safwah Hotel Makkah,324,9072,6480,"10, 2019",السعودية
+CODE|18761,Al Farhan Suites Ishbillia,62,1240,1240,"05, 2019",السعودية
+CODE|18726,Al Farej Hotel,1546,35558,23190,"11, 2019",الإمارات
+CODE|18691,Al Fanar Palace,936,18720,14976,"12, 2019",Not Found
+CODE|18656,Al Falaj Hotel,701,20329,10515,"01, 2019",عُمان
+CODE|18621,Al Fajr Al Badiea 2 Hotel,159,3180,3021,"10, 2019",Not Found
+CODE|18586,"Al Faisaliah Hotel, Riyadh",657,16425,9855,"03, 2019",Saudi Arabia
+CODE|18551,Al Fahad Hotel Suites Al Tahliya,243,6561,4131,"06, 2019",السعودية
+CODE|18516,Al Eman Royal Hotel,1353,40590,25707,"03, 2019",السعودية
+CODE|18481,Al Eiman Ohud Hotel,281,8430,4777,"10, 2019",Not Found
+CODE|18446,Al Ebaa Hotel,1511,34753,30220,"08, 2019",السعودية
+CODE|18411,Al Eairy Furnished Apts Al Madinah 14,1436,43080,28720,"10, 2019",السعودية
+CODE|18376,Al Eairy Furnished Apts Al Madinah 13,993,22839,19860,"01, 2019",السعودية
+CODE|18341,Al Eairy Furnished Apt Al Qunfudhah 3,1662,44874,31578,"12, 2019",Not Found
+CODE|18306,Al Eairy Furnished Apt Al Madinah 3,1682,50460,26912,"11, 2019",السعودية
+CODE|18271,Al Eairy Furnished apt Al Madinah 1,1697,42425,33940,"12, 2019",السعودية
+CODE|18236,Al Eairy Furnished Apartments Tabuk 4,1774,42576,28384,"05, 2019",السعودية
+CODE|18201,Al Eairy Furnished Apartments Tabuk 3,1539,32319,30780,"10, 2019",السعودية
+CODE|18166,Al Eairy Furnished Apartments Riyadh 6,1483,44490,28177,"01, 2019",Saudi Arabia
+CODE|18131,Al Eairy Furnished Apartments Riyadh 5,227,5448,4313,"01, 2019",Saudi Arabia
+CODE|18096,Al Eairy Furnished Apartments Riyadh 3,1396,41880,22336,"12, 2019",السعودية
+CODE|18061,Al Eairy Furnished Apartments Qassim 1,1820,47320,36400,"07, 2019",السعودية
+CODE|18026,Al Eairy Furnished Apartments Nariyah 4,1735,52050,34700,"05, 2019",Saudi Arabia
+CODE|17991,Al Eairy Furnished Apartments Nariyah 2,787,18888,13379,"02, 2019",Not Found
+CODE|17956,Al Eairy Furnished Apartments Nariyah 1,908,26332,18160,"06, 2019",Not Found
+CODE|17921,Al Eairy Furnished Apartments Makkah 3,56,1624,1120,"03, 2019",السعودية
+CODE|17886,Al Eairy Furnished Apartments Jizan 3,780,18720,13260,"02, 2019",Saudi Arabia
+CODE|17851,Al Eairy Furnished Apartments Hail 3,391,8993,7820,"05, 2019",السعودية
+CODE|17816,Al Eairy Furnished Apartments Hail 1,1146,24066,18336,"06, 2019",السعودية
+CODE|17781,Al Eairy Furnished Apartments Dammam 7,693,14553,11088,"02, 2019",السعودية
+CODE|17746,Al Eairy Furnished Apartments Dammam 4,1378,37206,23426,"02, 2019",السعودية
+CODE|17711,Al Eairy Furnished Apartments Dammam 2,587,11740,11153,"01, 2019",السعودية
+CODE|17676,Al Eairy Furnished Apartments Al Madinah 9,690,15870,12420,"08, 2019",السعودية
+CODE|17641,Al Eairy Furnished Apartments - Tabuk 2,1587,31740,30153,"06, 2019",Not Found
+CODE|17606,Al Eairy Furnished Apartments - Jeddah 2,798,19950,15960,"12, 2019",Not Found
+CODE|17571,Al Eairy Furnished Apartments - Jeddah 1,242,6292,3872,"12, 2019",Not Found
+CODE|17536,Al Eairy Furnished Apartments - Al Bahah 4,1209,29016,24180,"05, 2019",Not Found
+CODE|17501,Al Eairy Furnished Apartments - Al Bahah 3,1713,41112,34260,"02, 2019",Not Found
+CODE|17466,Al Eairy Furnished Apartments - Al Bahah 1,1509,42252,27162,"11, 2019",Not Found
+CODE|17431,Al Eairy Apartments Makkah 4,50,1450,850,"05, 2019",السعودية
+CODE|17396,Al Eairy Apartments- Dammam 8,866,23382,14722,"07, 2019",السعودية
+CODE|17361,Al Eairy Apartments Al Taif,1573,42471,28314,"10, 2019",السعودية
+CODE|17326,Al Eairy Apartments - Jeddah 6,888,22200,15984,"12, 2019",Not Found
+CODE|17291,Al Eairy Apartments - Jeddah 5,1472,36800,22080,"01, 2019",Not Found
+CODE|17256,Al Eairy Apartments - Jeddah 4,31,744,620,"01, 2019",Not Found
+CODE|17221,Al Eairy Apartments - Al Madinah 8,1933,44459,32861,"12, 2019",السعودية
+CODE|17186,Al Eairy Apartments - Al Baha 2,978,25428,18582,"06, 2019",Not Found
+CODE|17151,Al Dyafa Hotel Suites,1986,45678,33762,"08, 2019",عُمان
+CODE|17116,Al Diar Sawa Hotel Apartments Abu Dhabi,1292,31008,24548,"06, 2019",UAE
+CODE|17081,Al Diar Mina Hotel,752,22560,12784,"04, 2019",الإمارات
+CODE|17046,Al Diar Dana Hotel,546,15834,10374,"09, 2019",الإمارات
+CODE|17011,Al Diar Capital Hotel,1173,34017,21114,"12, 2019",Not Found
+CODE|16976,Al Diafah Hotel Suites,1806,41538,34314,"01, 2019",Saudi Arabia
+CODE|16941,Al Diafah Apartments Olaya,380,8740,6840,"05, 2019",السعودية
+CODE|16906,Al Deyafa Hotel Apartments,1187,24927,23740,"04, 2019",Oman
+CODE|16871,Al Dana Plaza Hotel Amman,927,25956,15759,"10, 2019",Not Found
+CODE|16836,"Al Bustan Palace, A Ritz-Carlton Hotel",960,26880,15360,"05, 2019",Oman
+CODE|16801,Al Bustan Centre & Residence,205,5535,3075,"03, 2019",UAE
+CODE|16766,Al Buraq Hotel,1212,26664,20604,"05, 2019",Not Found
+CODE|16731,Al Borg Al Watheer,373,8579,7087,"05, 2019",Not Found
+CODE|16696,Al Baron Palace Khobar,544,11968,10880,"06, 2019",Not Found
+CODE|16661,Al Bander Hotel & Resort,712,17800,10680,"02, 2019",البحرين
+CODE|16626,Al Bandar Arjaan - Creek,1368,39672,20520,"12, 2019",الإمارات
+CODE|16591,Al Baleed Resort Salalah by Anantara,999,19980,15984,"11, 2019",Oman
+CODE|16556,Al Balad INN Grand,1063,26575,20197,"01, 2019",Not Found
+CODE|16521,Al Balad Inn Corniche,1827,49329,36540,"10, 2019",السعودية
+CODE|16486,Al Bahjah Hotel,385,11550,7700,"12, 2019",عُمان
+CODE|16451,Al Bahar Hotel & Resort,142,3266,2556,"05, 2019",الإمارات
+CODE|16416,Al Aziziyah Boutique Hotel,1321,39630,25099,"06, 2019",Qatar
+CODE|16381,Al Areen Palace & Spa by Accor,1141,29666,19397,"07, 2019",البحرين
+CODE|16346,Al Aqeeq Palace Arac Hotel Madinah,570,14820,10260,"01, 2019",Not Found
+CODE|16311,Al Aqeeq Madinah Hotel,1301,32525,23418,"12, 2019",السعودية
+CODE|16276,Al Ansar New Palace Hotel,260,5720,4680,"05, 2019",السعودية
+CODE|16241,Al Alamein Hotel,1722,43050,29274,"03, 2019",Egypt
+CODE|16206,Al Ain Rotana,394,8274,6304,"01, 2019",الإمارات
+CODE|16171,Al Ain Palace Hotel,833,22491,16660,"07, 2019",UAE
+CODE|16136,"Al Ahsa InterContinental, an IHG Hotel",1084,28184,16260,"12, 2019",السعودية
+CODE|16101,Aktaion Hotel,271,7046,5420,"02, 2019",Greece
+CODE|16066,Aksular Otel,1623,37329,29214,"07, 2019",تركيا
+CODE|16031,Akra V Hotel,1422,41238,28440,"06, 2019",Turkey
+CODE|15996,Akra Hotel,229,5496,3435,"10, 2019",تركيا
+CODE|15961,Akkadian Boutique Hotel,1366,40980,21856,"05, 2019",Greece
+CODE|15926,AKKA Lush Taksim,276,7176,4692,"04, 2019",تركيا
+CODE|15891,Akka Alinda Hotel,1715,46305,29155,"06, 2019",Turkey
+CODE|15856,Akhasheni Wine Resort,697,13940,12546,"03, 2019",جورجيا
+CODE|15821,Akgun Istanbul Hotel,500,13000,7500,"11, 2019",Turkey
+CODE|15786,Akar International Otel(****),1811,54330,34409,"10, 2019",تركيا
+CODE|15751,"Ajman Saray, a Luxury Collection Resort, Ajman",444,9324,7104,"12, 2019",UAE
+CODE|15716,Ajman Hotel,30,780,540,"01, 2019",الإمارات
+CODE|15681,Ajman Beach Hotel,913,20086,15521,"07, 2019",UAE
+CODE|15646,Ajit Bhawan,22,638,374,"07, 2019",India
+CODE|15611,Ajax Hotel,1024,29696,19456,"03, 2019",قبرص
+CODE|15576,Aisi Hotel,1441,31702,27379,"11, 2019",جورجيا
+CODE|15541,Airy Kuta Kartika Plaza Singosari 18 Bali,96,2880,1824,"07, 2019",ID
+CODE|15506,Airporthotel Verona,1142,25124,17130,"10, 2019",Italy
+CODE|15471,Airport resort and spa,1440,43200,24480,"04, 2019",Thailand
+CODE|15436,Airport Motel Malpensa,437,13110,7429,"07, 2019",Italy
+CODE|15401,Airport Inn Residency,1677,40248,33540,"07, 2019",India
+CODE|15366,Airport Inn Gatwick,1351,33775,21616,"05, 2019",Not Found
+CODE|15331,Airport Hotel Okęcie,177,5133,3186,"04, 2019",Polska
+CODE|15296,Airport Hotel Bergamo,597,12537,11940,"09, 2019",Italy
+CODE|15261,Airotel Stratos Vassilikos Hotel,1670,35070,26720,"11, 2019",Greece
+CODE|15226,Airotel Parthenon,1216,29184,18240,"08, 2019",Greece
+CODE|15191,Airotel Alexandros,935,22440,16830,"12, 2019",Greece
+CODE|15156,Airavatha Residency,701,16824,11917,"12, 2019",India
+CODE|15121,Air Rooms Rome Airport by HelloSky,1969,47256,35442,"11, 2019",Italy
+CODE|15086,Air Boss Otel,1342,28182,25498,"07, 2019",تركيا
+CODE|15051,AinB Eixample Sagrada Familia,615,12915,11070,"05, 2019",Spain
+CODE|15016,AinB Eixample Entença,833,22491,12495,"08, 2019",Spain
+CODE|14981,Ainb Born Via Laietana Apartment,1930,44390,34740,"12, 2019",Spain
+CODE|14946,AinB,419,10894,7123,"05, 2019",Spain
+CODE|14911,Ain Al Faida – Al Ain,310,8680,6200,"09, 2019",Not Found
+CODE|14876,Aim House Bangkok Hotel,1473,30933,27987,"07, 2019",Thailand
+CODE|14841,Aifu Resort,1585,34870,30115,"06, 2019",مصر
+CODE|14806,Aiden by Best Western @ Paris Roissy CDG,1258,32708,25160,"03, 2019",France
+CODE|14771,Aiden by Best Western @ JHD Dunant Hotel,402,9246,7638,"01, 2019",Italy
+CODE|14736,Aiden by Best Western @ Flagstaff,262,7860,4978,"11, 2019",USA
+CODE|14701,Aiden by Best Western @ Darling Harbour,132,3564,1980,"11, 2019",Australia
+CODE|14666,Aiden by Best Western @ Berkeley,1573,31460,26741,"02, 2019",USA
+CODE|14631,Aida Beach Hotel El Alamein,736,19872,11040,"12, 2019",Egypt
+CODE|14596,AI MASSA,486,10206,8262,"09, 2019",مصر
+CODE|14561,aha Urban Park Hotel & Spa,1188,27324,23760,"12, 2019",Not Found
+CODE|14526,aha Inn On The Square,1668,46704,25020,"08, 2019",ZA
+CODE|14491,Aguas de Ibiza Lifestyle & Spa Hotel,1790,35800,30430,"12, 2019",إسبانيا
+CODE|14456,Agua Hotels Vila Branca,121,2904,2057,"11, 2019",Portugal
+CODE|14421,Àgua Hotels Mondim de Basto,158,3476,2370,"11, 2019",Portugal
+CODE|14386,Agua Azul Hotel,1777,35540,31986,"08, 2019",إسبانيا
+CODE|14351,Agora Swiss Night**** By Fassbind,247,6669,4940,"03, 2019",Switzerland
+CODE|14316,Agora Spa & Resort,1264,31600,25280,"07, 2019",إسبانيا
+CODE|14281,Agora Juan De Austria,1095,30660,21900,"06, 2019",Spain
+CODE|14246,agora guesthouse & Hostel,872,24416,14824,"07, 2019",Turkey
+CODE|14211,Agora BCN,1647,49410,27999,"11, 2019",Not Found
+CODE|14176,Agava hotel Tbilisi,370,10360,6660,"12, 2019",Georgia
+CODE|14141,Agape Aparthotel,1739,48692,31302,"03, 2019",Hungary
+CODE|14106,Ağaoğlu My City Hotel,1534,38350,30680,"07, 2019",تركيا
+CODE|14071,Ag Palace Hotel,71,1420,1136,"06, 2019",Ethiopia
+CODE|14036,AG Hotel,1724,34480,27584,"10, 2019",الإمارات
+CODE|14001,Afrodite,1004,28112,16064,"07, 2019",Not Found
+CODE|13966,Africana Hotel & Spa,1695,47460,32205,"01, 2019",مصر
+CODE|13931,Africana Hotel,511,12264,9198,"12, 2019",مصر
+CODE|13896,African Sun Amber Hotel,17,340,323,"06, 2019",Not Found
+CODE|13861,African Regent,304,8816,4560,"04, 2019",Ghana
+CODE|13826,"African Pride Mount Grace Country House & Spa, Autograph Collection",476,12376,9520,"11, 2019",South Africa
+CODE|13791,African Pride Melrose Arch Hotel,610,18300,12200,"04, 2019",South Africa
+CODE|13756,AfricaJade Thalasso,1338,26760,25422,"08, 2019",Tunisia
+CODE|13721,Afraa Hotel,1177,28248,17655,"01, 2019",Saudi Arabia
+CODE|13686,Aferni Hotel,538,15602,10760,"10, 2019",المغرب
+CODE|13651,A'famosa Resort,1350,31050,22950,"03, 2019",Malaysia
+CODE|13616,Aetas Lumpini,1675,33500,28475,"07, 2019",تايلاند
+CODE|13581,Aetas Bangkok,417,9174,6255,"08, 2019",Thailand
+CODE|13546,Aerotel Domodedovo,1289,37381,23202,"02, 2019",Russia
+CODE|13511,Aerotel - Airport Transit Hotel,1550,35650,31000,"05, 2019",Not Found
+CODE|13476,Aerostar,1333,39990,26660,"03, 2019",Not Found
+CODE|13441,Aero44 Hotel Charleroi Airport,1169,33901,22211,"07, 2019",Belgium
+CODE|13406,Aequora Lanzarote Suites (SENTIDO Hotels),1752,40296,29784,"04, 2019",Spain
+CODE|13371,Aeolos Bay Hotel,1186,24906,22534,"11, 2019",Greece
+CODE|13336,Aeolis Tinos Suites,1666,34986,28322,"03, 2019",Greece
+CODE|13301,Aeminium Coimbra Hotel,912,18240,18240,"12, 2019",Portugal
+CODE|13266,Aegli Hotel,539,12397,9702,"01, 2019",اليونان
+CODE|13231,Aegean Plaza Hotel,1818,43632,36360,"07, 2019",Greece
+CODE|13196,ADYA HOTEL LANGKAWI,67,1943,1340,"11, 2019",Malaysia
+CODE|13161,Adriatika,1687,33740,32053,"11, 2019",Not Found
+CODE|13126,Adorno Suites,1807,46982,28912,"12, 2019",Greece
+CODE|13091,Adonis La Baule,761,17503,11415,"01, 2019",France
+CODE|13056,Adonis Hotel,335,9380,5695,"05, 2019",تركيا
+CODE|13021,Admiral Plaza Hotel Dubai,619,15475,10523,"03, 2019",UAE
+CODE|12986,Admiral Hotel Villa Erme,1338,36126,25422,"11, 2019",Italy
+CODE|12951,ADMIRAL HOTEL,1928,57840,32776,"02, 2019",Italy
+CODE|12916,"Admiral Fell Inn, An Ascend Hotel Collection Member",1957,46968,35226,"02, 2019",USA
+CODE|12881,aDLERS Hotel Innsbruck,1826,47476,27390,"06, 2019",Austria
+CODE|12846,Adina Hotel Checkpoint Charlie Berlin,1480,35520,26640,"01, 2019",Germany
+CODE|12811,Adina Apartment Hotel Nuremberg,799,19975,13583,"04, 2019",Germany
+CODE|12776,Adina Apartment Hotel Frankfurt,1198,28752,21564,"01, 2019",Germany
+CODE|12741,Adina Apartment Hotel Berlin Hauptbahnhof,223,4906,4237,"10, 2019",Germany
+CODE|12706,Adimulia Hotel,714,15708,13566,"02, 2019",Not Found
+CODE|12671,Adghir Grand Hotel,1061,25464,16976,"01, 2019",Not Found
+CODE|12636,Aden Bay City Hotel,1822,51016,32796,"12, 2019",Not Found
+CODE|12601,Adelphi Suites Bangkok,38,1064,684,"12, 2019",Thailand
+CODE|12566,Adelmar Hotel,596,13708,11324,"12, 2019",تركيا
+CODE|12531,Address Tower Hotel,713,21390,13547,"07, 2019",Not Found
+CODE|12496,Address Sky View Hotel,1304,33904,19560,"02, 2019",UAE
+CODE|12461,Address Montgomerie,463,13890,6945,"03, 2019",UAE
+CODE|12426,Address Marassi Golf Resort,120,3600,2040,"12, 2019",Egypt
+CODE|12391,Address Jabal Omar Makkah,791,20566,12656,"01, 2019",السعودية
+CODE|12356,Address Istanbul,1096,28496,21920,"05, 2019",تركيا
+CODE|12321,Address Grand Creek Harbour,873,20952,14841,"06, 2019",UAE
+CODE|12286,Address Fountain Views,159,3816,3180,"11, 2019",الإمارات
+CODE|12251,Address Dubai Marina,1109,25507,21071,"04, 2019",UAE
+CODE|12216,Address Dubai Mall Residences,1788,41124,33972,"02, 2019",UAE
+CODE|12181,Address Dubai Mall,1121,25783,21299,"12, 2019",الإمارات
+CODE|12146,Address Downtown,817,18791,15523,"10, 2019",UAE
+CODE|12111,Address Beach Resort Fujairah,420,12600,7980,"08, 2019",الإمارات
+CODE|12076,Address Beach Resort Bahrain,943,24518,17917,"09, 2019",Bahrain
+CODE|12041,Address Beach Resort,307,6140,5526,"08, 2019",الإمارات
+CODE|12006,Address Al Hamra,39,936,624,"08, 2019",السعودية
+CODE|11971,Addplus Hotel & Spa,631,15144,12620,"09, 2019",تايلاند
+CODE|11936,Adana HiltonSA,959,23975,18221,"02, 2019",تركيا
+CODE|11901,Adams Beach Hotel,134,3484,2144,"05, 2019",قبرص
+CODE|11866,Adamant Suites,206,4944,3090,"05, 2019",Greece
+CODE|11831,Adam Park Marrakech Hotel Spa,1359,38052,23103,"02, 2019",المغرب
+CODE|11796,Adam & Eve - Adult Only,1439,41731,25902,"08, 2019",Turkey
+CODE|11761,Adagio Premium Aparthotel,970,24250,19400,"12, 2019",الإمارات
+CODE|11726,Adagio Jeddah City Center,1134,28350,18144,"02, 2019",السعودية
+CODE|11691,Adagio Genève Saint Genis Pouilly,1724,46548,27584,"10, 2019",France
+CODE|11656,Adagio Aparthotel Paris Porte de Charenton,732,17568,12444,"05, 2019",فرنسا
+CODE|11621,Adagio Aparthotel Bordeaux Rodesse,751,16522,15020,"12, 2019",فرنسا
+CODE|11586,Adaaran Select Meedhupparu,1685,37070,28645,"12, 2019",المالديف
+CODE|11551,Adaaran Select Hudhuran Fushi,1198,26356,21564,"08, 2019",المالديف
+CODE|11516,Adaaran Prestige Water Villas,743,18575,11145,"05, 2019",المالديف
+CODE|11481,Adaaran Prestige Vadoo,659,17793,13180,"10, 2019",المالديف
+CODE|11446,Ad Place Venice,1003,26078,20060,"02, 2019",Italy
+CODE|11411,Ad Lib Bangkok,1959,47016,33303,"11, 2019",Thailand
+CODE|11376,Action Hotel Ras Al Khaimah,1984,43648,35712,"07, 2019",الإمارات
+CODE|11341,Acroterra Rosa,667,18009,12673,"01, 2019",Grecia
+CODE|11306,Acropolis View Hotel,1921,42262,38420,"11, 2019",Greece
+CODE|11271,Acropolis Select Hotel,158,4266,2844,"08, 2019",Greece
+CODE|11236,Acropolis Museum Boutique Hotel,837,21762,15903,"11, 2019",Greece
+CODE|11201,Acropolis Hôtel Paris Boulogne ***,666,19980,11988,"03, 2019",France
+CODE|11166,Acropolis Hill Hotel,1513,45390,28747,"12, 2019",Greece
+CODE|11131,Acropolis Ami Boutique Hotel,416,10400,8320,"03, 2019",Greece
+CODE|11096,Acropole Hotel Tunis,940,27260,17860,"12, 2019",تونس
+CODE|11061,Acqua Viva,295,8260,5900,"01, 2019",مصر
+CODE|11026,"Acoya Curacao Resort, Villas & Spa",1736,43400,26040,"03, 2019",Not Found
+CODE|10991,acora Hotel und Wohnen Karlsruhe,1266,25320,25320,"04, 2019",Deutschland
+CODE|10956,acora Hotel und Wohnen,1890,56700,28350,"10, 2019",Deutschland
+CODE|10921,Aconquija Hostería,791,16611,14238,"05, 2019",Not Found
+CODE|10886,ACME Hotel Company,1733,46791,32927,"10, 2019",USA
+CODE|10851,Achillion Palace Ξενοδοχείο,785,17270,14915,"04, 2019",Ελλάδα
+CODE|10816,Achillion Hotel,1882,54578,31994,"01, 2019",Greece
+CODE|10781,Achievers Airport Hotel,750,15750,12750,"03, 2019",Philippines
+CODE|10746,ACHAT Premium Dortmund/Bochum,1462,38012,26316,"03, 2019",ألمانيا
+CODE|10711,ACHAT Plaza Frankfurt/ Offenbach,1004,29116,16064,"04, 2019",ألمانيا
+CODE|10676,ACHAT Hotel München Süd,689,15847,11024,"07, 2019",Deutschland
+CODE|10641,Accra City Hotel,1200,25200,22800,"01, 2019",Ghana
+CODE|10606,Accor Palace Hotel,1062,29736,20178,"03, 2019",Saudi Arabia
+CODE|10571,Access Apartments Paddington,1549,43372,30980,"01, 2019",Not Found
+CODE|10536,Accent Inns Burnaby,444,12876,7992,"11, 2019",Canada
+CODE|10501,Acca Patong,120,2400,2400,"07, 2019",Not Found
+CODE|10466,Acappella Suite Hotel,789,16569,13413,"11, 2019",Malaysia
+CODE|10431,"Academia of Athens, Autograph Collection",212,5724,4240,"06, 2019",Greece
+CODE|10396,Acacia Hotel Manila,668,16032,10688,"09, 2019",Philippines
+CODE|10361,"AC Palacio Del Retiro, Autograph Collection",62,1674,1178,"11, 2019",إسبانيا
+CODE|10326,"AC Palacio De Santa Paula, Autograph Collection",987,25662,19740,"06, 2019",Spain
+CODE|10291,AC Murcia Hotel,1091,30548,21820,"09, 2019",إسبانيا
+CODE|10256,AC Hotel Zaragoza Los Enlaces,1037,31110,20740,"01, 2019",España
+CODE|10221,AC Hotel Zamora,719,21570,12223,"02, 2019",Spain
+CODE|10186,AC Hotel Victoria Suites,1075,27950,16125,"08, 2019",Spain
+CODE|10151,AC Hotel Valencia,996,19920,19920,"04, 2019",Spain
+CODE|10116,AC Hotel Tarragona,1734,48552,34680,"11, 2019",Spain
+CODE|10081,AC Hotel Som,1946,58380,36974,"05, 2019",Spain
+CODE|10046,AC Hotel Sevilla Torneo,417,8340,6255,"03, 2019",Spain
+CODE|10011,AC Hotel Sevilla Forum,829,19896,12435,"09, 2019",Spain
+CODE|9976,AC Hotel Sants,1177,27071,17655,"02, 2019",Spain
+CODE|9941,AC Hotel Santiago Costanera Center,1427,42810,25686,"11, 2019",Chile
+CODE|9906,AC Hotel Santa Marta,1146,29796,17190,"03, 2019",Colombia
+CODE|9871,AC Hotel Santa Fe,719,17256,12223,"01, 2019",Mexico
+CODE|9836,AC Hotel Sant Cugat,1294,38820,25880,"03, 2019",Spain
+CODE|9801,AC Hotel San Sebastian de los Reyes,1507,45210,30140,"10, 2019",Spain
+CODE|9766,AC Hotel San Juan Condado,256,6144,4352,"05, 2019",Puerto Rico
+CODE|9731,AC Hotel Recoletos,1533,45990,24528,"08, 2019",إسبانيا
+CODE|9696,AC Hotel Raleigh North Hills,1890,54810,28350,"07, 2019",USA
+CODE|9661,AC Hotel Porto,1852,37040,29632,"01, 2019",Portugal
+CODE|9626,AC Hotel Ponferrada,998,20958,19960,"11, 2019",Spain
+CODE|9591,AC Hotel Pisa,629,14467,10064,"02, 2019",Italy
+CODE|9556,AC Hotel Paris Porte Maillot,473,12771,8041,"07, 2019",France
+CODE|9556,AC Hotel Paris Porte Maillot,473,12771,8041,"07, 2019",France
+CODE|9556,AC Hotel Paris Porte Maillot,473,12771,8041,"07, 2019",France
+CODE|9556,AC Hotel Paris Porte Maillot,473,12771,8041,"07, 2019",France
+CODE|9521,AC Hotel Palencia,194,5820,2910,"10, 2019",Spain
+CODE|9521,AC Hotel Palencia,194,5820,2910,"10, 2019",Spain
+CODE|9521,AC Hotel Palencia,194,5820,2910,"10, 2019",Spain
+CODE|9521,AC Hotel Palencia,194,5820,2910,"10, 2019",Spain
+CODE|9486,AC Hotel Palau de Bellavista,759,18975,12903,"11, 2019",Spain
+CODE|9486,AC Hotel Palau de Bellavista,759,18975,12903,"11, 2019",Spain
+CODE|9486,AC Hotel Palau de Bellavista,759,18975,12903,"11, 2019",Spain
+CODE|9486,AC Hotel Palau de Bellavista,759,18975,12903,"11, 2019",Spain
+CODE|9451,AC Hotel Palacio Universal,466,10252,8854,"01, 2019",Spain
+CODE|9416,AC Hotel Palacio de Santa Ana,1014,28392,19266,"10, 2019",إسبانيا
+CODE|9381,AC Hotel Padova,1331,39930,19965,"01, 2019",Italy
+CODE|9346,AC Hotel Oviedo Forum,1037,25925,18666,"02, 2019",Spain
+CODE|9311,AC Hotel Nice,717,15057,11472,"01, 2019",فرنسا
+CODE|9276,AC Hotel New York Times Square,692,13840,13840,"01, 2019",USA
+CODE|9241,AC Hotel New York Downtown,543,13032,9774,"09, 2019",USA
+CODE|9206,AC Hotel New Orleans Bourbon/French Quarter Area,1165,30290,23300,"05, 2019",USA
+CODE|9171,"AC Hotel National Harbor Washington, DC Area",1604,46516,24060,"03, 2019",USA
+CODE|9136,AC Hotel Minneapolis West End,1905,45720,32385,"10, 2019",USA
+CODE|9101,AC Hotel Milano,15,375,300,"09, 2019",Italy
+CODE|9066,AC Hotel Miami Beach,1517,37925,25789,"06, 2019",USA
+CODE|9031,AC Hotel Miami Aventura,1377,28917,20655,"09, 2019",USA
+CODE|8996,AC Hotel Marseille Velodrome,278,7228,4726,"07, 2019",فرنسا
+CODE|8961,AC Hotel Manchester Salford Quays,1542,43176,27756,"07, 2019",UK
+CODE|8926,AC Hotel Málaga Palacio,462,10164,8316,"11, 2019",إسبانيا
+CODE|8891,AC Hotel Madrid Feria,1856,53824,31552,"11, 2019",Spain
+CODE|8856,AC Hotel Madison Downtown,739,22170,14041,"04, 2019",USA
+CODE|8821,AC Hotel Los Vascos,1981,39620,37639,"04, 2019",Spain
+CODE|8786,AC Hotel Lima Miraflores,1220,24400,21960,"02, 2019",بيرو
+CODE|8751,AC Hotel Leon San Antonio,1616,37168,32320,"01, 2019",Spain
+CODE|8716,AC Hotel La Rioja,464,12992,6960,"05, 2019",Spain
+CODE|8681,AC Hotel La Linea,1861,37220,33498,"04, 2019",Spain
+CODE|8646,"AC Hotel Kingston, Jamaica",1160,32480,20880,"06, 2019",Jamaica
+CODE|8611,AC Hotel Istanbul Macka,760,15960,13680,"05, 2019",تركيا
+CODE|8576,AC Hotel Irla,1163,33727,17445,"05, 2019",Spain
+CODE|8541,AC Hotel Iberia Las Palmas,1896,49296,30336,"08, 2019",Spain
+CODE|8506,AC Hotel Huelva,253,6072,4554,"12, 2019",إسبانيا
+CODE|8471,AC Hotel Guadalajara,1249,24980,24980,"05, 2019",المكسيك
+CODE|8436,AC Hotel Gran Canaria,701,14020,12618,"07, 2019",Spain
+CODE|8401,AC Hotel Gijón,590,15930,11800,"09, 2019",Spain
+CODE|8366,AC Hotel Genova,826,18172,14868,"11, 2019",Italy
+CODE|8331,AC Hotel General Alava,281,7306,5058,"10, 2019",Spain
+CODE|8296,AC Hotel Gava Mar,1656,48024,28152,"03, 2019",إسبانيا
+CODE|8261,AC Hotel Firenze,1059,24357,19062,"09, 2019",إيطاليا
+CODE|8226,AC Hotel Elda,1653,36366,33060,"01, 2019",إسبانيا
+CODE|8191,AC Hotel Diagonal L´Illa,986,27608,19720,"08, 2019",إسبانيا
+CODE|8156,AC Hotel Denver Downtown,970,28130,18430,"11, 2019",USA
+CODE|8121,AC Hotel Cuzco,1545,33990,26265,"09, 2019",Spain
+CODE|8086,AC Hotel Coslada Aeropuerto,650,14950,13000,"02, 2019",إسبانيا
+CODE|8051,AC Hotel Cordoba,1428,35700,25704,"12, 2019",إسبانيا
+CODE|8016,AC Hotel Colon Valencia,785,18840,13345,"03, 2019",Spain
+CODE|7981,AC Hotel Ciutat de Palma,1007,26182,18126,"09, 2019",Spain
+CODE|7946,AC Hotel Ciudad de Tudela,1788,35760,26820,"10, 2019",España
+CODE|7911,AC Hotel Ciudad de Toledo,433,12557,8660,"11, 2019",España
+CODE|7876,AC Hotel Ciudad de Sevilla,604,16912,10872,"08, 2019",España
+CODE|7841,AC Hotel Ciudad de Pamplona,1391,36166,20865,"09, 2019",Not Found
+CODE|7806,AC Hotel Cincinnati at Liberty Center,660,17820,11220,"07, 2019",USA
+CODE|7771,AC Hotel Chicago Downtown,1106,27650,17696,"03, 2019",USA
+CODE|7736,AC Hotel Carlton Madrid,1067,23474,16005,"12, 2019",Spain
+CODE|7701,AC Hotel Cape Town Waterfront,1594,33474,25504,"08, 2019",South Africa
+CODE|7666,AC Hotel by Marriott Penang,90,2340,1710,"03, 2019",Malaysia
+CODE|7631,AC Hotel by Marriott Montreal Downtown,500,10500,8000,"02, 2019",Canada
+CODE|7596,AC Hotel by Marriott Milan Sesto,1513,39338,22695,"12, 2019",Italy
+CODE|7561,AC Hotel by Marriott Manchester City Centre,726,15972,10890,"05, 2019",UK
+CODE|7526,AC Hotel by Marriott Bratislava Old Town,1376,39904,20640,"11, 2019",Slovakia
+CODE|7491,AC Hotel Burgos,201,5628,4020,"12, 2019",إسبانيا
+CODE|7456,AC Hotel Boston Downtown,317,8876,5706,"10, 2019",USA
+CODE|7421,AC Hotel Bologna by Marriott,348,9396,6960,"11, 2019",Italy
+CODE|7386,AC Hotel Birmingham,848,25440,12720,"10, 2019",UK
+CODE|7351,AC Hotel Berlin Humboldthain Park,1239,26019,23541,"08, 2019",Germany
+CODE|7316,AC Hotel Bella Sky Copenhagen,480,12960,8160,"06, 2019",Denmark
+CODE|7281,AC Hotel Belfast,1573,37752,28314,"04, 2019",UK
+CODE|7246,AC Hotel Barcelona Forum,141,3102,2256,"06, 2019",Spain
+CODE|7211,AC Hotel Badajoz,811,24330,13787,"03, 2019",Spain
+CODE|7176,AC Hotel Avenida de America,1574,45646,29906,"01, 2019",Spain
+CODE|7141,AC Hotel Atocha,802,21654,12832,"08, 2019",Spain
+CODE|7106,AC Hotel Asheville Downtown,1053,31590,21060,"08, 2019",USA
+CODE|7071,AC Hotel Arezzo,1264,29072,18960,"03, 2019",Italy
+CODE|7036,AC Hotel Aravaca,1410,35250,25380,"08, 2019",Spain
+CODE|7001,AC Hôtel Ambassadeur Antibes - Juan-les-Pins,106,2544,2120,"08, 2019",France
+CODE|6966,AC Hotel Almeria,1568,36064,25088,"11, 2019",إسبانيا
+CODE|6931,AC Hotel Alicante,908,20884,13620,"02, 2019",Spain
+CODE|6896,AC Hotel Algeciras,1575,44100,23625,"08, 2019",Spain
+CODE|6861,AC Hotel Alcala de Henares,911,19131,15487,"01, 2019",إسبانيا
+CODE|6826,AC Hotel Aitana,64,1664,1216,"01, 2019",Spain
+CODE|6791,AC Hotel A Coruna,1131,26013,20358,"04, 2019",Spain
+CODE|6756,Abyssinia Guest House No. 1,1449,37674,21735,"03, 2019",Not Found
+CODE|6721,Absolute Twin Sands Resort & Spa,1770,40710,28320,"12, 2019",تايلاند
+CODE|6686,Absolut Mykonos Suites & More,1842,42366,34998,"07, 2019",اليونان
+CODE|6651,Absalon Hotel,284,7100,4260,"03, 2019",Denmark
+CODE|6616,Abs Bintang Guesthouse,1735,39905,29495,"08, 2019",Not Found
+CODE|6581,Abraj Al Ehsan Towers,1745,50605,31410,"10, 2019",Not Found
+CODE|6546,Abracadabra Suites,1957,56753,33269,"05, 2019",إسبانيا
+CODE|6511,Abora Interclub Atlantic by Lopesan Hotels,1381,38668,22096,"09, 2019",Spain
+CODE|6476,Abora Continental by Lopesan Hotels,1543,37032,30860,"08, 2019",Spain
+CODE|6441,Abora Catarina by Lopesan Hotels,1631,45668,26096,"12, 2019",Spain
+CODE|6406,Abora Buenaventura by Lopesan Hotels,1869,39249,29904,"01, 2019",Spain
+CODE|6371,Abjar Grand Hotel,1245,31125,21165,"07, 2019",الإمارات
+CODE|6336,ABION Villa,1308,26160,24852,"07, 2019",Germany
+CODE|6301,Abidos Hotel Apartment Dubailand,119,2499,1785,"04, 2019",UAE
+CODE|6266,Abidos Hotel Apartment Al Barsha,568,12496,9656,"04, 2019",UAE
+CODE|6231,Abha Palace,526,15780,7890,"07, 2019",السعودية
+CODE|6196,Abha Hotel,657,15768,10512,"06, 2019",Not Found
+CODE|6161,Abha Airport Hotel,1388,41640,23596,"03, 2019",Saudi Arabia
+CODE|6126,Aberdeen Marriott Hotel,1060,24380,19080,"04, 2019",UK
+CODE|6091,Aber Unayzah,1572,44016,31440,"02, 2019",السعودية
+CODE|6056,Aber Khamis Mushait,1833,54990,27495,"07, 2019",السعودية
+CODE|6021,Aber City Center,82,2214,2530,"11, 2019",السعودية
+CODE|5986,Aber Bani Amr,810,17820,14580,"04, 2019",السعودية
+CODE|5951,Aber Al Yasmin,1509,40743,27162,"09, 2019",السعودية
+CODE|5916,Aber Al Takhasusi,1123,30321,20214,"10, 2019",السعودية
+CODE|5881,Aber Abha,868,21700,17360,"09, 2019",Not Found
+CODE|5846,Aber 103 Al Munisyah,394,9456,7880,"10, 2019",السعودية
+CODE|5811,Aber 102,568,11928,10224,"08, 2019",السعودية
+CODE|5776,Abelux,260,6500,4420,"11, 2019",Spain
+CODE|5741,ABELLA HOTEL,804,21708,14472,"05, 2019",اليونان
+CODE|5706,Abella Guest Rooms & Apartments,443,11075,7974,"04, 2019",Poland
+CODE|5671,ABC Hyde Park Hotel,1578,31560,26826,"05, 2019",UK
+CODE|5636,ABC Hotel,1995,53865,29925,"08, 2019",اليونان
+CODE|5601,Abbaye De Talloires,232,5800,3480,"12, 2019",فرنسا
+CODE|5566,Abbadetta Hotel San Benedetto del Tronto,338,8450,5746,"04, 2019",Not Found
+CODE|5531,Abba Sants Hotel,448,12544,6720,"09, 2019",Spain
+CODE|5496,Abba Rambla Hotel,1434,30114,22944,"01, 2019",Spain
+CODE|5461,Abba Garden Hotel,100,2000,1900,"10, 2019",Spain
+CODE|5426,abba Formigal Hotel,39,975,624,"04, 2019",Spain
+CODE|5391,Abba Fonseca Hotel,1664,41600,33280,"01, 2019",Spain
+CODE|5356,Abba Berlin Hotel,272,7072,5168,"02, 2019",Germany
+CODE|5321,Abant Palace Hotel,470,14100,7520,"09, 2019",تركيا
+CODE|5286,Abano Ritz Hotel Terme,1638,45864,29484,"09, 2019",Italy
+CODE|5251,ABACUS Tierpark Hotel,1505,30100,24080,"10, 2019",Germany
+CODE|5216,Aanari Hotel & Spa,261,5220,4959,"05, 2019",Mauritius
+CODE|5181,A.Venue,1766,45916,26490,"11, 2019",Not Found
+CODE|5146,A&O Wien Hauptbahnhof,795,21465,14310,"02, 2019",Austria
+CODE|5111,A&O Prag Metro Strizkov,446,11150,8474,"12, 2019",Not Found
+CODE|5076,A&O München Hackerbrücke,1570,37680,31400,"08, 2019",Deutschland
+CODE|5041,a&o Frankfurt Ostend,1739,43475,34780,"02, 2019",Germany
+CODE|5006,A&O Frankfurt Galluswarte,619,16713,9904,"01, 2019",Germany
+CODE|4971,A&O Berlin Kolumbus,832,24960,14976,"08, 2019",Germany
+CODE|4936,A&O Berlin Friedrichshain,1082,24886,19476,"02, 2019",Germany
+CODE|4901,A&A GuestHouse,89,2225,1513,"11, 2019",South Africa
+CODE|4866,A Plus Residence,523,12029,9414,"05, 2019",تركيا
+CODE|4831,9Hotel Republique,149,3725,5000,"03, 2019",France
+CODE|4796,9HOTEL OPERA,473,13244,8987,"10, 2019",فرنسا
+CODE|4761,9HOTEL MONTPARNASSE,1062,23364,15930,"07, 2019",Not Found
+CODE|4726,9HOTEL MERCY,1871,54259,31807,"07, 2019",Portugal
+CODE|4691,987 Design Hotel Prague,1966,55048,37354,"12, 2019",Czech Republic
+CODE|4656,7Stones Boracay Suites,1273,29279,22914,"05, 2019",Philippines
+CODE|4621,7Q Patong Beach Hotel,180,4860,3060,"10, 2019",Thailand
+CODE|4586,71 Nyhavn Hotel,746,16412,11190,"05, 2019",الدنمارك
+CODE|4551,7 Islas Hotel Madrid,1592,31840,30248,"11, 2019",Spain
+CODE|4516,54 on Bath,1485,44550,22275,"09, 2019",South Africa
+CODE|4481,45 Times Square Hotel,219,4599,4380,"12, 2019",USA
+CODE|4446,45 Park Lane,1380,27600,26220,"07, 2019",المملكة المتحدة
+CODE|4411,43 Station Hotel,1690,33800,30420,"12, 2019",Italy
+CODE|4376,3HB Guarana - All Inclusive,1980,41580,29700,"12, 2019",البرتغال
+CODE|4341,3HB Falésia Garden,1658,43108,26528,"07, 2019",Portugal
+CODE|4306,3B's Barranco Chic & Basic Hotel,597,16716,11940,"09, 2019",Peru
+CODE|4271,38 Aira Hotels,727,20356,11632,"10, 2019",Italy
+CODE|4236,360 Hostel Barcelona,1127,33810,16905,"06, 2019",Spain
+CODE|4201,30 Degrees  Hotel Pineda Splash,758,15918,14402,"10, 2019",Spain
+CODE|4166,30 Bencoolen,704,18304,11968,"12, 2019",Singapore
+CODE|4131,25hours Hotel The Goldman,439,8780,7463,"05, 2019",Germany
+CODE|4096,25hours Hotel One Central,162,3564,2430,"06, 2019",الإمارات
+CODE|4061,25hours Hotel Das Tour,1042,21882,18756,"07, 2019",Germany
+CODE|4026,25hours Hotel Bikini Berlin,891,24948,15147,"12, 2019",Germany
+CODE|3991,24hours Apartment Hotel,1054,22134,17918,"04, 2019",Austria
+CODE|3956,2.5.4 Ole - Sereni,605,16940,12100,"08, 2019",Kenya
+CODE|3921,196 Bishopsgate,388,9312,6596,"10, 2019",UK
+CODE|3886,1920s Boutique Hotel and Restaurants,288,7488,4608,"10, 2019",Egypt
+CODE|3851,1898 Hotel Colonia En Las Filipinas,1850,46250,37000,"09, 2019",الفلبين
+CODE|3816,1866 Court & Suites,506,15180,7590,"04, 2019",Lebanon
+CODE|3781,18 Suite - Villa Loft @ Kuta Bali,881,23787,13215,"01, 2019",إندونيسيا
+CODE|3746,"17 West Hotel, Ascend Hotel Collection",1012,27324,15180,"06, 2019",USA
+CODE|3711,"15 On Orange Hotel, Autograph Collection",1860,44640,31620,"02, 2019",South Africa
+CODE|3676,130 Hotel & Residence Bangkok,1676,36872,26816,"12, 2019",Thailand
+CODE|3641,12 Revay Hotel,489,13203,7824,"07, 2019",Hungary
+CODE|3606,10GR Hotel & Wine Bar,1404,32292,21060,"04, 2019",Greece
+CODE|3571,101 Hotel Bintulu,920,25760,17480,"12, 2019",Malaysia
+CODE|3536,"100 Queen's Gate Hotel London, Curio Collection by Hilton",442,13260,7072,"07, 2019",المملكة المتحدة
+CODE|3501,10 Karakoy Istanbul,1958,54824,37202,"08, 2019",تركيا
+CODE|3466,10 Karaköy A Morgans Original,354,7788,5664,"04, 2019",Turkey
+CODE|3431,1 Hotel West Hollywood,1661,46508,31559,"01, 2019",USA
+CODE|3396,1 Hotel South Beach,1853,42619,35207,"08, 2019",USA
+CODE|3361,1 Hotel Kuchai Lama,1522,38050,24352,"11, 2019",ماليزيا
+CODE|3326,@home guest house,1769,44225,33611,"09, 2019",South Africa
+CODE|3291,*** GRAND AS HOTEL ***,1366,27320,24588,"12, 2019",Turkey
+CODE|3256,#bunk Hotel,4,108,180,"07, 2019",Netherlands
+CODE|3221, Zhejiang Taizhou Marriott Hotel,849,17829,16980,"03, 2019",China
+CODE|3186, Waterloo Hub Hotel & Suites,1504,42112,25568,"02, 2019",UK
+CODE|3151, TownePlace Suites Denver South/Lone Tree,1085,30380,21700,"03, 2019",USA
+CODE|3116, TOLIP Golden Plaza,1882,56460,35758,"07, 2019",مصر
+CODE|3081," The Ritz-Carlton Tenerife, Abama",509,10689,8144,"06, 2019",Spain
+CODE|3046, The Ritz-Carlton Executive Residences,1035,26910,15525,"12, 2019",UAE
+CODE|3011, The Nature Phuket,246,6150,4182,"02, 2019",تايلاند
+CODE|2976," The Midland Hotel, Sure Hotel Collection by Best Western",654,17004,9810,"02, 2019",UK
+CODE|2941, The Hub Middletown Red Bank- Best Western Signature Collection,1097,28522,17552,"06, 2019",USA
+CODE|2906, SureStayPlus Hotel by Best Western San Jose Central City,1045,28215,19855,"04, 2019",USA
+CODE|2871, SureStay Hotel by Best Western Secaucus Meadowlands,584,16936,8760,"12, 2019",USA
+CODE|2836, SureStay Hotel by Best Western Santa Monica,700,16100,13300,"12, 2019",USA
+CODE|2801, SureStay Hotel by Best Western San Rafael,1639,40975,24585,"07, 2019",USA
+CODE|2766, SureStay Hotel by Best Western Castro Valley,597,14925,11343,"10, 2019",أمريكا
+CODE|2731," Sulià House Porto Rotondo, Curio Collection by Hilton",1566,37584,28188,"10, 2019",Italy
+CODE|2696, Somerset Westview Nairobi,916,23816,18320,"03, 2019",Kenya
+CODE|2661, Sofitel Winter Palace Luxor Hotel,1976,43472,39520,"01, 2019",Egypt
+CODE|2626, Sheraton Moscow Sheremetyevo Airport Hotel,549,12078,13200,"10, 2019",Not Found
+CODE|2591, Sanctuary Hotel New York,1941,58230,32997,"05, 2019",USA
+CODE|2556," Royal Palm South Beach Miami, a Tribute Portfolio Resort",119,2975,2380,"02, 2019",USA
+CODE|2521, Royal Ivory Hotel,1183,30758,21294,"01, 2019",تايلاند
+CODE|2486, Ramada Suites Kuala Lumpur City Centre,1780,44500,26700,"02, 2019",Malaysia
+CODE|2451, Radisson Blu Plaza Hotel Delhi Airport,1294,36232,19410,"05, 2019",India
+CODE|2416, Radisson Blu Hotel Bucharest,1950,52650,35100,"09, 2019",Romania
+CODE|2381, Q Suites Jeddah by EWA,736,19872,11040,"12, 2019",السعودية
+CODE|2346, Protea Hotel Windhoek Fürstenhof,1363,39527,24534,"06, 2019",ناميبيا
+CODE|2311, Protea Hotel Pretoria Loftus Park,1920,38400,34560,"06, 2019",South Africa
+CODE|2276, Protea Hotel Cape Town Cape Castle,62,1364,1116,"10, 2019",Not Found
+CODE|2241, Oriente Atiram,1455,32010,23280,"03, 2019",Spain
+CODE|2206, Novotel Bangkok Silom Road Hotel,1855,50085,37100,"09, 2019",Thailand
+CODE|2171, Moxy Tbilisi,1581,41106,28458,"02, 2019",جورجيا
+CODE|2136, Mövenpick Hotel & Casino Cairo-Media City,162,4212,2430,"12, 2019",Egypt
+CODE|2101, Mercure Jakarta Sabang,1192,29800,21456,"11, 2019",Indonesia
+CODE|2066, Mercure Istanbul Bakirkoy,1312,35424,24928,"08, 2019",تركيا
+CODE|2031, Mercer Hotel Downtown; BW Premier Collection,1749,48972,27984,"12, 2019",Canada
+CODE|1996, Marriott Riyadh Diplomatic Quarter,1136,23856,20448,"10, 2019",Saudi Arabia
+CODE|1961, Leonardo Hotel Barcelona Gran Via,1953,48825,29295,"10, 2019",Spain
+CODE|1926, Le Snow Lodge Boutique Hotel,1324,29128,22508,"09, 2019",فرنسا
+CODE|1891, Le Régina Biarritz Hotel & Spa - MGallery,1972,39440,35496,"05, 2019",فرنسا
+CODE|1856, LABRANDA Targa Club Aqua Parc,1188,29700,20196,"09, 2019",المغرب
+CODE|1821, LABRANDA Sandy Beach,870,17400,13920,"03, 2019",Greece
+CODE|1786, La Sommità Relais,1,28,16,"07, 2019",Italy
+CODE|1751, Jambuluwuk Oceano Seminyak,1632,39168,32640,"06, 2019",Indonesia
+CODE|1716," ITC Windsor, a Luxury Collection Hotel, Bengaluru",400,8800,8000,"09, 2019",India
+CODE|1681, iH Hotels Bologna Amadeus,664,18592,11952,"07, 2019",Italy
+CODE|1646, ibis Styles London Gloucester Road Hotel,893,22325,16074,"03, 2019",UK
+CODE|1611, Ibis Styles Berlin Treptow Hotel,1655,34755,29790,"09, 2019",Germany
+CODE|1576, ibis Styles Bali Denpasar Hotel,1712,39376,25680,"06, 2019",Indonesia
+CODE|1541, ibis Styles Aix Les Bains Domaine de Marlioz Hotel,1939,58170,32963,"08, 2019",France
+CODE|1506, ibis Paris Alesia Montparnasse 14th Hotel,678,16272,13560,"09, 2019",France
+CODE|1471, ibis Istanbul West Hotel,1921,51867,28815,"08, 2019",Turkey
+CODE|1436, ibis Istanbul Esenyurt,1704,49416,34080,"03, 2019",تركيا
+CODE|1401, Ibis Bangkok Sukhumvit 24 Hotel,1068,25632,21360,"03, 2019",تايلاند
+CODE|1366, Hotel Villa Romana Hotel & Spa,894,22350,16986,"02, 2019",Italy
+CODE|1331," Hôtel de Berri, a Luxury Collection Hotel, Paris",191,4011,3438,"06, 2019",France
+CODE|1296, Hotel Costa Diva,321,7062,6099,"03, 2019",إيطاليا
+CODE|1261, Holiday Villa Hotel and Residence City Centre Doha,1916,40236,38320,"12, 2019",Qatar
+CODE|1226, Grand Park Royal Cozumel,1934,58020,36746,"04, 2019",Mexico
+CODE|1191, Four Points by Sheraton Jeddah Corniche,327,7848,4905,"03, 2019",السعودية
+CODE|1156, Four Points by Sheraton Auckland,877,19294,14909,"02, 2019",New Zealand
+CODE|1121, Fairfield by Marriott Curitiba Afonso Pena Airport,1532,30640,30640,"06, 2019",Brazil
+CODE|1086, Eleven Hotel Bangkok,19,380,342,"03, 2019",تايلاند
+CODE|1051, Dreams Beach Sharm el Sheikh,749,21721,14231,"10, 2019",مصر
+CODE|1016," Devero Hotel & Spa, BW Signature Collection",525,13650,8925,"04, 2019",Italy
+CODE|981, Dara Hotel Qurtubah,489,14670,7824,"05, 2019",Saudi Arabia
+CODE|946, Conrad Koh Samui Residences,1100,29700,20900,"02, 2019",Thailand
+CODE|946, Conrad Koh Samui Residences,1100,29700,20900,"02, 2019",Thailand
+CODE|946, Conrad Koh Samui Residences,1100,29700,20900,"02, 2019",Thailand
+CODE|946, Conrad Koh Samui Residences,1100,29700,20900,"02, 2019",Thailand
+CODE|911," Castle Green Hotel In Kendal, BW Premier Collection",592,14800,9472,"11, 2019",UK
+CODE|876, Casa Alberola Alicante Curio Collection by Hilton,1180,23600,18880,"04, 2019",Spain
+CODE|841, Cape Town Marriott Hotel Crystal Towers,1801,48627,32418,"01, 2019",South Africa
+CODE|806," Cambridge Bar Hill Hotel, BW Signature Collection",1651,39624,31369,"05, 2019",UK
+CODE|771, Bricks Airport Hotel Istanbul,513,14364,8208,"12, 2019",Turkey
+CODE|736, Brandywine Plaza Hotel - SureStay Collection by Best Western,496,10416,8432,"12, 2019",أمريكا
+CODE|701," Bournemouth Carlton Hotel, BW Signature Collection",1095,27375,16425,"03, 2019",UK
+CODE|666, Best Western Sonoma Winegrower's Inn,1155,27720,20790,"12, 2019",USA
+CODE|631, Best Western Snowflake Inn,1892,56760,32164,"10, 2019",USA
+CODE|596, Best Western Premier Batumi,726,18150,11616,"03, 2019",Georgia
+CODE|561, Best Western Plus Sun Canyon,981,29430,18639,"09, 2019",USA
+CODE|526, Best Western Plus Plaza Berlin Kufurstendamm,1714,39422,29138,"11, 2019",ألمانيا
+CODE|491, Best Western Plus McAllen Airport Hotel,1490,35760,26820,"01, 2019",USA
+CODE|69581, Best Western Orlando Theme Parks,1369,35594,20535,"03, 2019",USA
+CODE|69546, Best Western Melbourne City,1085,23870,20615,"07, 2019",Australia
+CODE|69511," Bandara Villas, Phuket",718,21540,13642,"01, 2019",تايلاند
+CODE|69476," Aristocrat Hotel, BW Signature Collection",1541,32361,24656,"05, 2019",USA
+CODE|69441, Arcadia Surabaya Hotel,1900,49400,32300,"05, 2019",Not Found
+CODE|69406, Amwaj Oyoun Resort & Spa,908,26332,15436,"10, 2019",مصر
+CODE|69371, Amarterra Villas Bali Nusa Dua - MGallery,759,21252,11385,"11, 2019",Indonesia
+CODE|69336, Al Salam Grand Hotel,98,2156,1666,"03, 2019",عُمان
+CODE|176, Al Quba Al Thahbia Hotel Suites 2,993,19860,17874,"06, 2019",السعودية
+CODE|141, Al Hail Waves Hotel,31,682,589,"01, 2019",Oman
+CODE|106, Al Eairy Furnished Apartments Tabuk 6,1097,26328,21940,"04, 2019",السعودية
+CODE|71, Al Bandar Rotana,29,638,435,"11, 2019",الإمارات
+CODE|36, Aiden by Best Western @ Scottsdale North,495,14850,8910,"09, 2019",USA
+CODE|1, Adagio Aparthotel Jeddah Malik Road,1033,24792,17561,"04, 2019",Saudi Arabia
